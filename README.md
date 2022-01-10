@@ -47,6 +47,8 @@ Please send any comments or questions to Michael Muller, [michael_muller@us.ibm.
 **Charles Martin** is a Lecturer in Computer Science at the Australian National University. Charles works at the intersection of music, AI/ML and HCI. He studies how humans can interact creatively with intelligent computing systems and how such systems might fit in the real world. Charles has organised multiple generative-AI-focused workshops at the New Interfaces for Musical Expression conference.
  
 **Michael Muller** is a Research Scientist at IBM Research in Cambridge MA USA. With colleagues, he has analyzed how domain experts make use of generative AI outcomes, and how humans intervene between "the data" and "the model" as aspects of responsible and accountable data science work. He has co-organized workshops on human centered data science at CHI, CSCW, and GROUP conferences, and a workshop on human centered AI at a NeurIPS conference.
+
+**Greg Walsh** is an associate professor at the University of Baltimore where he teaches courses in Design. He is an interaction design researcher who focuses on user-centered, inclusive design for children and adults. His work seeks to include more voices in the design process and has been a recipient of a prestigious Google Faculty Research Award. His work has included participatory design sessions in Baltimore City libraries and is now exploring the use of generative AI as a co-design partner.
  
 
 
