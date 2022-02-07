@@ -1,5 +1,7 @@
-![https://hotpot.ai/s/art-maker/328/NlsTsvTWqXjign6Q4CKMg2hDhOP2]({% link people-at-workshop.png %})
-(Created with Hotpot.ai CC BY-NC 4.0)
+<figure>
+ ![https://hotpot.ai/s/art-maker/328/NlsTsvTWqXjign6Q4CKMg2hDhOP2]({% link people-at-workshop.png %})
+ <figcaption>(Created with Hotpot.ai CC BY-NC 4.0)</figcaption>
+</figure>
 
 ## Outline
 
