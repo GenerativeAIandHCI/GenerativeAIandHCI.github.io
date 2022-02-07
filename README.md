@@ -1,5 +1,5 @@
 <figure>
- ![https://hotpot.ai/s/art-maker/328/NlsTsvTWqXjign6Q4CKMg2hDhOP2]({% link people-at-workshop.png %})
+ <a href="https://hotpot.ai/s/art-maker/328/NlsTsvTWqXjign6Q4CKMg2hDhOP2"><img src="{% link people-at-workshop.png %}"></a>
  <figcaption>(Created with Hotpot.ai CC BY-NC 4.0)</figcaption>
 </figure>
 
