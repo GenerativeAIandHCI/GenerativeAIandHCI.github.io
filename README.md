@@ -3,7 +3,7 @@
 Generative AI and HCI is a Workshop as part of [CHI 2022](https://chi2022.acm.org)
 
 - **Venue**: Online
-- **Workshop Date**: 10 May 2022
+- **Workshop Date**: 10 May 2022 (precise times TBA)
 - **Submission Deadline**: 24 February 2022 AoE
 - **Submission Website**: [EasyChair](https://easychair.org/my/conference?conf=genaichi2022)
 - **Submission Templates**: [ACM Template](https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references)
