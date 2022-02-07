@@ -1,3 +1,6 @@
+![https://hotpot.ai/s/art-maker/328/NlsTsvTWqXjign6Q4CKMg2hDhOP2]({% link people-at-workshop.png %})
+(Created with Hotpot.ai CC BY-NC 4.0)
+
 ## Outline
 
 Generative AI and HCI is a Workshop as part of [CHI 2022](https://chi2022.acm.org)
