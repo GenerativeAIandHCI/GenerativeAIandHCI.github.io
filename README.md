@@ -47,7 +47,7 @@ As above, we encourage people to add new topics and domains.
 
 Submissions may be up to four pages long (references may appear on additional pages), following the CHI 2022 instructions at https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/ .
 
-The deadline for submissions is 24 February 2022 AoE (i.e., 23:59pm in the latest timezone on the planet).
+The deadline for submissions is 9 March 2022 AoE (i.e., 23:59pm in the latest timezone on the planet).
 
 Please make your submission via EasyChair at [https://easychair.org/my/conference?conf=genaichi2022](https://easychair.org/my/conference?conf=genaichi2022).
 
