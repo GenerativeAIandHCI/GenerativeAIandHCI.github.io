@@ -19,27 +19,35 @@ Fooling Justin Bieber into picking a fight with Tom Cruise, completing Beethoven
 
 ## Session 1 10 May 2022 8:00-10:00 UTC
 
-### Art+Culture
+### Welcome
 
 ### Co-Creativity
 
-### Coding and Co-Coding
-
 ### Establishing Common Ground
 
-## Sessoin 2 10 May 2022 16:00-18:00 UTC
+### Coding and Co-Coding
+
+### Art+Culture
+
+### Closing
+
+## Session 2 10 May 2022 16:00-18:00 UTC
+
+### Welcome
 
 ### Control or Not
 
 ### Language
 
-### Measurement
-
 ### Small Data
+
+### Measurement
 
 ### Speculating+Designing
 
-## Call for Participation
+### Closing
+
+# Call for Participation
 
 Generative AI can be defined as an AI system that uses existing media to create new, plausible media. This scope is broad, and the generative potential of AI systems varies greatly. Over the last decade, we have seen a shift in methodology, moving from expert systems based on patterns and heavy human curating towards stochastic and generative models such as Generative Adversarial Networks (GANs) that use big data to produce convincingly human-like results in various domains.
 
