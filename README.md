@@ -15,6 +15,30 @@ Generative AI and HCI is a Workshop as part of [CHI 2022](https://chi2022.acm.or
 
 Fooling Justin Bieber into picking a fight with Tom Cruise, completing Beethoven’s unfinished "SymphonyNo. 10", and developing fake faces for stock photography are some of the results that Artificial Intelligence (AI) systems have recently brought to the world. What all of these examples have in common is that the AI does not simply categorize data and interpret text as determined by models, but instead it creates something new. This moves the purpose of AI systems from problem solving to problem finding. In this workshop we focus on various aspects of Generative AI (GenAI) and its interactions with humans, including the design of systems based on GenAI, ethical issues related to their design and use, and useful patterns for collaboration between humans and GenAI in different domains.
 
+# Program
+
+## Session 1 10 May 2022 8:00-10:00 UTC
+
+### Art+Culture
+
+### Co-Creativity
+
+### Coding and Co-Coding
+
+### Establishing Common Ground
+
+## Sessoin 2 10 May 2022 16:00-18:00 UTC
+
+### Control or Not
+
+### Language
+
+### Measurement
+
+### Small Data
+
+### Speculating+Designing
+
 ## Call for Participation
 
 Generative AI can be defined as an AI system that uses existing media to create new, plausible media. This scope is broad, and the generative potential of AI systems varies greatly. Over the last decade, we have seen a shift in methodology, moving from expert systems based on patterns and heavy human curating towards stochastic and generative models such as Generative Adversarial Networks (GANs) that use big data to produce convincingly human-like results in various domains.
