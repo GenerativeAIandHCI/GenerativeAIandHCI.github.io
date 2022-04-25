@@ -23,6 +23,21 @@ Fooling Justin Bieber into picking a fight with Tom Cruise, completing Beethoven
 
 ### Co-Creativity
 
+**Angel Hsing-Chi Hwang**
+Why or Why Not: Barriers of Adopting Generative AI in Human-AI Co-Creativity [link]
+
+**Corey Ford and Nick Bryan-Kinns**
+Speculating on Reflection and People's Music Co-Creation with AI
+
+**Imke Grabe and Jichen Zhu** 
+Towards Co-Creative Generative Adversarial Networks for Fashion Designers
+
+**Jeba Rezwana and Mary Lou Maher** 
+Identifying Ethical Issues in AI Partners in Human-AI Co-Creation
+
+**Mary Lou Maher, Brian Magerko, Dan Ventura, Douglas Fisher, Rogelio Cardona-Rivera, Nancy Fulda, John Gero, Minwoo Lee, David Wilson and James C. Kaufman** 
+A Research Plan for Integrating Generative and Cognitive AI for Human Centered, Explainable Co-Creative AI
+
 ### Establishing Common Ground
 
 ### Coding and Co-Coding
