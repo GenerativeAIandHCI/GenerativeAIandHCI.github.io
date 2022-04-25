@@ -24,7 +24,7 @@ Fooling Justin Bieber into picking a fight with Tom Cruise, completing Beethoven
 ### Co-Creativity
 
 **Angel Hsing-Chi Hwang**
-Why or Why Not: Barriers of Adopting Generative AI in Human-AI Co-Creativity [link]
+Why or Why Not: Barriers of Adopting Generative AI in Human-AI Co-Creativity [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_32.pdf)
 
 **Corey Ford and Nick Bryan-Kinns**
 Speculating on Reflection and People's Music Co-Creation with AI
