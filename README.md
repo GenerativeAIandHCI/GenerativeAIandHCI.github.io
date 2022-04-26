@@ -70,13 +70,52 @@ Emotional Synchrony and Generative Art in Interactive Multisensory Environments 
 
 ### Control or Not
 
+**Benedikte Wallace and Charles P Martin**
+Embodying the Glitch: Perspectives on Generative AI in Dance Practice [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_28.pdf)
+
+**Daniel Bisig and Ephraim Wegner**
+Puppeteering AI - Interactive Control of an Artificial Dancer[link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_4.pdf)
+
+**Rupert Parry and Caroline Pegram**
+Perception of control in generative AI music user interfaces[link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_11.pdf)
+
+**Ryan Louie, Jesse Engel and Anna Huang**
+A Unified Evaluation of Expressive Generative Models andSteerable Interfaces for Music Creation [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_24.pdf)
+
 ### Language
+
+**Frederic Gmeiner, Kenneth Holstein and Nikolas Martelaro**
+Team Learning as a Lens for Designing Human–AI Co-Creative Systems [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_22.pdf)
+
+**Katy Gero, Vivian Liu and Lydia Chilton**
+Sparks: Inspiration for Science Writing using Language Models [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_17.pdf)
 
 ### Small Data
 
+**Gabriel Vigliensoni, Phoenix Perry and Rebecca Fiebrink**
+A Small-Data Mindset for Generative AI Creative Work [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_14.pdf)
+
+**Hai Dang, Lukas Mecke, Florian Lehmann, Sven Goller and Daniel Buschek**
+How to Prompt? Opportunities and Challenges of Zero- and Few-Shot Learning for Human-AI Interaction in Creative Applications of Generative Models [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_6.pdf)
+
 ### Measurement
 
+**Carlos Hernandez-Olivan, Jorge Abadías Puyuelo and Jose R. Beltran**
+Subjective Evaluation of Deep Learning Models for Symbolic Music Composition [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_3.pdf)
+
+**Katy Gero**
+How do we audit generative algorithms? [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_18.pdf)
+
 ### Speculating+Designing
+
+**Andre Holzapfel, Petra Jääskeläinen and Anna-Kaisa Kaila**
+Environmental and Social Sustainability of Creative-Ai [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_2.pdf)
+
+**Nur Yildirim**
+Emergent HCI Approaches to Envisioning with Generative AI Capabilities [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_27.pdf)
+
+**Sarah Cooney**
+Generative AI as a Tool for Speculative Urban Futures [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_20.pdf)
 
 ### Closing
 
