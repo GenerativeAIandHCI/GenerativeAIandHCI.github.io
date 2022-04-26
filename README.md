@@ -29,11 +29,11 @@ Why or Why Not: Barriers of Adopting Generative AI in Human-AI Co-Creativity [li
 **Corey Ford and Nick Bryan-Kinns.**
 Speculating on Reflection and People's Music Co-Creation with AI [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_15.pdf)
 
-**Imke Grabe and Jichen Zhu.** 
-Towards Co-Creative Generative Adversarial Networks for Fashion Designers [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_30.pdf)
-
 **Jeba Rezwana and Mary Lou Maher.** 
 Identifying Ethical Issues in AI Partners in Human-AI Co-Creation [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_26.pdf)
+
+**Imke Grabe and Jichen Zhu.** 
+Towards Co-Creative Generative Adversarial Networks for Fashion Designers [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_30.pdf)
 
 **Mary Lou Maher, Brian Magerko, Dan Ventura, Douglas Fisher, Rogelio Cardona-Rivera, Nancy Fulda, John Gero, Minwoo Lee, David Wilson and James C. Kaufman.** 
 A Research Plan for Integrating Generative and Cognitive AI for Human Centered, Explainable Co-Creative AI [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_21.pdf)
