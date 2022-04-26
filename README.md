@@ -74,10 +74,10 @@ Emotional Synchrony and Generative Art in Interactive Multisensory Environments 
 Embodying the Glitch: Perspectives on Generative AI in Dance Practice [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_28.pdf)
 
 **Daniel Bisig and Ephraim Wegner**
-Puppeteering AI - Interactive Control of an Artificial Dancer[link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_4.pdf)
+Puppeteering AI - Interactive Control of an Artificial Dancer [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_4.pdf)
 
 **Rupert Parry and Caroline Pegram**
-Perception of control in generative AI music user interfaces[link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_11.pdf)
+Perception of control in generative AI music user interfaces [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_11.pdf)
 
 **Ryan Louie, Jesse Engel and Anna Huang**
 A Unified Evaluation of Expressive Generative Models andSteerable Interfaces for Music Creation [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_24.pdf)
