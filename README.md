@@ -3,7 +3,7 @@
  <figcaption>(Created with Hotpot.ai CC BY-NC 4.0)</figcaption>
 </figure>
 
-## Outline
+# Outline
 
 Generative AI and HCI is a Workshop as part of [CHI 2022](https://chi2022.acm.org)
 
@@ -157,7 +157,7 @@ Please make your submission via EasyChair at [https://easychair.org/my/conferenc
 
 Please send any comments or questions to Michael Muller, [michael_muller@us.ibm.com](michael_muller@us.ibm.com).
 
-## Organizers
+# Organizers
 
 **Lydia B. Chilton** is an Assistant Professor in the Computer Science Department at Columbia University. She is an early pioneer in decomposing complex tasks so that crowds and computers can solve them together. Her current research is in computational design - how computation and AI can help people with design, innovation and creative problem solving. Applications include: conveying a message within an image for journalism and advertising, developing technology for public libraries, improving risk communication during hurricanes, and helping scientists explain their work on Twitter.
  
