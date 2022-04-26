@@ -23,43 +23,43 @@ Fooling Justin Bieber into picking a fight with Tom Cruise, completing Beethoven
 
 ### Co-Creativity
 
-**Angel Hsing-Chi Hwang**
+**Angel Hsing-Chi Hwang.**
 Why or Why Not: Barriers of Adopting Generative AI in Human-AI Co-Creativity [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_32.pdf)
 
-**Corey Ford and Nick Bryan-Kinns**
+**Corey Ford and Nick Bryan-Kinns.**
 Speculating on Reflection and People's Music Co-Creation with AI [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_15.pdf)
 
-**Imke Grabe and Jichen Zhu** 
+**Imke Grabe and Jichen Zhu.** 
 Towards Co-Creative Generative Adversarial Networks for Fashion Designers [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_30.pdf)
 
-**Jeba Rezwana and Mary Lou Maher** 
+**Jeba Rezwana and Mary Lou Maher.** 
 Identifying Ethical Issues in AI Partners in Human-AI Co-Creation [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_26.pdf)
 
-**Mary Lou Maher, Brian Magerko, Dan Ventura, Douglas Fisher, Rogelio Cardona-Rivera, Nancy Fulda, John Gero, Minwoo Lee, David Wilson and James C. Kaufman** 
+**Mary Lou Maher, Brian Magerko, Dan Ventura, Douglas Fisher, Rogelio Cardona-Rivera, Nancy Fulda, John Gero, Minwoo Lee, David Wilson and James C. Kaufman.** 
 A Research Plan for Integrating Generative and Cognitive AI for Human Centered, Explainable Co-Creative AI [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_21.pdf)
 
 ### Establishing Common Ground
 
-**Aaron Jackson, Vivian Liu and Lydia Chilton**
+**Aaron Jackson, Vivian Liu and Lydia Chilton.**
 Analyzing the Cultural Relevance of AI Generated Art [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_23.pdf)
 
-**Rodolfo Ocampo, Oliver Bown and Kazjon Grace**
+**Rodolfo Ocampo, Oliver Bown and Kazjon Grace.**
 A Framework for Dialogue-Based Human-AI Creative Collaboration [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_25.pdf)
 
 ### Coding and Co-Coding
 
-**Elizabeth Wilson, George Fazekas and Geraint Wiggins**
+**Elizabeth Wilson, George Fazekas and Geraint Wiggins.**
 Co-Creativity with a Musical AI Agent in Live Coding [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_29.pdf)
 
-**Jakob Tholander and Martin Jonsson**
+**Jakob Tholander and Martin Jonsson.**
 Co-coding with AI in creative programming education [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_33%20.pdf)
 
 ### Art+Culture
 
-**Bob Sturm**
+**Bob Sturm.**
 Generative AI helps one express things for which they may not have expressions (yet) [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_1.pdf)
 
-**Mattia Gianotti, Andrea Rotella, Mariagiovanna Di Iorio, Fabiano Riccardi, Francesco Vona and Franca Garzotto**
+**Mattia Gianotti, Andrea Rotella, Mariagiovanna Di Iorio, Fabiano Riccardi, Francesco Vona and Franca Garzotto.**
 Emotional Synchrony and Generative Art in Interactive Multisensory Environments [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_16.pdf)
 
 ### Closing
@@ -70,51 +70,51 @@ Emotional Synchrony and Generative Art in Interactive Multisensory Environments 
 
 ### Control or Not
 
-**Benedikte Wallace and Charles P Martin**
+**Benedikte Wallace and Charles P Martin.**
 Embodying the Glitch: Perspectives on Generative AI in Dance Practice [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_28.pdf)
 
-**Daniel Bisig and Ephraim Wegner**
+**Daniel Bisig and Ephraim Wegner.**
 Puppeteering AI - Interactive Control of an Artificial Dancer [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_4.pdf)
 
-**Rupert Parry and Caroline Pegram**
+**Rupert Parry and Caroline Pegram.**
 Perception of control in generative AI music user interfaces [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_11.pdf)
 
-**Ryan Louie, Jesse Engel and Anna Huang**
+**Ryan Louie, Jesse Engel and Anna Huang.**
 A Unified Evaluation of Expressive Generative Models andSteerable Interfaces for Music Creation [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_24.pdf)
 
 ### Language
 
-**Frederic Gmeiner, Kenneth Holstein and Nikolas Martelaro**
+**Frederic Gmeiner, Kenneth Holstein and Nikolas Martelaro.**
 Team Learning as a Lens for Designing Human–AI Co-Creative Systems [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_22.pdf)
 
-**Katy Gero, Vivian Liu and Lydia Chilton**
+**Katy Gero, Vivian Liu and Lydia Chilton.**
 Sparks: Inspiration for Science Writing using Language Models [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_17.pdf)
 
 ### Small Data
 
-**Gabriel Vigliensoni, Phoenix Perry and Rebecca Fiebrink**
+**Gabriel Vigliensoni, Phoenix Perry and Rebecca Fiebrink.**
 A Small-Data Mindset for Generative AI Creative Work [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_14.pdf)
 
-**Hai Dang, Lukas Mecke, Florian Lehmann, Sven Goller and Daniel Buschek**
+**Hai Dang, Lukas Mecke, Florian Lehmann, Sven Goller and Daniel Buschek.**
 How to Prompt? Opportunities and Challenges of Zero- and Few-Shot Learning for Human-AI Interaction in Creative Applications of Generative Models [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_6.pdf)
 
 ### Measurement
 
-**Carlos Hernandez-Olivan, Jorge Abadías Puyuelo and Jose R. Beltran**
+**Carlos Hernandez-Olivan, Jorge Abadías Puyuelo and Jose R. Beltran.**
 Subjective Evaluation of Deep Learning Models for Symbolic Music Composition [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_3.pdf)
 
-**Katy Gero**
+**Katy Gero.**
 How do we audit generative algorithms? [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_18.pdf)
 
 ### Speculating+Designing
 
-**Andre Holzapfel, Petra Jääskeläinen and Anna-Kaisa Kaila**
+**Andre Holzapfel, Petra Jääskeläinen and Anna-Kaisa Kaila.**
 Environmental and Social Sustainability of Creative-Ai [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_2.pdf)
 
-**Nur Yildirim**
+**Nur Yildirim.**
 Emergent HCI Approaches to Envisioning with Generative AI Capabilities [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_27.pdf)
 
-**Sarah Cooney**
+**Sarah Cooney.**
 Generative AI as a Tool for Speculative Urban Futures [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_20.pdf)
 
 ### Closing
