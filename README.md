@@ -40,9 +40,27 @@ A Research Plan for Integrating Generative and Cognitive AI for Human Centered, 
 
 ### Establishing Common Ground
 
+**Aaron Jackson, Vivian Liu and Lydia Chilton**
+Analyzing the Cultural Relevance of AI Generated Art [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_23.pdf)
+
+**Rodolfo Ocampo, Oliver Bown and Kazjon Grace**
+A Framework for Dialogue-Based Human-AI Creative Collaboration [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_25.pdf)
+
 ### Coding and Co-Coding
 
+**Elizabeth Wilson, George Fazekas and Geraint Wiggins**
+Co-Creativity with a Musical AI Agent in Live Coding [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_29.pdf)
+
+**Jakob Tholander and Martin Jonsson**
+Co-coding with AI in creative programming education [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_33%20.pdf)
+
 ### Art+Culture
+
+**Bob Sturm**
+Generative AI helps one express things for which they may not have expressions (yet) [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_1.pdf)
+
+**Mattia Gianotti, Andrea Rotella, Mariagiovanna Di Iorio, Fabiano Riccardi, Francesco Vona and Franca Garzotto**
+Emotional Synchrony and Generative Art in Interactive Multisensory Environments [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/GenAICHI_2022_paper_16.pdf)
 
 ### Closing
 
