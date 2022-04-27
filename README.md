@@ -35,7 +35,7 @@ Identifying Ethical Issues in AI Partners in Human-AI Co-Creation
 **Imke Grabe and Jichen Zhu.** 
 Towards Co-Creative Generative Adversarial Networks for Fashion Designers 
 
-**Mary Lou Maher, Brian Magerko, Dan Ventura, Douglas Fisher, Rogelio Cardona-Rivera, Nancy Fulda, John Gero, Minwoo Lee, David Wilson and James C. Kaufman.** 
+**Mary Lou Maher, Brian Magerko, Dan Venura, Douglas Fisher, Rogelio E. Cardona-Rivera, Nancy Fulda, John Gero, Minwoo Lee, David Wilson, James C. Kaufman, Maithilee Kunda, Michael Muller, Rachel K.E. Bellamy, Maya Ackerman, Evangelia Chrysikou.** 
 A Research Plan for Integrating Generative and Cognitive AI for Human Centered, Explainable Co-Creative AI 
 
 ### Establishing Common Ground
