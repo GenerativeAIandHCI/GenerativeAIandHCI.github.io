@@ -5,17 +5,19 @@
 
 # Outline
 
-Generative AI and HCI is a Workshop as part of [CHI 2022](https://chi2022.acm.org)
+Generative AI and HCI is a Workshop as part of [CHI 2023](https://chi2023.acm.org)
 
-- **Venue**: Online
-- **Workshop Date**: 10 May 2022 (precise times TBA)
-- **Submission Deadline**: 9 March 2022 AoE
-- **Submission Website**: [EasyChair](https://easychair.org/my/conference?conf=genaichi2022)
-- **Submission Templates**: [ACM Template](https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
+- **Venue**: TBA
+- **Workshop Date**: TBA
+- **Submission Deadline**: TBA
+- **Submission Website**: TBA
+- **Submission Templates**: [ACM Template](https://chi2023.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
 
 Fooling Justin Bieber into picking a fight with Tom Cruise, completing Beethoven’s unfinished "SymphonyNo. 10", and developing fake faces for stock photography are some of the results that Artificial Intelligence (AI) systems have recently brought to the world. What all of these examples have in common is that the AI does not simply categorize data and interpret text as determined by models, but instead it creates something new. This moves the purpose of AI systems from problem solving to problem finding. In this workshop we focus on various aspects of Generative AI (GenAI) and its interactions with humans, including the design of systems based on GenAI, ethical issues related to their design and use, and useful patterns for collaboration between humans and GenAI in different domains.
 
-# Program
+Note: [The Generative AI and HCI 2022](https://generativeaiandhci.github.io/2022) program has now been archived. 
+
+<!-- # Program
 
 ## Session 1 10 May 2022 8:00-10:00 UTC
 
@@ -117,7 +119,7 @@ Emergent HCI Approaches to Envisioning with Generative AI Capabilities
 **Sarah Cooney.**
 Generative AI as a Tool for Speculative Urban Futures 
 
-### Closing
+### Closing -->
 
 # Call for Participation
 
