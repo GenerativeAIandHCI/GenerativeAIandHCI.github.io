@@ -14,7 +14,26 @@ Generative AI and HCI is a Workshop as part of [CHI 2023](https://chi2023.acm.or
 - **Submission Website**: TBA
 - **Submission Templates**: [ACM Template](https://chi2023.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
 
-Fooling Justin Bieber into picking a fight with Tom Cruise, completing Beethoven’s unfinished "SymphonyNo. 10", and developing fake faces for stock photography are some of the results that Artificial Intelligence (AI) systems have recently brought to the world. What all of these examples have in common is that the AI does not simply categorize data and interpret text as determined by models, but instead it creates something new. This moves the purpose of AI systems from problem solving to problem finding. In this workshop we focus on various aspects of Generative AI (GenAI) and its interactions with humans, including the design of systems based on GenAI, ethical issues related to their design and use, and useful patterns for collaboration between humans and GenAI in different domains.
+In the past year, we have seen or made powerful tools that can create images from textual descriptions [ 1 , 48 ] or conduct
+reasonably conherent conversations [ 32 , 62 ], make writing suggestions for creative writers [33], and write code as a pair
+programmer [23]. We have also seen claims of what an historical person “really looked like” [4], and of a “completed”
+version of a musical compositions left unfinished by their composer’s untimely death [47 ]. What all of these examples
+have in common is that the AI does not simply categorize data and interpret text as determined by models, but instead
+creates something new—e.g., in images [35 , 56 ], molecules [ 45, 65], or designs [46 ]. This work moves the potential of AI
+systems from problem solving to problem finding, and it tends to change the “role” of the AI from decision-maker to human-supporter. Following a successful CHI workshop in 2022, we focus on various aspects of generative AI and its interactions with humans, including
+
+- new sociotechnical opportunities for work and recreation that are afforded by powerful new interactive capabili-
+ties
+- novel design challenges of systems that produce a different outcome after each invocation
+- ethical issues related to their design and use; and
+- useful patterns for collaboration between humans and generative AI in different domains
+
+Generative AI can be defined as an AI system that uses existing media to create new, plausible media.
+This scope is broad, and the generative potential of AI systems varies greatly. Over the last decade, we have seen
+a shift in methodology moving from expert systems based on patterns and heavy human curating towards stochastic and generative models such as Generative Adversarial Networks (GANs) that use big data to produce
+convincingly human-like results in various domains, and Large Language Models (LLMs) that can generate text, source code, and images from simple instructions (“prompts”).
+
+
 
 Note: [The Generative AI and HCI 2022](https://generativeaiandhci.github.io/2022) program has now been archived. 
 
