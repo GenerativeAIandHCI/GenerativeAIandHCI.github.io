@@ -14,12 +14,12 @@ Generative AI and HCI is a Workshop as part of [CHI 2023](https://chi2023.acm.or
 - **Submission Website**: TBA
 - **Submission Templates**: [ACM Template](https://chi2023.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
 
-In the past year, we have seen or made powerful tools that can create images from textual descriptions [ 1 , 48 ] or conduct
-reasonably conherent conversations [ 32 , 62 ], make writing suggestions for creative writers [33], and write code as a pair
-programmer [23]. We have also seen claims of what an historical person “really looked like” [4], and of a “completed”
-version of a musical compositions left unfinished by their composer’s untimely death [47 ]. What all of these examples
+In the past year, we have seen or made powerful tools that can create images from textual descriptions or conduct
+reasonably conherent conversations, make writing suggestions for creative writers, and write code as a pair
+programmer. We have also seen claims of what an historical person “really looked like," and of a “completed”
+version of a musical compositions left unfinished by their composer’s untimely death. What all of these examples
 have in common is that the AI does not simply categorize data and interpret text as determined by models, but instead
-creates something new—e.g., in images [35 , 56 ], molecules [ 45, 65], or designs [46 ]. This work moves the potential of AI
+creates something new—e.g., in images, molecules, or designs. This work moves the potential of AI
 systems from problem solving to problem finding, and it tends to change the “role” of the AI from decision-maker to human-supporter. Following a successful CHI workshop in 2022, we focus on various aspects of generative AI and its interactions with humans, including
 
 - new sociotechnical opportunities for work and recreation that are afforded by powerful new interactive capabili-
@@ -33,7 +33,40 @@ This scope is broad, and the generative potential of AI systems varies greatly. 
 a shift in methodology moving from expert systems based on patterns and heavy human curating towards stochastic and generative models such as Generative Adversarial Networks (GANs) that use big data to produce
 convincingly human-like results in various domains, and Large Language Models (LLMs) that can generate text, source code, and images from simple instructions (“prompts”).
 
+# Topics and Themes
 
+Our workshop is open to diverse interpretations of interactive generative AI, characterized by the AI systems’ abilities
+to make new things, learn new things and foster serendipity and emergence. We are interested in several dimensions of
+generative AI, including mixed initiative, human–computer collaboration, or human–computer competition, with the
+main focus on interaction between humans and generative AI agents. We welcome researchers from various disciplines,
+inviting researchers from different creative domains including, but not limited to art, images, music, text, style transfer,
+text-to-image, programming, architecture, design, fashion and movement.
+Because of the far-reaching implications of Generative AI, we propose the following list of non-exhaustive, thematic
+questions to guide our discussions at the workshop:
+
+- What is generative AI and how can we leverage diverse definitions of it? Does generative AI go beyond intelligent
+interaction? What distinguishes generative AI?
+- How do you design in this characteristically uncertain space? What design patterns do we need to think about?
+How does uncertainty play into this and how to we help people set expectations to designing with AI?
+- Do generative AI algorithms contribute needed serendipity to the design process—or simply randomness—or
+worse, chaos?
+- Is presenting AI as a desirable and “objective” method appropriate for generative AI?
+
+We encourage people to write and answer their own questions as well. We hope that the workshop leads to new
+ways-of-thinking.
+
+These themes can be addressed within the following topics:
+
+- The emerging capabilities of generative AI.
+- Generative AI existence in different domains including (but not limited to) images, music, text, design, and
+motion.
+- The role of generative AI in assisting, replacing, and regimenting human work.
+- Human-AI collaboration and co-creative systems.
+- Ethical issues including misuses and abuses, provenance, copyright, bias, and diversity.
+- The uncanny valley in Human-AI interactions.
+- Speculative futures of generative AI and its implications for human-AI utopias and dystopias.
+
+As above, we encourage people to add new topics and domains.
 
 Note: [The Generative AI and HCI 2022](https://generativeaiandhci.github.io/2022) program has now been archived. 
 
@@ -139,7 +172,7 @@ Emergent HCI Approaches to Envisioning with Generative AI Capabilities
 **Sarah Cooney.**
 Generative AI as a Tool for Speculative Urban Futures 
 
-### Closing -->
+### Closing 
 
 # Call for Participation
 
@@ -169,7 +202,9 @@ We encourage people to write and answer their own questions as well. We hope tha
 - Ethical issues including misuses and abuses, provenance, copyright, bias, and diversity.
 - The uncanny valley in Human-AI interactions.
 
-As above, we encourage people to add new topics and domains.
+As above, we encourage people to add new topics and domains. -->
+
+# Contributing Your Work
 
 Submissions may be up to 4 pages long (references may appear on additional pages), following the CHI 2023 instructions for papers at https://chi2023.acm.org/for-authors/papers/ .
 
