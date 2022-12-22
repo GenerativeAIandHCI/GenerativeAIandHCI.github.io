@@ -7,9 +7,10 @@
 
 Generative AI and HCI is a Workshop as part of [CHI 2023](https://chi2023.acm.org)
 
-- **Venue**: TBA
-- **Workshop Date**: TBA
-- **Submission Deadline**: TBA
+- **Venue**: Online
+- **Workshop Date**: 28 April 2023
+- **Submission Deadline**: 16 February 2023
+- **Notification**: 9 March 2023
 - **Submission Website**: TBA
 - **Submission Templates**: [ACM Template](https://chi2023.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
 
@@ -151,11 +152,11 @@ We encourage people to write and answer their own questions as well. We hope tha
 
 As above, we encourage people to add new topics and domains.
 
-Submissions may be up to four pages long (references may appear on additional pages), following the CHI 2022 instructions at https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/ .
+Submissions may be up to 4 pages long (references may appear on additional pages), following the CHI 2023 instructions for papers at https://chi2023.acm.org/for-authors/papers/ .
 
-The deadline for submissions is 9 March 2022 AoE (i.e., 23:59pm in the latest timezone on the planet).
+The deadline for submissions is 9 March 2023 AoE (i.e., 23:59pm in the latest timezone on the planet).
 
-Please make your submission via EasyChair at [https://easychair.org/my/conference?conf=genaichi2022](https://easychair.org/my/conference?conf=genaichi2022).
+Submission website: TBA.
 
 Please send any comments or questions to Michael Muller, [michael_muller@us.ibm.com](michael_muller@us.ibm.com).
 
@@ -165,11 +166,13 @@ Please send any comments or questions to Michael Muller, [michael_muller@us.ibm.
  
 **Anna Kantosalo** is a Postdoctoral Researcher at the University of Helsinki. The focus of her research is Human--Computer Co-Creativity and she is defining models and methods for building and describing systems in which humans and autonomous creative agents can work together. She has chaired the Future of Co-Creative Systems workshop adjoined with the International Conference on Computational Creativity twice.
 
+**Q. Vera Liao** is Principal Researcher at Microsoft Research Montreal where she is part of the FATE group. Most recently she has been working on explainable AI and responsible AI, within the broader context of human-computer interaction (HCI) and human-AI interaction. Vera serves as the Co-Editor-in-Chief for Springer HCI Series, and on the Editorial Board of IJHCS and ACM TiiS.
+
 **Mary Lou Maher** is a Professor in the Software and Information Systems Department at the University of North Carolina at Charlotte. Her early research in AI-based generative design has lead to a human centered approach to computational creativity and co-creative systems. She has Chaired the Creativity and Cognition Conference (2019) and the International Conference on Computational Creativity (2019) as well as organized several workshops on AI-based design and creativity.
  
 **Charles Martin** is a Lecturer in Computer Science at the Australian National University. Charles works at the intersection of music, AI/ML and HCI. He studies how humans can interact creatively with intelligent computing systems and how such systems might fit in the real world. Charles has organised multiple generative-AI-focused workshops at the New Interfaces for Musical Expression conference.
  
-**Michael Muller** is a Research Scientist at IBM Research in Cambridge MA USA. With colleagues, he has analyzed how domain experts make use of generative AI outcomes, and how humans intervene between "the data" and "the model" as aspects of responsible and accountable data science work. He has co-organized workshops on human centered data science at CHI, CSCW, and GROUP conferences, and a workshop on human centered AI at a NeurIPS conference.
+**Michael Muller** works as a Senior Research Scientist at IBM Research in Cambridge MA USA. With colleagues, he has analyzed how domain experts make use of generative AI outcomes, and how humans intervene between "the data" and "the model" as aspects of responsible and accountable data science work. His research occurs in a hybrid space of Human-Centered AI (HCAI), Human-Computer Interaction (HCI), design, and social justice.
 
 **Greg Walsh** is an associate professor at the University of Baltimore where he teaches courses in Design. He is an interaction design researcher who focuses on user-centered, inclusive design for children and adults. His work seeks to include more voices in the design process and has been a recipient of a prestigious Google Faculty Research Award. His work has included participatory design sessions in Baltimore City libraries and is now exploring the use of generative AI as a co-design partner.
  
