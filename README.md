@@ -11,7 +11,7 @@ Generative AI and HCI is a Workshop as part of [CHI 2023](https://chi2023.acm.or
 - **Workshop Date**: 28 April 2023
 - **Submission Deadline**: 16 February 2023
 - **Notification**: 9 March 2023
-- **Submission Website**: TBA
+- **Submission Website**: https://cmt3.research.microsoft.com/GenAICHI2023
 - **Submission Templates**: [ACM Template](https://chi2023.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
 
 In the past year, we have seen or made powerful tools that can create images from textual descriptions or conduct
@@ -210,7 +210,7 @@ Submissions may be up to 4 pages long (references may appear on additional pages
 
 The deadline for submissions is 16 February 2023 AoE (i.e., 23:59pm in the latest timezone on the planet).
 
-Submission website: TBA.
+Submission website: https://cmt3.research.microsoft.com/GenAICHI2023
 
 Please send any comments or questions to Michael Muller, [michael_muller@us.ibm.com](michael_muller@us.ibm.com).
 
