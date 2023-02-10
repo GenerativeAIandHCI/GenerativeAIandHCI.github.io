@@ -208,7 +208,7 @@ As above, we encourage people to add new topics and domains. -->
 
 Submissions may be up to 4 pages long (references may appear on additional pages), following the CHI 2023 instructions for papers at https://chi2023.acm.org/for-authors/papers/ .
 
-The deadline for submissions is 16 February 2023 AoE (i.e., 23:59pm in the latest timezone on the planet).
+The deadline for submissions is 23 February 2023 AoE (i.e., 23:59pm in the latest timezone on the planet).
 
 Submission website: https://cmt3.research.microsoft.com/GenAICHI2023
 
