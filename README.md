@@ -35,7 +35,7 @@ convincingly human-like results in various domains, and Large Language Models (L
 
 # Program and Schedule
 
-The workshop program can be found [here as a spreadsheets](https://docs.google.com/spreadsheets/d/1FmvezNYl_NJeePvRJbG7TMeLCGKqt1fFEmU-RvS7aSM/edit?usp=sharing) or below.
+The workshop program can be found below.
 
 | CEST    | UTC      | EDT      | Session                                 | Paper Title                                                                                                                                                                        | Primary Contact Author Name |
 |---------|----------|----------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
