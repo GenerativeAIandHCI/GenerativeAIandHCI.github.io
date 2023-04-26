@@ -35,7 +35,7 @@ convincingly human-like results in various domains, and Large Language Models (L
 
 # Program and Schedule
 
-The workshop program can be found below.
+The workshop program can be found below. To attend use the Zoom link: <https://ubalt.zoom.us/j/96587819811>
 
 | CEST    | UTC      | EDT      | Session                                 | Paper Title                                                                                                                                                                        | Primary Contact Author Name |
 |---------|----------|----------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
