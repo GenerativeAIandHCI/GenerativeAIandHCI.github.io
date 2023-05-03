@@ -75,6 +75,12 @@ The workshop program can be found below. To attend use the Zoom link: <https://u
 | 6:15 PM | 4:15 PM  | 12:15 PM | Informal discussion  |                            |   We offer an option to network and continue the most intersting discussions in Zoom breakout rooms.                                                                                                                                                                                 |                             | 
 | 7:15 PM | 5:15 PM  | 1:15 PM | End  |                            |                                                                                                                                                                                   |                             | 
 
+In addition to the presented papers the following papers were accepted without presentation: 
+
+Zijian Ding & Joel Chan: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Design_Space_of_HAI_CHI23_Workshop.pdf">Mapping the Design Space of Interactions in Human-AI Text Co-Creation Tasks</a>
+
+Jonas Oppenlaender, Aku Visuri, Ville Paananen, Rhema Linder & Johanna Silvennoinen: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/oppenlaender-genAI23.pdf">Text-to-Image Generation: Perceptions and Realities</a>
+
 # Topics and Themes
 
 Our workshop is open to diverse interpretations of interactive generative AI, characterized by the AI systems’ abilities
