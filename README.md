@@ -83,7 +83,7 @@ Brennan Jones, Yan Xu, Mary Anne Hood, Mohammad Shahidul Kader & Hamid Eghbalzad
 
 Jonas Oppenlaender, Aku Visuri, Ville Paananen, Rhema Linder & Johanna Silvennoinen: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/oppenlaender-genAI23.pdf">Text-to-Image Generation: Perceptions and Realities</a>
 
-Viktoria Pammer-Schindler: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Genai-Situated-action-recommendations.pdf">ChatGPT, DALL-E, and the ThoughtGenerator: What Humans should, could, or want to be able to do in the face of generative AI, and the role of HCI research in this debate</a>
+Viktoria Pammer-Schindler: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2023_CHI_WS40_Generative_AI_and_HCI.pdf">ChatGPT, DALL-E, and the ThoughtGenerator: What Humans should, could, or want to be able to do in the face of generative AI, and the role of HCI research in this debate</a>
 
 # Topics and Themes
 
