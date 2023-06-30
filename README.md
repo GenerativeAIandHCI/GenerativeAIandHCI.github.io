@@ -88,6 +88,8 @@ Jonas Oppenlaender, Aku Visuri, Ville Paananen, Rhema Linder & Johanna Silvennoi
 
 Viktoria Pammer-Schindler: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2023_CHI_WS40_Generative_AI_and_HCI.pdf">ChatGPT, DALL-E, and the ThoughtGenerator: What Humans should, could, or want to be able to do in the face of generative AI, and the role of HCI research in this debate</a>
 
+Louis B. Rosenberg: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2023_CHI_WS40_Generative_AI_and_HCI.pdf">The Manipulation Problem: Conversational AI as a Threat to Epistemic Agency</a>
+
 # Topics and Themes
 
 Our workshop is open to diverse interpretations of interactive generative AI, characterized by the AI systems’ abilities
