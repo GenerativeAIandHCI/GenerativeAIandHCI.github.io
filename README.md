@@ -79,6 +79,9 @@ In addition to the presented papers the following papers were accepted without p
 
 Zijian Ding & Joel Chan: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Design_Space_of_HAI_CHI23_Workshop.pdf">Mapping the Design Space of Interactions in Human-AI Text Co-Creation Tasks</a>
 
+Rgee Wharlo Gallega & Yasuyuki Sumi: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Gallega.pdf">Towards a Co-Creative System for Creating, Suggesting, and Assessing Material Textures for 3D Renderings During Design Reviews in Industrial Design</a>
+
+
 Brennan Jones, Yan Xu, Mary Anne Hood, Mohammad Shahidul Kader & Hamid Eghbalzadeh: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Genai-Situated-action-recommendations.pdf">Using Generative AI to Produce Situated Action Recommendations in Augmented Reality for High-Level Goals</a>
 
 Jonas Oppenlaender, Aku Visuri, Ville Paananen, Rhema Linder & Johanna Silvennoinen: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/oppenlaender-genAI23.pdf">Text-to-Image Generation: Perceptions and Realities</a>
