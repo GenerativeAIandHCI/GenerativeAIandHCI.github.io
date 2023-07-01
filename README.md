@@ -90,7 +90,7 @@ Viktoria Pammer-Schindler: <a href="https://github.com/GenerativeAIandHCI/Genera
 
 Louis B. Rosenberg: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Conversational%20AI%20and%20the%20Threat%20to%20Epistemic%20Agency%20-%20CHI%202023%20.pdf">The Manipulation Problem: Conversational AI as a Threat to Epistemic Agency</a>
 
-Hugh Xuechen LIU, Yuxuan Huang, & Jussi Holopainen: <href="{% link papers/LIU-HowToUseGenerativeAIasaDesignMaterial.pdf %}">How to use Generative AI as a design material for future human-computer (co-)creation?</a>
+Hugh Xuechen LIU, Yuxuan Huang, & Jussi Holopainen: <a href="{% link papers/LIU-HowToUseGenerativeAIasaDesignMaterial.pdf %}">How to use Generative AI as a design material for future human-computer (co-)creation?</a>
 
 # Topics and Themes
 
