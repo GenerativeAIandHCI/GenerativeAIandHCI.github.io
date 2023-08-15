@@ -81,6 +81,9 @@ In addition to the presented papers the following papers were accepted without p
 
 Zijian Ding & Joel Chan: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Design_Space_of_HAI_CHI23_Workshop.pdf">Mapping the Design Space of Interactions in Human-AI Text Co-Creation Tasks</a>
 
+Monika Fratczak, Erinma Ochu, Itzelle Medina-Perea, Jo Bates, and Helen Kennedy: <a
+href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/CHI23%20paper%20-%20deanonymised%20FINAL.pdf">Values, Emotions and Beliefs within Generative AI Arts Practice</a>
+
 Rgee Wharlo Gallega & Yasuyuki Sumi: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Gallega.pdf">Towards a Co-Creative System for Creating, Suggesting, and Assessing Material Textures for 3D Renderings During Design Reviews in Industrial Design</a>
 
 
