@@ -1,17 +1,17 @@
 <figure>
- <a href="https://hotpot.ai/s/art-maker/328/NlsTsvTWqXjign6Q4CKMg2hDhOP2"><img src="{% link people-at-workshop.png %}"></a>
- <figcaption>(Created with Hotpot.ai CC BY-NC 4.0)</figcaption>
+ ![A conference seminar involving with an AI that does not simply categorize data and interpret text as determined by models, but instead creates something new—e.g., in images, molecules, or designs. This work moves the potential of AI systems from problem solving to problem finding, and it tends to change the “role” of the AI from decision-maker to human-supporter. The session is focussed on various aspects of generative AI and its interactions with humans, including new sociotechnical opportunities for work and recreation that are afforded by powerful new interfaces.]({% link images/2023-firefly.jpg %})
+ <figcaption>Created with Adobe Firefly</figcaption>
 </figure>
 
 # Outline
 
-Generative AI and HCI is a Workshop as part of [CHI 2023](https://chi2023.acm.org)
+Generative AI and HCI is a proposed workshop for CHI 2024.
 
-- **Venue**: Online
-- **Workshop Date**: 28 April 2023
-- **Submission Deadline**: 23 February 2023
-- **Notification**: 9 March 2023
-- **Submission Website**: <https://cmt3.research.microsoft.com/GenAICHI2023>
+- **Venue**: TBA
+- **Workshop Date**: TBA 
+- **Submission Deadline**: TBA
+- **Notification**: TBA
+- **Submission Website**: TBA 
 - **Submission Templates**: [ACM Template](https://chi2023.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
 
 In the past year, we have seen or made powerful tools that can create images from textual descriptions or conduct
@@ -32,6 +32,15 @@ Generative AI can be defined as an AI system that uses existing media to create 
 This scope is broad, and the generative potential of AI systems varies greatly. Over the last decade, we have seen
 a shift in methodology moving from expert systems based on patterns and heavy human curating towards stochastic and generative models such as Generative Adversarial Networks (GANs) that use big data to produce
 convincingly human-like results in various domains, and Large Language Models (LLMs) that can generate text, source code, and images from simple instructions (“prompts”).
+
+## Past Workshop Proceedings
+
+The Generative AI and HCI workshop has been running since 2022. Here you can find links to past workshop proceedings including calls for papers, programs, and accepted workshop paper.
+
+- [2022 Proceedings]({% link 2022.md})
+- [2023 Proceedings]({% link 2023.md})
+
+{% comment %}
 
 # Program and Schedule
 
@@ -97,6 +106,8 @@ Louis B. Rosenberg: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIa
 
 Hugh Xuechen LIU, Yuxuan Huang, & Jussi Holopainen: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/LIU-HowToUseGenerativeAIasaDesignMaterial.pdf">How to use Generative AI as a design material for future human-computer (co-)creation?</a>
 
+{% endcomment %}
+
 # Topics and Themes
 
 Our workshop is open to diverse interpretations of interactive generative AI, characterized by the AI systems’ abilities
@@ -132,151 +143,15 @@ motion.
 
 As above, we encourage people to add new topics and domains.
 
-Note: [The Generative AI and HCI 2022](https://generativeaiandhci.github.io/2022) program has now been archived. 
-
-<!-- # Program
-
-## Session 1 10 May 2022 8:00-10:00 UTC
-
-### Welcome
-
-### Co-Creativity
-
-**Angel Hsing-Chi Hwang.**
-Why or Why Not: Barriers of Adopting Generative AI in Human-AI Co-Creativity 
-
-**Corey Ford and Nick Bryan-Kinns.**
-Speculating on Reflection and People's Music Co-Creation with AI 
-
-**Jeba Rezwana and Mary Lou Maher.** 
-Identifying Ethical Issues in AI Partners in Human-AI Co-Creation 
-
-**Imke Grabe and Jichen Zhu.** 
-Towards Co-Creative Generative Adversarial Networks for Fashion Designers 
-
-**Mary Lou Maher, Brian Magerko, Dan Venura, Douglas Fisher, Rogelio E. Cardona-Rivera, Nancy Fulda, John Gero, Minwoo Lee, David Wilson, James C. Kaufman, Maithilee Kunda, Michael Muller, Rachel K.E. Bellamy, Maya Ackerman, Evangelia Chrysikou.** 
-A Research Plan for Integrating Generative and Cognitive AI for Human Centered, Explainable Co-Creative AI 
-
-### Establishing Common Ground
-
-**Aaron Jackson, Vivian Liu and Lydia Chilton.**
-Analyzing the Cultural Relevance of AI Generated Art 
-
-**Rodolfo Ocampo, Oliver Bown and Kazjon Grace.**
-A Framework for Dialogue-Based Human-AI Creative Collaboration 
-
-### Coding and Co-Coding
-
-**Elizabeth Wilson, George Fazekas and Geraint Wiggins.**
-Co-Creativity with a Musical AI Agent in Live Coding 
-
-**Jakob Tholander and Martin Jonsson.**
-Co-coding with AI in creative programming education 
-
-### Art+Culture
-
-**Bob Sturm.**
-Generative AI helps one express things for which they may not have expressions (yet) 
-
-**Mattia Gianotti, Andrea Rotella, Mariagiovanna Di Iorio, Fabiano Riccardi, Francesco Vona and Franca Garzotto.**
-Emotional Synchrony and Generative Art in Interactive Multisensory Environments 
-
-### Closing
-
-## Session 2 10 May 2022 16:00-18:00 UTC
-
-### Welcome
-
-### Control or Not
-
-**Benedikte Wallace and Charles P Martin.**
-Embodying the Glitch: Perspectives on Generative AI in Dance Practice 
-
-**Daniel Bisig and Ephraim Wegner.**
-Puppeteering AI - Interactive Control of an Artificial Dancer 
-
-**Rupert Parry and Caroline Pegram.**
-Perception of control in generative AI music user interfaces 
-
-**Ryan Louie, Jesse Engel and Anna Huang.**
-A Unified Evaluation of Expressive Generative Models andSteerable Interfaces for Music Creation 
-
-### Language
-
-**Frederic Gmeiner, Kenneth Holstein and Nikolas Martelaro.**
-Team Learning as a Lens for Designing Human–AI Co-Creative Systems 
-
-**Katy Gero, Vivian Liu and Lydia Chilton.**
-Sparks: Inspiration for Science Writing using Language Models [
-
-### Small Data
-
-**Gabriel Vigliensoni, Phoenix Perry and Rebecca Fiebrink.**
-A Small-Data Mindset for Generative AI Creative Work 
-
-**Hai Dang, Lukas Mecke, Florian Lehmann, Sven Goller and Daniel Buschek.**
-How to Prompt? Opportunities and Challenges of Zero- and Few-Shot Learning for Human-AI Interaction in Creative Applications of Generative Models 
-
-### Measurement
-
-**Carlos Hernandez-Olivan, Jorge Abadías Puyuelo and Jose R. Beltran.**
-Subjective Evaluation of Deep Learning Models for Symbolic Music Composition 
-
-**Katy Gero.**
-How do we audit generative algorithms? 
-
-### Speculating+Designing
-
-**Andre Holzapfel, Petra Jääskeläinen and Anna-Kaisa Kaila.**
-Environmental and Social Sustainability of Creative-Ai 
-
-**Nur Yildirim.**
-Emergent HCI Approaches to Envisioning with Generative AI Capabilities 
-
-**Sarah Cooney.**
-Generative AI as a Tool for Speculative Urban Futures 
-
-### Closing 
-
-# Call for Participation
-
-Generative AI can be defined as an AI system that uses existing media to create new, plausible media. This scope is broad, and the generative potential of AI systems varies greatly. Over the last decade, we have seen a shift in methodology, moving from expert systems based on patterns and heavy human curating towards stochastic and generative models such as Generative Adversarial Networks (GANs) that use big data to produce convincingly human-like results in various domains.
-
-This workshop applies human centered themes to a new and powerful technology, generative artificial intelligence (AI). Unlike AI systems that produce decisions or descriptions, generative AI systems produce new instances of types of data that can include images, texts, music, design, and motion. The results are often similar to results produced by humans.
-
-However, it is not yet clear how humans can make sense of generative algorithms and outcomes. We have yet to understand what user interface technologies will enable humans to control, and more generally to interact with these powerful capabilities. These human-like capabilities put into question our current paradigms for mixed initiative user interfaces. Further, the unpredictability of “creative” algorithms raises new questions about how, when, and how much control humans may wish to share with these algorithms. Finally, it is not clear what kinds of collaboration patterns will emerge when creative humans and creative technologies work together.
-
-In this one-day workshop, we will convene the interdisciplinary research domain of generative AI and HCI. Participation in this invitational workshop is open to seasoned scholars and early career researchers from diverse disciplines. We solicit descriptions of completed projects, works-in-progress, and provocations. Together we will develop theories and practices in this intriguing new domain.
-
-## Topics
-
-Because of the far-reaching implications of Generative AI, we propose the following list of non-exhaustive, thematic questions to guide our discussions at the workshop:
-
-- What is generative AI and how can we leverage diverse definitions of it? Does generative AI go beyond intelligent interaction? What distinguishes generative AI?
-- How do you design in this space? What design patterns do we need to think about? How does uncertainty play into this and how to we help people set expectations to designing with AI?
-- Do generative AI algorithms contribute needed serendipity to the design process—or simply randomness—or worse, chaos?
-- Is presenting AI as a desirable and “objective” method appropriate for generative AI?
-
-We encourage people to write and answer their own questions as well. We hope that the workshop leads to new ways-of-thinking. These themes can be addressed within the following topics:
-
-- The emerging capabilities of generative AI.
-- Generative AI existence in different domains including (but not limited to) images, music, text, design, and motion.
-- The role of generative AI in assisting, replacing, and regimenting human work.
-- Human-AI collaboration and co-creative systems.
-- Ethical issues including misuses and abuses, provenance, copyright, bias, and diversity.
-- The uncanny valley in Human-AI interactions.
-
-As above, we encourage people to add new topics and domains. -->
-
 # Contributing Your Work
 
-Submissions may be up to 4 pages long (references may appear on additional pages), following the CHI 2023 instructions for papers at https://chi2023.acm.org/for-authors/papers/ .
+Submissions may be up to 4 pages long (references may appear on additional pages), following the [CHI 2024 instructions for papers](https://chi2024.acm.org/for-authors/papers/).
 
-The deadline for submissions is 23 February 2023 AoE (i.e., 23:59pm in the latest timezone on the planet).
+The deadline for submissions is TBA AoE (i.e., 23:59pm in the latest timezone on the planet).
 
-Submission website: https://cmt3.research.microsoft.com/GenAICHI2023
+Submission website: TBA 
 
-Please send any comments or questions to Michael Muller, [michael_muller@us.ibm.com](michael_muller@us.ibm.com).
+Please send any comments or questions to Michael Muller, <michael_muller@us.ibm.com>.
 
 # Organizers
 
@@ -294,6 +169,3 @@ Please send any comments or questions to Michael Muller, [michael_muller@us.ibm.
 
 **Greg Walsh** is an associate professor at the University of Baltimore where he teaches courses in Design. He is an interaction design researcher who focuses on user-centered, inclusive design for children and adults. His work seeks to include more voices in the design process and has been a recipient of a prestigious Google Faculty Research Award. His work has included participatory design sessions in Baltimore City libraries and is now exploring the use of generative AI as a co-design partner.
  
-
-
-
