@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Generative AI and HCI 2023
-description: CHI Workshop
+layout: home
+title: GenAICHI 2024
+description: CHI Workshop on Generative AI and HCI
 permalink: /
 ---
 

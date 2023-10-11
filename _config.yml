@@ -1,3 +1,10 @@
-theme: jekyll-theme-slate
 title: Generative AI and HCI
-description: CHI 2023 Workshop
+description: CHI Workshop
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+theme: minima
+plugins:
+  - jekyll-feed
+
