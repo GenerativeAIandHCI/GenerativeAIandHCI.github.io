@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generative AI and HCI 2023
+title: Generative AI and HCI
 description: CHI Workshop
 permalink: /
 ---
