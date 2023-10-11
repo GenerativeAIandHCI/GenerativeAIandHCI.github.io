@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Generative AI and HCI
-description: CHI Workshop
+layout: home
+title: GenAICHI 2024
+description: CHI Workshop on Generative AI and HCI
 permalink: /
 ---
 
@@ -12,7 +12,7 @@ permalink: /
 
 # Outline
 
-Generative AI and HCI is a proposed workshop for CHI 2024. We previously ran workshops in [2022]({% link 2022.md %}) and [2023]({% link 2023.md %}).
+Generative AI and HCI is a **proposed** workshop for CHI 2024. We previously ran workshops in [2022]({% link 2022.md %}) and [2023]({% link 2023.md %}).
 
 - **Venue**: TBA
 - **Workshop Date**: TBA 
@@ -22,7 +22,7 @@ Generative AI and HCI is a proposed workshop for CHI 2024. We previously ran wor
 - **Submission Templates**: [ACM Template](https://chi2023.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
 
 In the past year, we have seen or made powerful tools that can create images from textual descriptions or conduct
-reasonably conherent conversations, make writing suggestions for creative writers, and write code as a pair
+reasonably coherent conversations, make writing suggestions for creative writers, and write code as a pair
 programmer. We have also seen claims of what an historical person “really looked like," and of a “completed”
 version of a musical compositions left unfinished by their composer’s untimely death. What all of these examples
 have in common is that the AI does not simply categorize data and interpret text as determined by models, but instead
