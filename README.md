@@ -5,7 +5,7 @@
 
 # Outline
 
-Generative AI and HCI is a proposed workshop for CHI 2024.
+Generative AI and HCI is a proposed workshop for CHI 2024. We previously ran workshops in [2022]({% link 2022.md}) and [2023]({% link 2023.md}).
 
 - **Venue**: TBA
 - **Workshop Date**: TBA 
@@ -39,74 +39,6 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 
 - [2022 Proceedings]({% link 2022.md})
 - [2023 Proceedings]({% link 2023.md})
-
-{% comment %}
-
-# Program and Schedule
-
-The workshop program can be found below. If a link to your camera ready submission is still missing, please send it to the chairs via e-mail.
-
-Note: Some authors chose not to provide public links to their papers.
-
-| CEST    | UTC      | EDT      | Session                                 | Session Chair |Paper Title                                                                                                                                                                        | Primary Contact Author Name | 
-|---------|----------|----------|--------------------------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| 2:00 PM | 12:00 PM | 8:00 AM  | Introduction  |  Greg Walsh                            |                                                                                                                                                                                    |                             |
-| 2:15 PM | 12:15 PM | 8:15 AM  | Analysis  |  Anna Kantosalo        | <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/With%C3%B6ft_A-Multidisciplinary-Approach-of-Exploring-the-Synergy-of-Human-Creativity-and-AI.pdf">A Multidisciplinary Approach of Exploring the Synergy of Human Creativity and Artificial Intelligence</a>                                                                              | Ani Withöft                 |
-| 2:20 PM | 12:20 PM | 8:20 AM  | Analysis  |  Anna Kantosalo                               | <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Prompt-based-biases.pdf">An Exploration of Prompt Based Biases in AI Art Generated Tools    </a>                                                                                                                | Nabila Chowdhury            |
-| 2:25 PM | 12:25 PM | 8:25 AM  | Analysis  |  Anna Kantosalo                               | <a href="https://arxiv.org/abs/2303.15125">LMCanvas: Object-Oriented Interaction to Personalize Large Language Model-Powered Writing Environments</a>                                                                             | Tae Soo Kim                 |
-| 2:30 PM | 12:30 PM | 8:30 AM  | Analysis  |  Anna Kantosalo                                |<a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/genaichi-creativeownership.pdf"> Creative ownership and control for generative AI in art and design  </a>                                                                                                               | Alexa Steinbrück            |
-| 2:35 PM | 12:35 PM | 8:35 AM  | Analysis  |  Anna Kantosalo                               | 'Will it substitute us?'' : Understanding artists’ reactions to generative AI models                                                                                               | Hanlin Li                   |
-| 2:40 PM | 12:40 PM | 8:40 AM  | Analysis  |  Anna Kantosalo                              | <a href="https://arxiv.org/abs/2303.06223"> Who’s Thinking? : A Push for Human-Centered Evaluation of LLMs using the XAI Playbook                                                                                              | Teresa Datta                |
-| 2:45 PM | 12:45 PM | 8:45 AM  | discussion    |  Anna Kantosalo                            |                                                                                                                                                                                    |                             |
-| 2:55 PM | 12:55 PM | 8:55 AM  | break     |                              |                                                                                                                                                                                    |                             |
-| 3:05 PM | 1:05 PM  | 9:05 AM  | Specific Applications | Vera Liao                   | <a href="https://arxiv.org/abs/2306.01217">Generative AI for Product Design: Getting the Right Design and the Design Right</a>                                                                                                    | Matthew K Hong              |
-| 3:10 PM | 1:10 PM  | 9:10 AM  | Specific Applications | Vera Liao                   | Envisioning the Applications and Implications of Generative AI for News Media                                                                                                      | Sachita Nishal              |
-| 3:15 PM | 1:15 PM  | 9:15 AM  | Specific Applications | Vera Liao                   | <a href="https://arxiv.org/abs/2305.09815"> Exploring outlooks towards generative AI-based assistive technologies for people with Autism </a>                                                                                      | Deepak Giri                 |
-| 3:20 PM | 1:20 PM  | 9:20 AM  | Specific Applications | Vera Liao                   | <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Surfacing_GenAI.pdf">Content Repurposing in Knowledge Work: Implications for Generative AI</a>                                                                                                             | Siân Lindley                |
-| 3:25 PM | 1:25 PM  | 9:25 AM  | discussion  | Vera Liao                       |                                                                                                                                                                                    |                             |
-| 3:40 PM | 1:40 PM  | 9:40 AM  | break                                   |                                                                                                                                                                                    |                             |
-| 3:50 PM | 1:50 PM  | 9:50 AM  | Supoort for Broader Application Domains | Mary Lou Maher | <a href="https://hyungkwonko.info/data/customer.pdf"> ChatGPT for Moderating Customer Inquiries and Responses to Alleviate Stress and Reduce Emotional Dissonance of Customer Service Representative </a>                                    | Hyung-Kwon Ko               |
-| 3:55 PM | 1:55 PM  | 9:55 AM  | Supoort for Broader Application Domains | Mary Lou Maher | Leveraging Generative AI and Human Collaboration in Peer-Feedback                                                                                                                  | Tianying Chen               |
-| 4:00 PM | 2:00 PM  | 10:00 AM | Supoort for Broader Application Domains | Mary Lou Maher | <a href="https://arxiv.org/pdf/2307.02243.pdf">🍄 Power-up! What Can Generative Models Do for Human Computation Workflows?                                                                                                         | Garrett M Allen             |
-| 4:05 PM | 2:05 PM  | 10:05 AM | Supoort for Broader Application Domains | Mary Lou Maher | ARTIST: ARTificial Intelligence for Simplified Text                                                                                                                                | Lorenzo Corti               |
-| 4:10 PM | 2:10 PM  | 10:10 AM | Supoort for Broader Application Domains | Mary Lou Maher | <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/CHAI-DT.pdf">CHAI-DT: Prompting Conversational Generative AI Agents to Actively Participate in Co-creation </a>                                                                                     | Brandon A Harwood           |
-| 4:15 PM | 2:15 PM  | 10:15 AM | discussion  | Mary Lou Maher                            |                                                                                                                                                                                    |                             |
-| 4:25 PM | 2:25 PM  | 10:25 AM | meal                                    |                                                                                                                                                                                    |                             |
-| 4:55 PM | 2:55 PM  | 10:55 AM | Design  | Greg Walsh                                | <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/CX%20related%20terminology%202023_updated.pdf">Ethically Aligned Stakeholder Elicitation (EASE): Case Study in Music-AI </a>                                                                                                          | Anna-Kaisa Kaila            |
-| 5:00 PM | 3:00 PM  | 11:00 AM | Design  | Greg Walsh                                | <a href="https://uploads-ssl.webflow.com/645a0afd84b9a46669016317/6461fecf77697902bf29a783_GenAICHI-COLL-E.pdf">Structured Collaborative Trial and Error as an Interaction Paradigm for Generative AI    </a>                                                                                          | Anthony Jameson             |
-| 5:05 PM | 3:05 PM  | 11:05 AM | Design  | Greg Walsh                                | AI storytelling with children: Entertainment Platform or Creative Collaborator? “You are who you choose to be”1 How children conceive of collaboration with a generative AI system | elizabeth m bonsignore      |
-| 5:10 PM | 3:10 PM  | 11:10 AM | Design  | Greg Walsh                                | <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Exploring%20the%20Role%20of%20Play%20in%20H-GenAI_Beardow.pdf">Exploring the Role of Play in Human-Generative AI Interactions</a>                                                                                                                     | Caiseal R Beardow           |
-| 5:15 PM | 3:15 PM  | 11:15 AM | Design  | Greg Walsh                                | <a href="https://arxiv.org/abs/2304.01860">Rolling the Dice: Imagining Generative AI as a Dungeons & Dragons Storytelling Companion</a>                                                                                           | Jose Maria III B Santiago   |
-| 5:20 PM | 3:20 PM  | 11:20 AM | discussion  | Greg Walsh                            |                                                                                                                                                                                    |                             |
-| 5:30 PM | 3:30 PM  | 11:30 AM | break                                   |                                                                                                                                                                                    |                             |
-| 5:40 PM | 3:40 PM  | 11:40 AM | Futures  | Mary Lou Maher                               | <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/CHI_submission_AndWeThought_cameraready.pdf">And We Thought. Art Through, With or For Generative AI</a>                                                                                                                             | Federico Bomba              |
-| 5:45 PM | 3:45 PM  | 11:45 AM | Futures  | Mary Lou Maher                               | <a href="https://arxiv.org/pdf/2304.00266.pdf">Hidden Layer Interaction: A Co-Creative Design Fiction for Generative Models</a>    | Imke Grabe                  |
-| 5:55 PM | 3:55 PM  | 11:55 AM | discussion  | Mary Lou Maher                            |                                                                                                                                                                                    |                             | 
-| 6:00 PM | 4:00 PM  | 12:00 PM | Closing  | Greg Walsh                           |                                                                                                                                                                                    |                             | 
-| 6:15 PM | 4:15 PM  | 12:15 PM | Informal discussion  |                            |   We offer an option to network and continue the most intersting discussions in Zoom breakout rooms.                                                                                                                                                                                 |                             | 
-| 7:15 PM | 5:15 PM  | 1:15 PM | End  |                            |                                                                                                                                                                                   |                             | 
-
-In addition to the presented papers the following papers were accepted without presentation: 
-
-Zijian Ding & Joel Chan: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Design_Space_of_HAI_CHI23_Workshop.pdf">Mapping the Design Space of Interactions in Human-AI Text Co-Creation Tasks</a>
-
-Monika Fratczak, Erinma Ochu, Itzelle Medina-Perea, Jo Bates, and Helen Kennedy: <a
-href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/CHI23%20paper%20-%20deanonymised%20FINAL.pdf">Values, Emotions and Beliefs within Generative AI Arts Practice</a>
-
-Rgee Wharlo Gallega & Yasuyuki Sumi: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Gallega.pdf">Towards a Co-Creative System for Creating, Suggesting, and Assessing Material Textures for 3D Renderings During Design Reviews in Industrial Design</a>
-
-
-Brennan Jones, Yan Xu, Mary Anne Hood, Mohammad Shahidul Kader & Hamid Eghbalzadeh: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Genai-Situated-action-recommendations.pdf">Using Generative AI to Produce Situated Action Recommendations in Augmented Reality for High-Level Goals</a>
-
-Jonas Oppenlaender, Aku Visuri, Ville Paananen, Rhema Linder & Johanna Silvennoinen: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/oppenlaender-genAI23.pdf">Text-to-Image Generation: Perceptions and Realities</a>
-
-Viktoria Pammer-Schindler: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2023_CHI_WS40_Generative_AI_and_HCI.pdf">ChatGPT, DALL-E, and the ThoughtGenerator: What Humans should, could, or want to be able to do in the face of generative AI, and the role of HCI research in this debate</a>
-
-Louis B. Rosenberg: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/Conversational%20AI%20and%20the%20Threat%20to%20Epistemic%20Agency%20-%20CHI%202023%20.pdf">The Manipulation Problem: Conversational AI as a Threat to Epistemic Agency</a>
-
-Hugh Xuechen LIU, Yuxuan Huang, & Jussi Holopainen: <a href="https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/LIU-HowToUseGenerativeAIasaDesignMaterial.pdf">How to use Generative AI as a design material for future human-computer (co-)creation?</a>
-
-{% endcomment %}
 
 # Topics and Themes
 
