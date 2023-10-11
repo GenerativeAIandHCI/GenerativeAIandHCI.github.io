@@ -2,6 +2,7 @@
 layout: default
 title: Generative AI and HCI 2023
 description: CHI Workshop
+permalink: /
 ---
 
 <figure>
