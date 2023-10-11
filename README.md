@@ -5,7 +5,7 @@
 
 # Outline
 
-Generative AI and HCI is a proposed workshop for CHI 2024. We previously ran workshops in [2022]({% link 2022.md}) and [2023]({% link 2023.md}).
+Generative AI and HCI is a proposed workshop for CHI 2024. We previously ran workshops in [2022]({% link 2022.md %}) and [2023]({% link 2023.md %}).
 
 - **Venue**: TBA
 - **Workshop Date**: TBA 
@@ -37,8 +37,8 @@ convincingly human-like results in various domains, and Large Language Models (L
 
 The Generative AI and HCI workshop has been running since 2022. Here you can find links to past workshop proceedings including calls for papers, programs, and accepted workshop paper.
 
-- [2022 Proceedings]({% link 2022.md})
-- [2023 Proceedings]({% link 2023.md})
+- [2022 Proceedings]({% link 2022.md %})
+- [2023 Proceedings]({% link 2023.md %})
 
 # Topics and Themes
 
