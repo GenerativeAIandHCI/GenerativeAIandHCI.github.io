@@ -12,11 +12,11 @@ permalink: /
 
 # Outline
 
-Generative AI and HCI is a **proposed** workshop for CHI 2024. We previously ran workshops in [2022]({% link 2022.md %}) and [2023]({% link 2023.md %}).
+Please join us for the third Generative AI and HCI workshop - this year at CHI 2024. We previously ran workshops in [2022]({% link 2022.md %}) and [2023]({% link 2023.md %}).
 
 - **Venue**: TBA
 - **Workshop Date**: TBA 
-- **Submission Deadline**: TBA
+- **Submission Deadline**: 28 February 2024
 - **Notification**: TBA
 - **Submission Website**: TBA 
 - **Submission Templates**: [ACM Template](https://chi2023.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
