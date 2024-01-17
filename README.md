@@ -16,7 +16,7 @@ Please join us for the third Generative AI and HCI workshop - this year at CHI 2
 
 - **Venue**: TBA
 - **Workshop Date**: TBA 
-- **Submission Deadline**: 28 February 2024
+- **Submission Deadline**: 28 February 2024, 23:59 AoE
 - **Notification**: 13 February 2024
 - **Submission Website**: <https://cmt3.research.microsoft.com/GenAICHI2024>
 - **Submission Templates**: [ACM Template](https://chi2024.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
@@ -86,23 +86,21 @@ As above, we encourage people to add new topics and domains.
 
 Submissions may be up to 4 pages long (references may appear on additional pages), following the [CHI 2024 instructions for papers](https://chi2024.acm.org/for-authors/papers/).
 
-The deadline for submissions is TBA AoE (i.e., 23:59pm in the latest timezone on the planet).
+The deadline for submissions is 28 February, 2024 AoE (i.e., 23:59pm in the latest timezone on the planet).
 
-Submission website: TBA 
+Submission website: <https://cmt3.research.microsoft.com/GenAICHI2024>
 
 Please send any comments or questions to Michael Muller, <michael_muller@us.ibm.com>.
 
-# Organizers
+Accepted papers will be presented in the workshop and authors can choose to publish their paper here on the workshop website under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-**Lydia B. Chilton** is an Assistant Professor in the Computer Science Department at Columbia University. She is an early pioneer in decomposing complex tasks so that crowds and computers can solve them together. Her current research is in computational design - how computation and AI can help people with design, innovation and creative problem solving. Applications include: conveying a message within an image for journalism and advertising, developing technology for public libraries, improving risk communication during hurricanes, and helping scientists explain their work on Twitter.
+# Organizers
  
 **Anna Kantosalo** is a Postdoctoral Researcher at the University of Helsinki. The focus of her research is Human--Computer Co-Creativity and she is defining models and methods for building and describing systems in which humans and autonomous creative agents can work together. She has chaired the Future of Co-Creative Systems workshop adjoined with the International Conference on Computational Creativity twice.
 
-**Q. Vera Liao** is a Principal Researcher at Microsoft Research Montréal, where she is part of the FATE (Fairness, Accountability, Transparency, and Ethics of AI) group. Her current research interests are in human-AI interaction and responsible AI. She serves as the Co-Editor-in-Chief for Springer HCI Book Series, in the Editors team for CSCW, and on the Editorial Board of ACM Transactions on Interactive Intelligent Systems (TiiS)
-
 **Mary Lou Maher** is a Professor in the Software and Information Systems Department at the University of North Carolina at Charlotte. Her early research in AI-based generative design has lead to a human centered approach to computational creativity and co-creative systems. She has Chaired the Creativity and Cognition Conference (2019) and the International Conference on Computational Creativity (2019) as well as organized several workshops on AI-based design and creativity.
  
-**Charles Martin** is a Lecturer in Computer Science at the Australian National University. Charles works at the intersection of music, AI/ML and HCI. He studies how humans can interact creatively with intelligent computing systems and how such systems might fit in the real world. Charles has organised multiple generative-AI-focused workshops at the New Interfaces for Musical Expression conference.
+**Charles Patrick Martin** is a Lecturer in Computer Science at the Australian National University. Charles works at the intersection of music, AI/ML and HCI. He studies how humans can interact creatively with intelligent computing systems and how such systems might fit in the real world. Charles has organised multiple generative-AI-focused workshops at the New Interfaces for Musical Expression conference.
  
 **Michael Muller** works as a Senior Research Scientist at IBM Research in Cambridge MA USA. With colleagues, he has analyzed how domain experts make use of generative AI outcomes, and how humans intervene between "the data" and "the model" as aspects of responsible and accountable data science work. His research occurs in a hybrid space of Human-Centered AI (HCAI), Human-Computer Interaction (HCI), design, and social justice.
 
