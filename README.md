@@ -16,7 +16,7 @@ Please join us for the third Generative AI and HCI workshop - this year at CHI 2
 
 - **Venue**: [Hybrid (Honolulu, Hawaiʻi and Online)](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/#WS6)
 - **Workshop Date**: Saturday, 11 May 2024.
-- **Submission Deadline**: 28 February 2024, 23:59 AoE
+- **Submission Deadline**: 22 February 2024, 23:59 AoE
 - **Notification**: 13 March 2024
 - **Submission Website**: <https://cmt3.research.microsoft.com/GenAICHI2024>
 - **Submission Templates**: [ACM Template](https://chi2024.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred)
@@ -86,9 +86,7 @@ As above, we encourage people to add new topics and domains.
 
 Submissions may be up to 4 pages long (references may appear on additional pages), following the [CHI 2024 instructions for papers](https://chi2024.acm.org/for-authors/papers/).
 
-The deadline for submissions is 28 February, 2024 AoE (i.e., 23:59pm in the latest timezone on the planet).
-
-Submission website: <https://cmt3.research.microsoft.com/GenAICHI2024>
+The deadline for submissions and submission website is found at the top of the page.
 
 Please send any comments or questions to Michael Muller, <michael_muller@us.ibm.com>.
 
