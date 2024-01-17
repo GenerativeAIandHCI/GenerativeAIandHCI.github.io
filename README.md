@@ -19,7 +19,7 @@ Please join us for the third Generative AI and HCI workshop - this year at CHI 2
 - **Submission Deadline**: 28 February 2024
 - **Notification**: 13 February 2024
 - **Submission Website**: <https://cmt3.research.microsoft.com/GenAICHI2024>
-- **Submission Templates**: [ACM Template](https://chi2023.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
+- **Submission Templates**: [ACM Template](https://chi2024.acm.org/for-authors/presenting/papers/chi-publication-formats/) (4 pages max excluding references - Anonymous submissions preferred, but not required.)
 
 In the past year, we have seen or made powerful tools that can create images from textual descriptions or conduct
 reasonably coherent conversations, make writing suggestions for creative writers, and write code as a pair
