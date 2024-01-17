@@ -14,7 +14,7 @@ permalink: /
 
 Please join us for the third Generative AI and HCI workshop - this year at CHI 2024. We previously ran workshops in [2022]({% link 2022.md %}) and [2023]({% link 2023.md %}).
 
-- **Venue**: [Hybrid (Honolulu, Hawaiʻi and Online](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/#WS6)
+- **Venue**: [Hybrid (Honolulu, Hawaiʻi and Online)](https://chi2024.acm.org/for-authors/workshops/accepted-workshops/#WS6)
 - **Workshop Date**: Saturday, 11 May 2024.
 - **Submission Deadline**: 28 February 2024, 23:59 AoE
 - **Notification**: 13 March 2024
