@@ -14,6 +14,7 @@ CHI Workshops have a very short review timeframe with around 2 weeks from the co
 - Papers for GenAICHI are 4 pages in single-column ACM format with additional pages available for references.
 - Papers may or may not be anonymous - we are only expecting single-blind reviewing (reviewer is anonymous from authors)
 - Each paper must have two reviews before we make an acceptance decision
+- Some papers may receive meta-reviews that summarise reviews or provide further information
 - Expected Topics and Themes can be found on the [main workshop page]({% link README.md %}).
 - As the papers are short, we expect reviews to also be quite short. It should not take long to write a review for each workshop paper.
 
@@ -28,6 +29,14 @@ Reviews should include:
 - Whether the submission has any major flaws or misunderstandings indicating that it not ready for discussion at a workshop.
 
 Reviews that address these questions clearly and succinctly will be most useful in making acceptance decisions within the very short timeframes for CHI workshop reviewing.
+
+## Meta-Review Instructions
+
+Meta-reviews are not guaranteed for all papers. Where a meta-review is included it will:
+
+- summarise the reviews
+- add any further information that is necessary for making an acceptance decision
+- provide reasoning for an acceptance decision both in terms of the reviews and extra information provided by the meta-reviewer
 
 ## New to reviewing?
 
