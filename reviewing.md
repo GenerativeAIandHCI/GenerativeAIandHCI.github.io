@@ -19,12 +19,12 @@ CHI Workshops have a very short review timeframe with around 2 weeks from the co
 
 ## Review Instructions
 
-Reviews should focus on:
+Reviews should include:
 
-- Provide 1-sentence summary of the submission
-- Whether the submission is aligned with the [workshop Topics and Themes]({% link README.md %})
-- Whether the submission is complete, in the correct format, and reasonably comprehensible.
-- The potential of the submission to initiate interesting discussion at the workshop.
+- A 1-sentence summary of the submission
+- Indication of how the submission is aligned with the [workshop Topics and Themes]({% link README.md %})
+- Indication of whether the submission is complete, in the correct format, and reasonably comprehensible.
+- Indication of the potential of the submission to initiate interesting discussion at the workshop.
 - Whether the submission has any major flaws or misunderstandings indicating that it not ready for discussion at a workshop.
 
 Reviews that address these questions clearly and succinctly will be most useful in making acceptance decisions within the very short timeframes for CHI workshop reviewing.
