@@ -16,7 +16,7 @@ CHI Workshops have a very short review timeframe with around 2 weeks from the co
 - Each paper must have two reviews before we make an acceptance decision
 - Some papers may receive meta-reviews that summarise reviews or provide further information
 - Expected Topics and Themes can be found on the [main workshop page]({% link README.md %}).
-- As the papers are short, we expect reviews to also be quite short. It should not take long to write a review for each workshop paper.
+- As the papers are short, we expect reviews to also be quite short and the form is limited to 2500 characters (~380 words). It should not take long to write a review for each workshop paper.
 
 ## Review Instructions
 
