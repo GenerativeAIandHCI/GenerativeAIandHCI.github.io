@@ -26,7 +26,7 @@ Our comments should be oriented toward helping the authors to improve their work
 
 Reviews should include:
 
-- A 1-sentence summary of the submission
+- A 1-sentence (< 20 word) summary of the submission
 - Indication of how the submission is aligned with the [workshop Topics and Themes]({% link README.md %})
 - Indication of whether the submission is complete, in the correct format, and reasonably comprehensible.
 - Indication of the potential of the submission to initiate interesting discussion at the workshop.
