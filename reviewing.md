@@ -20,6 +20,10 @@ CHI Workshops have a very short review timeframe with around 2 weeks from the co
 
 ## Review Instructions
 
+Reviewing is a form of Caring, so please be kind. If there are strengths in the submission, please describe them. If there are problems in the submission, please write constructive and respectful comments of the kind that you would want your students to receive.
+
+Our comments should be oriented toward helping the authors to improve their work - whether we plan to accept it for our workshop, or if we plan to tell them how to prepare a new version for a different venue.
+
 Reviews should include:
 
 - A 1-sentence summary of the submission
@@ -29,6 +33,14 @@ Reviews should include:
 - Whether the submission has any major flaws or misunderstandings indicating that it not ready for discussion at a workshop.
 
 Reviews that address these questions clearly and succinctly will be most useful in making acceptance decisions within the very short timeframes for CHI workshop reviewing.
+
+## Accept / Reject Decisions
+
+Just to be clear:
+
+- **Definitely/Probably Accept** means: the submission is aligned with the [workshop Topics and Themes]({% link README.md %}), **and** it is complete, in the correct format and comprehensible, **and** it has good potential of the submission to initiate interesting discussion at the workshop.
+
+- **Definitely/Probably Reject** means: the submission is not aligned with the [workshop Topics and Themes]({% link README.md %}), **or** it is not complete, not in the correct format or incomprehensible, **or** it does not have much potential for interesting discussion, **or** is it _not ready_ for workshop discussion in some way not listed above.
 
 ## Meta-Review Instructions
 
