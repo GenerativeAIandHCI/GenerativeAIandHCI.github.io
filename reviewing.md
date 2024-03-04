@@ -24,7 +24,7 @@ Reviewing is a form of Caring, so please be kind. If there are strengths in the 
 
 Our comments should be oriented toward helping the authors to improve their work - whether we plan to accept it for our workshop, or if we plan to tell them how to prepare a new version for a different venue.
 
-You have form fields for a 1-sentence **summary** of the submission, **strengths**, and **areas for improvement**.
+You have form fields for a 1-sentence **summary** of the submission, **strengths**, and **areas for improvement**. The form fields all have character limits to keep reviews short.
 
 Reviews comments should focus on: 
 
