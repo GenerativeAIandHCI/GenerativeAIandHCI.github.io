@@ -57,4 +57,4 @@ This code is also available as an [example on Overleaf](https://www.overleaf.com
 
 If you want to create your PDF with Word or another non-latex word processor, you can use the 1-column ACM template and add an equivalent footer if you wish. Our paper template looks like this:
 
-![Example GenAICHI workshop paper]()
+![Example GenAICHI workshop paper]({% link images/genaichi-example-paper.jpg %})
