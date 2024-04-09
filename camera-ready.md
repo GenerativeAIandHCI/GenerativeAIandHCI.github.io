@@ -18,6 +18,8 @@ We have a LaTeX code example below that puts the ACM template into 1-column `man
 You may adjust this template as you wish , but we expect a neat-and-tidy 1-column formatted PDF file for publication on our website.
 This code is also available as an [example on Overleaf](https://www.overleaf.com/read/rxpnyjpgkfxm#ebf97a).
 
+
+{% raw %}
 ```
 %% Special GenAICHI Settings and Setup for ACM article template:
 \documentclass[manuscript,screen,nonacm]{acmart} % the settings here are important!
@@ -54,6 +56,7 @@ This code is also available as an [example on Overleaf](https://www.overleaf.com
 % the rest of your document goes here
 \end{document}
 ```
+{% endraw %}
 
 If you want to create your PDF with Word or another non-latex word processor, you can use the 1-column ACM template and add an equivalent footer if you wish. Our paper template looks like this:
 
