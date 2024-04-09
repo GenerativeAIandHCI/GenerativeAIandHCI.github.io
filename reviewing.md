@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reviewing Instructions
+title: Reviewing
 description: Instructions and Advice for Reviewers
 permalink: /reviewing
 ---
