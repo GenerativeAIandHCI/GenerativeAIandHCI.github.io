@@ -5,11 +5,11 @@ description: Instructions for preparing a camera ready paper for publication on 
 permalink: /camera-ready
 ---
 
-GenAICHI papers are generally published here on this website, although if you don't want to publish your workshop submission, it's not required. In general, we ask that authors send us either:
+GenAICHI papers are generally published here on this website under a CC BY 4.0 license; however, if you don't want to publish your workshop submission you don't have to. In general, we ask that authors send us one of the following options (through a form in CMT):
 
-1. A clean PDF (see instructions below or [this example](https://www.overleaf.com/read/rxpnyjpgkfxm#ebf97a)) that they are happy to have hosted on our website under a Creative Commons Attribution CC BY 4.0 License (authors retain copyright).
-2. A working URL to a self-hosted version of their submission in either PDF or HTML. The link should be to arxiv, their own website, or an institutional repository but not a dropbox or onedrive link those disappear after a while.
-3. No paper, but an updated abstract for our website, authors take responsibility for distributing paper under whatever ways they might want to.
+1. A clean PDF (see instructions below or [this example](https://www.overleaf.com/read/rxpnyjpgkfxm#ebf97a)) that they are happy to have hosted on our website under a [Creative Commons Attribution CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) (authors retain copyright).
+2. A working URL to a self-hosted version of their submission in either PDF or HTML. The link should be to something like arXiv, your own website, or an institutional repository but not a dropbox or onedrive link those disappear after a while.
+3. No paper, but an updated abstract for our website, you take responsibility for distributing your paper under whatever way you might want to.
 
 ## Creating a clean GenAICHI PDF
 
