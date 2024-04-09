@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Camera Ready Instructions
+title: Camera-Ready
 description: Instructions for preparing a camera ready paper for publication on this website.
 permalink: /camera-ready
 ---
