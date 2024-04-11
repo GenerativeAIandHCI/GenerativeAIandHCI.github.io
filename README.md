@@ -51,9 +51,9 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 (in progress)
 All times are in HST local time
 
-09:00-09:20 Welcome + Introductions
+09:00-09:20 **Welcome + Introductions**
 
-09:20-09:50 Paper session 1: Prompting
+09:20-09:50 **Paper session 1: Prompting**
 
 09:20 *Inkspire: Supporting Designers to Prototype Product Designs through Sketching.* David Chuan-En Lin (Carnegie Mellon University); Hyeonsu Kang (Carnegie Mellon University); Nikolas Martelaro (Carnegie Mellon University); Aniket Kittur (Carnegie Mellon University); Yan-Ying Chen (Toyota Research Institute); Matthew K Hong (Toyota Research Institute).
 
@@ -65,7 +65,7 @@ All times are in HST local time
 
 09:40 *Discussion*
 
-09:50-10:20 Paper session 2: Creativity: Media
+09:50-10:20 **Paper session 2: Creativity: Media**
 
 
 
