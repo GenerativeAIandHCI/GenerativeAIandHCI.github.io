@@ -52,12 +52,19 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 All times are in HST local time
 
 09:00-09:20 Welcome + Introductions
+
 09:20-09:50 Paper session 1: Prompting
+
 09:20 *Inkspire: Supporting Designers to Prototype Product Designs through Sketching.* David Chuan-En Lin (Carnegie Mellon University); Hyeonsu Kang (Carnegie Mellon University); Nikolas Martelaro (Carnegie Mellon University); Aniket Kittur (Carnegie Mellon University); Yan-Ying Chen (Toyota Research Institute); Matthew K Hong (Toyota Research Institute).
+
 09:25 *Equivalence: An analysis of artists’ roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice.* Yixuan Li (Georgia Institute of Technology); Dan Baciu (Delft University of Technology); Marcos Novak (Media Arts & Technology UCSB); george legrady (media arts & technology UCSB).  (https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/assets/18058571/3dea153f-4894-44f4-a31b-fbfc19be476d)
+
 09:30 *Augmenting the Author: Exploring the Potential of AI Collaboration in Academic Writing.* Joseph Tu (University of Waterloo); Hilda Hadan (University of Waterloo); Derrick M Wang (University of Waterloo); Sabrina A Sgandurra (University of Waterloo); Reza Hadi Mogavi (University of Waterloo); Lennart E Nacke (University of Waterloo). (https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/assets/18058571/793aac16-4ea5-4335-bce8-91b68e95019d)
+
 09:35 *Leveraging AI to Generate Audio for User-generated Content in Video Games.* Thomas Marrinan (University of St. Thomas); Pakeeza Akram (Univeristy of St. Thomas); Oli Gurmessa (University of St. Thomas); Anthony Shishkin (University of St. Thomas). (https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/assets/18058571/8b89b942-7759-47df-85f6-0a9f879adf7a)
+
 09:40 *Discussion*
+
 09:50-10:20 Paper session 2: Creativity: Media
 
 
