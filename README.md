@@ -66,7 +66,7 @@ All times are in HST local time
 
 - 09:50 *Human-AI Collaboration Insights from Music Composition.* Eric Tron Gianet (University of Torino); Luigi Di Caro (University of Turin); Amon Rapp (University of Torino).
 - 09:55 *Interaction Design for Human-AI Choreography Co-creation* Yimeng Liu (UC Santa Barbara).
-- 10:00 *Seizing the Means of Production: Exploring the Landscape of Crafting, Adapting and Navigating Generative AI Models.* Ahmed M. Abuzuraiq (Simon Fraser University); Philippe Pasquier (Simon Fraser University). (https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/assets/18058571/6aeb0908-5594-482c-8348-5a106149b91c)
+- 10:00 *Seizing the Means of Production: Exploring the Landscape of Crafting, Adapting and Navigating Generative AI Models.* Ahmed M. Abuzuraiq (Simon Fraser University); Philippe Pasquier (Simon Fraser University).
 - 10:05 *Designing Live Human-AI Collaboration for Musical Improvisation.* Nic Becker (Stanford University); Ryan Louie (Stanford University); John Thickstun (University of Washington).
 - 10:10 *Discussion*
 
