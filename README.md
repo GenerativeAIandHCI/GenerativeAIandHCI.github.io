@@ -220,6 +220,51 @@ Accepted papers will be presented in the workshop and authors can choose to publ
 
 # Program Committee
 
+- Alexa	Steinbrück, Hochschule für Gestaltung Schwäbisch-Gmünd
+- Andre	Holzapfel, KTH Royal Institute of Technology in Stockholm
+- Anna	Kantosalo,	University of Helsinki
+- Anna-Kaisa	Kaila,	KTH Royal Institute of Technology, Stockholm
+- Anthony	Jameson,	Contaction AG
+- Benedikte	Wallace,	University of Oslo
+- Briane Paul	Samson,	De La Salle University
+- Charles	Martin,	Australian National University
+- Cory	Newman,	University of Baltimore
+- Deepak	Giri,	Indiana University
+- Dmitry	Zubarev,	IBM Research-Almaden
+- Erinma	Ochu,	UWE Bristol
+- Gaole	He,	Delft University of Technology
+- Garrett	Allen,	Delft University of Technology
+- Greg	Walsh,	University of Baltimore
+- Han	Li,	National University of Singapore
+- Hernisa	Kacorri,	University of Maryland, College Park
+- Hyo Jin	Do,	IBM Research
+- Imke	Grabe,	IT University of Copenhagen
+- Jacquelyn	Martino,	IBM Research
+- Jessica	He,	IBM Research
+- Jordan Aiko	Deja,	De La Salle University
+- Jussi	Holopainen,	City University of Hong Kong
+- Justin	Weisz,	IBM Research AI
+- Lorenzo	Corti,	Delft University of Technology
+- Manish	Nagireddy,	IBM Research
+- Mary Lou	Maher, Computer Research Association
+- Matthew	Klenk,	Toyota Research Institute
+- Matthew	Hong,	Toyota Research Institute
+- Michael	Hind,	IBM Research
+- Michael	Muller,	IBM Research
+- Minsik	Choi,	The Australian National University
+- Nabila	Chowdhury,	University of Toronto
+- Paolo	Grigis,	Unibz
+- Rgee Wharlo	Gallega,	Future University Hakodate
+- Richard Lance	Parayno,	University of Salzburg
+- Sachita	Nishal,	Northwestern University
+- Shabnam	Hakimi,	Toyota Research Institute
+- Tae Soo	Kim,	KAIST
+- Viktoria	Pammer-Schindler,	Graz University of Technology
+- Werner	Geyer,	IBM Research
+- Yash	Tadimalla,	University of North Carolina Charlotte
+- Yichen	Wang,	Australian National University
+- Zijian	Ding,	The University of Maryland
+
 # Organizers
  
 **Anna Kantosalo** is a Postdoctoral Researcher at the University of Helsinki. The focus of her research is Human--Computer Co-Creativity and she is defining models and methods for building and describing systems in which humans and autonomous creative agents can work together. She has chaired the Future of Co-Creative Systems workshop adjoined with the International Conference on Computational Creativity twice.
