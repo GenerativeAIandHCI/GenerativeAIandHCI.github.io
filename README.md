@@ -57,16 +57,16 @@ All times are in HST local time
 
 **09:20-09:50 Paper session 1: Prompting**
 - 09:20 *Inkspire: Supporting Designers to Prototype Product Designs through Sketching.* David Chuan-En Lin (Carnegie Mellon University); Hyeonsu Kang (Carnegie Mellon University); Nikolas Martelaro (Carnegie Mellon University); Aniket Kittur (Carnegie Mellon University); Yan-Ying Chen (Toyota Research Institute); Matthew K Hong (Toyota Research Institute).
-- 09:25 *Equivalence: An analysis of artists’ roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice.* Yixuan Li (Georgia Institute of Technology); Dan Baciu (Delft University of Technology); Marcos Novak (Media Arts & Technology UCSB); george legrady (media arts & technology UCSB).
+- 09:25 [*Equivalence: An analysis of artists’ roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice.* Yixuan Li (Georgia Institute of Technology); Dan Baciu (Delft University of Technology); Marcos Novak (Media Arts & Technology UCSB); george legrady (media arts & technology UCSB).](https://arxiv.org/abs/2404.18385)
 - 09:30 *Augmenting the Author: Exploring the Potential of AI Collaboration in Academic Writing.* Joseph Tu (University of Waterloo); Hilda Hadan (University of Waterloo); Derrick M Wang (University of Waterloo); Sabrina A Sgandurra (University of Waterloo); Reza Hadi Mogavi (University of Waterloo); Lennart E Nacke (University of Waterloo).
-- 09:35 *Leveraging AI to Generate Audio for User-generated Content in Video Games.* Thomas Marrinan (University of St. Thomas); Pakeeza Akram (Univeristy of St. Thomas); Oli Gurmessa (University of St. Thomas); Anthony Shishkin (University of St. Thomas).
+- 09:35 [*Leveraging AI to Generate Audio for User-generated Content in Video Games.* Thomas Marrinan (University of St. Thomas); Pakeeza Akram (Univeristy of St. Thomas); Oli Gurmessa (University of St. Thomas); Anthony Shishkin (University of St. Thomas).](https://arxiv.org/abs/2404.17018)
 - 09:40 *Discussion*
 
 **09:50-10:20 Paper session 2: Creativity: Media**
 
 - 09:50 *Human-AI Collaboration Insights from Music Composition.* Eric Tron Gianet (University of Torino); Luigi Di Caro (University of Turin); Amon Rapp (University of Torino).
 - 09:55 *Interaction Design for Human-AI Choreography Co-creation* Yimeng Liu (UC Santa Barbara).
-- 10:00 *Seizing the Means of Production: Exploring the Landscape of Crafting, Adapting and Navigating Generative AI Models.* Ahmed M. Abuzuraiq (Simon Fraser University); Philippe Pasquier (Simon Fraser University).
+- 10:00 [*Seizing the Means of Production: Exploring the Landscape of Crafting, Adapting and Navigating Generative AI Models.* Ahmed M. Abuzuraiq (Simon Fraser University); Philippe Pasquier (Simon Fraser University).](https://arxiv.org/abs/2404.17688)
 - 10:05 *Designing Live Human-AI Collaboration for Musical Improvisation.* Nic Becker (Stanford University); Ryan Louie (Stanford University); John Thickstun (University of Washington).
 - 10:10 *Discussion*
 
@@ -74,7 +74,7 @@ All times are in HST local time
 
 **11:00-11:20 Paper session 3: Creativity: Media: Trade-offs**
 
-- 11:00 *Shaping Realities: Enhancing 3D Generative AI with Fabrication Constraints.* Faraz Faruqi (MIT CSAIL); Yingtao Tian (Google Research, Brain Team); Vrushank Phadnis (Google Research); Varun Jampani (Stability AI); Stefanie Mueller (MIT CSAIL).
+- 11:00 [*Shaping Realities: Enhancing 3D Generative AI with Fabrication Constraints.* Faraz Faruqi (MIT CSAIL); Yingtao Tian (Google Research, Brain Team); Vrushank Phadnis (Google Research); Varun Jampani (Stability AI); Stefanie Mueller (MIT CSAIL).](https://arxiv.org/pdf/2404.10142)
 - 11:05 *Case Study of GAI for Generating Novel Images for Real-World Embroidery.* Kate Glazko (University of Washington); Anika Arugunta (University of Washington); Janelle Chan (University of Washington); Nancy Jimenez-Garcia (University of Washington); Tashfia Sharmin (University of Washington); Jennifer C Mankoff (University of Washington).
 - 11:10 *Discussion*
 
@@ -100,8 +100,8 @@ All times are in HST local time
 
 **14:50-15:20 Paper session 6: Values: Process and Media**
 
-- 14:50 *Compliance Rating Scheme: Introducing Data Provenance for Dataset Use in Generative AI Applications.* Matyas Bohacek (Stanford University); Ignacio Vilanova Echavarri (Imperial College London).
-- 14:55 *A Value-Oriented Investigation of Photoshop’s Generative Fill.* Ian Swift (University of Illinois at Chicago); Debaleena Chattopadhyay (University of Illinois at Chicago).
+- 14:50 [*Compliance Rating Scheme: Introducing Data Provenance for Dataset Use in Generative AI Applications.* Matyas Bohacek (Stanford University); Ignacio Vilanova Echavarri (Imperial College London).](http://matyasbohacek.com/files/chi-genai.pdf)
+- 14:55 [*A Value-Oriented Investigation of Photoshop’s Generative Fill.* Ian Swift (University of Illinois at Chicago); Debaleena Chattopadhyay (University of Illinois at Chicago).](https://arxiv.org/abs/2404.17781)
 - 15:00 *Echo Chamber: Generative Music AI within a Participatory Museum Sound Installation.* Monica M Lim (University of Melbourne); Jarrod Knibbe (University of Queensland); Bingqing Chen (University of Melbourne); Ying Sima (University of Melbourne).
 - 15:05 *Posthumanist AI: Rethinking ‘the human’ as a model for generative AI.* Matt V Ratto (University of Toronto); Sarah Gram (University of Toronto); Olivia Doggett (University of Toronto); Peter Selby (Center for Mental Health and Addiction); Nadia Minian (Center for Mental Health and Addiction); Marta Maslej (Center for Mental Health and Addiction); Osnat Melamed (Center for Mental Health and Addiction); Jonathan Rose (University of Toronto).
 - 15:10 *Discussion.*
@@ -131,13 +131,13 @@ All poster sessions run concurrently during all three Poster periods.
 
 **Poster Group 2: Prompting**
 
-- *Generative AI in Color-Changing Systems: Re-Programmable 3D Object Textures with Material and Design Constraints.* Yunyi Zhu (MIT CSAIL); Faraz Faruqi (MIT CSAIL); Stefanie Mueller (MIT CSAIL).
+- [*Generative AI in Color-Changing Systems: Re-Programmable 3D Object Textures with Material and Design Constraints.* Yunyi Zhu (MIT CSAIL); Faraz Faruqi (MIT CSAIL); Stefanie Mueller (MIT CSAIL).](https://arxiv.org/abs/2404.17028)
 - *On Abduction and Reflective Prompt Engineering.* Gabriel D J Barbosa (Pontifical Catholic University of Rio de Janeiro); Clarisse Sieckenius de Souza (Pontifical Catholic University of Rio de Janeiro).
 
 **Poster Group 3: Creativity**
 
 - *Uncovering Challenges and Changes in Artists’ Practices as a Consequence of AI.* Petra Jääskeläinen (KTH); Anna-Kaisa Kaila (KTH Royal Institute of Technology, Stockholm); Andre Holzapfel (KTH Royal Institute of Technology in Stockholm).
-- *Food Development through Co-creation with AI: bread with a "taste of love".* Takuya Sera (NEC Corporation); Izumi Kuwata (NEC Corporation); Yuki Taya (NEC Corporation); Noritaka Shimura (NEC Corporation); Yosuke Motohashi (NEC Corporation).
+- [*Food Development through Co-creation with AI: bread with a "taste of love".* Takuya Sera (NEC Corporation); Izumi Kuwata (NEC Corporation); Yuki Taya (NEC Corporation); Noritaka Shimura (NEC Corporation); Yosuke Motohashi (NEC Corporation).](https://arxiv.org/abs/2404.12760)
 - *Towards a Hierarchy of Trust in Human-AI Music-Making.* Adrian Hazzard (University of Nottingham); Craig Vear (University of Nottingham); Solomiya Moroz (University of Nottingham).
 - *Generative AI for Musicians: Small-Data Prototyping to Design Intelligent Musical Instruments.* Charles Patrick Martin (Australian National University).
 - *Unstuck: Charting the Design Space of Generative AI-based Creativity Interventions.* Matthew K Hong (Toyota Research Institute); Pablo Paredes (Toyota Research Institute); Shabnam Hakimi (Toyota Research Institute); Monica Van (Toyota Research Institute); Matthew Klenk (Toyota Research Institute).
