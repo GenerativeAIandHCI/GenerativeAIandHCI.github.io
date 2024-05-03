@@ -56,18 +56,18 @@ All times are in HST local time
 **09:00-09:20 Welcome + Introductions**
 
 **09:20-09:50 Paper session 1: Prompting**
-- 09:20 *Inkspire: Supporting Designers to Prototype Product Designs through Sketching.* David Chuan-En Lin (Carnegie Mellon University); Hyeonsu Kang (Carnegie Mellon University); Nikolas Martelaro (Carnegie Mellon University); Aniket Kittur (Carnegie Mellon University); Yan-Ying Chen (Toyota Research Institute); Matthew K Hong (Toyota Research Institute).
+- 09:20 [*Inkspire: Supporting Designers to Prototype Product Designs through Sketching.* David Chuan-En Lin (Carnegie Mellon University); Hyeonsu Kang (Carnegie Mellon University); Nikolas Martelaro (Carnegie Mellon University); Aniket Kittur (Carnegie Mellon University); Yan-Ying Chen (Toyota Research Institute); Matthew K Hong (Toyota Research Institute).](({% link papers/2024/genaichi2024_7.pdf %}))
 - 09:25 [*Equivalence: An analysis of artists’ roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice.* Yixuan Li (Georgia Institute of Technology); Dan Baciu (Delft University of Technology); Marcos Novak (Media Arts & Technology UCSB); george legrady (media arts & technology UCSB).](https://arxiv.org/abs/2404.18385)
-- 09:30 *Augmenting the Author: Exploring the Potential of AI Collaboration in Academic Writing.* Joseph Tu (University of Waterloo); Hilda Hadan (University of Waterloo); Derrick M Wang (University of Waterloo); Sabrina A Sgandurra (University of Waterloo); Reza Hadi Mogavi (University of Waterloo); Lennart E Nacke (University of Waterloo).
+- 09:30 [*Augmenting the Author: Exploring the Potential of AI Collaboration in Academic Writing.* Joseph Tu (University of Waterloo); Hilda Hadan (University of Waterloo); Derrick M Wang (University of Waterloo); Sabrina A Sgandurra (University of Waterloo); Reza Hadi Mogavi (University of Waterloo); Lennart E Nacke (University of Waterloo).]({% link papers/2024/genaichi2024_31.pdf %})
 - 09:35 [*Leveraging AI to Generate Audio for User-generated Content in Video Games.* Thomas Marrinan (University of St. Thomas); Pakeeza Akram (Univeristy of St. Thomas); Oli Gurmessa (University of St. Thomas); Anthony Shishkin (University of St. Thomas).](https://arxiv.org/abs/2404.17018)
 - 09:40 *Discussion*
 
 **09:50-10:20 Paper session 2: Creativity: Media**
 
-- 09:50 *Human-AI Collaboration Insights from Music Composition.* Eric Tron Gianet (University of Torino); Luigi Di Caro (University of Turin); Amon Rapp (University of Torino).
-- 09:55 *Interaction Design for Human-AI Choreography Co-creation* Yimeng Liu (UC Santa Barbara).
+- 09:50 [*Human-AI Collaboration Insights from Music Composition.* Eric Tron Gianet (University of Torino); Luigi Di Caro (University of Turin); Amon Rapp (University of Torino).]({% link papers/2024/genaichi2024_18.pdf %})
+- 09:55 [*Interaction Design for Human-AI Choreography Co-creation* Yimeng Liu (UC Santa Barbara).]({% link papers/2024/genaichi2024_35.pdf %})
 - 10:00 [*Seizing the Means of Production: Exploring the Landscape of Crafting, Adapting and Navigating Generative AI Models.* Ahmed M. Abuzuraiq (Simon Fraser University); Philippe Pasquier (Simon Fraser University).](https://arxiv.org/abs/2404.17688)
-- 10:05 *Designing Live Human-AI Collaboration for Musical Improvisation.* Nic Becker (Stanford University); Ryan Louie (Stanford University); John Thickstun (University of Washington).
+- 10:05 [*Designing Live Human-AI Collaboration for Musical Improvisation.* Nic Becker (Stanford University); Ryan Louie (Stanford University); John Thickstun (University of Washington).]({% link papers/2024/genaichi2024_55.pdf %})
 - 10:10 *Discussion*
 
 **10:20-11:00 Break*
@@ -80,7 +80,7 @@ All times are in HST local time
 
 **11:20-11:45 Paper session 4: Creativity: Text**
 
-- 11:20 *Workplace Everyday-Creativity through a Highly-Conversational UI to Large Language Models* Michael Muller (IBM); Jessica He (IBM Research); Justin Weisz (IBM Research AI).
+- 11:20 [*Workplace Everyday-Creativity through a Highly-Conversational UI to Large Language Models* Michael Muller (IBM); Jessica He (IBM Research); Justin Weisz (IBM Research AI).]({% link papers/2024/genaichi2024_15.pdf %})
 - 11:25 *Working with Large Language Models in the Rapid Ideation Process.* Gionnieve Lim (Singapore University of Technology and Design); Simon Perrault (Singapore University of Technology and Design).
 - 11:30 *Productively Hallucinating Desirable Futures with Generative AI.* Peter Kun (IT University of Copenhagen); Matthias Freiberger (Copenhagen University); Sebastian Risi (IT University of Copenhagen); Anders S Løvlie (IT University of Copenhagen).
 - 11:35 *Discussion.*
@@ -93,25 +93,25 @@ All times are in HST local time
 
 **14:25-14:50 Paper session 5: Values: Harms**
 
-- 14:25 *From Melting Pots to Misrepresentations: Exploring Harms in Generative AI.* Sanjana Gautam (Pennsylvania State University); Pranav N Venkit (Pennsylvania State University ); Sourojit Ghosh (University of Washington).
+- 14:25 [*From Melting Pots to Misrepresentations: Exploring Harms in Generative AI.* Sanjana Gautam (Pennsylvania State University); Pranav N Venkit (Pennsylvania State University ); Sourojit Ghosh (University of Washington).]({% link papers/2024/genaichi2024_34.pdf %})
 - 14:30 *The Need for Flexible Interfaces for Text-to-Image Auditing: A Case Study of DALL·E 2 and DALL·E 3.* Clare Provenzano (Simon Fraser University); Parsa Rajabi (Simon Fraser University); Diana Cukierman (Simon Fraser University); Nicholas Vincent (Simon Fraser University).
-- 14:35 How an AI Generated Experience Impacts Negative Perceptions of AI.* MJ Johns (University of California Santa Cruz)*; Tyler Coleman (University of California).
+- 14:35 [*How an AI Generated Experience Impacts Negative Perceptions of AI.* MJ Johns (University of California Santa Cruz); Tyler Coleman (University of California).]({% link papers/2024/genaichi2024_2.pdf %})
 - 14:40 *Discussion*
 
 **14:50-15:20 Paper session 6: Values: Process and Media**
 
 - 14:50 [*Compliance Rating Scheme: Introducing Data Provenance for Dataset Use in Generative AI Applications.* Matyas Bohacek (Stanford University); Ignacio Vilanova Echavarri (Imperial College London).](http://matyasbohacek.com/files/chi-genai.pdf)
 - 14:55 [*A Value-Oriented Investigation of Photoshop’s Generative Fill.* Ian Swift (University of Illinois at Chicago); Debaleena Chattopadhyay (University of Illinois at Chicago).](https://arxiv.org/abs/2404.17781)
-- 15:00 *Echo Chamber: Generative Music AI within a Participatory Museum Sound Installation.* Monica M Lim (University of Melbourne); Jarrod Knibbe (University of Queensland); Bingqing Chen (University of Melbourne); Ying Sima (University of Melbourne).
-- 15:05 *Posthumanist AI: Rethinking ‘the human’ as a model for generative AI.* Matt V Ratto (University of Toronto); Sarah Gram (University of Toronto); Olivia Doggett (University of Toronto); Peter Selby (Center for Mental Health and Addiction); Nadia Minian (Center for Mental Health and Addiction); Marta Maslej (Center for Mental Health and Addiction); Osnat Melamed (Center for Mental Health and Addiction); Jonathan Rose (University of Toronto).
+- 15:00 [*Echo Chamber: Generative Music AI within a Participatory Museum Sound Installation.* Monica M Lim (University of Melbourne); Jarrod Knibbe (University of Queensland); Bingqing Chen (University of Melbourne); Ying Sima (University of Melbourne).]({% link papers/2024/genaichi2024_1.pdf %})
+- 15:05 [*Posthumanist AI: Rethinking ‘the human’ as a model for generative AI.* Matt V Ratto (University of Toronto); Sarah Gram (University of Toronto); Olivia Doggett (University of Toronto); Peter Selby (Center for Mental Health and Addiction); Nadia Minian (Center for Mental Health and Addiction); Marta Maslej (Center for Mental Health and Addiction); Osnat Melamed (Center for Mental Health and Addiction); Jonathan Rose (University of Toronto).]({% link papers/2024/genaichi2024_32.pdf %})
 - 15:10 *Discussion.*
 
 **15:20-16:00 Break**
 
 **16:00-16:20 Paper session 7: Analysis**
 
-- 16:00 *Can Nuanced Language Lead to More Actionable Insights? Exploring the Role of Generative AI in Analytical Narrative Structure.* Vidya Setlur (Tableau Research); Larry  Birnbaum (Salesforce/Northwestern University).
-- 16:05 *Unlocking the User Experience of Generative AI Applications: Design Patternsand Principles.* Vinita Tibdewal (Google USA).
+- 16:00 [*Can Nuanced Language Lead to More Actionable Insights? Exploring the Role of Generative AI in Analytical Narrative Structure.* Vidya Setlur (Tableau Research); Larry  Birnbaum (Salesforce/Northwestern University).]({% link papers/2024/genaichi2024_10.pdf %})
+- 16:05 [*Unlocking the User Experience of Generative AI Applications: Design Patternsand Principles.* Vinita Tibdewal (Google USA).]({% link papers/2024/genaichi2024_47.pdf %})
 - 16:10 *Discussion*
 
 **16:20-16:50 Posters 2**
@@ -124,7 +124,7 @@ All poster sessions run concurrently during all three Poster periods.
 
 **Poster Group 1: Tools or Partners**
 
-- *Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the Creative Industries.* Oliver H Wood (Those Beyond).
+- [*Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the Creative Industries.* Oliver H Wood (Those Beyond).](({% link papers/2024/genaichi2024_5.pdf %}))
 - *Generating Summary Videos from User Questions to Support Video-Based Learning.* Kazuki Kawamura (The University of Tokyo); Jun Rekimoto (The Univertsity of Tokyo).
 - *Exploring Human-AI Collaboration Continuum in Augmented Reality Applications.* Shokoufeh Bozorgmehrian (Virginia Tech); Joseph Gabbard (Virginia Tech).
 - *How GenAI Can Affect Design Work.* Samangi Wadinambiarachchi (The University of Melbourne)*; Jenny Waycott (The University of Melbourne); Ryan Kelly (RMIT University); Eduardo Velloso (The University of Sydney); Greg Wadley (University of Melbourne, AUS).
@@ -138,29 +138,29 @@ All poster sessions run concurrently during all three Poster periods.
 
 - *Uncovering Challenges and Changes in Artists’ Practices as a Consequence of AI.* Petra Jääskeläinen (KTH); Anna-Kaisa Kaila (KTH Royal Institute of Technology, Stockholm); Andre Holzapfel (KTH Royal Institute of Technology in Stockholm).
 - [*Food Development through Co-creation with AI: bread with a "taste of love".* Takuya Sera (NEC Corporation); Izumi Kuwata (NEC Corporation); Yuki Taya (NEC Corporation); Noritaka Shimura (NEC Corporation); Yosuke Motohashi (NEC Corporation).](https://arxiv.org/abs/2404.12760)
-- *Towards a Hierarchy of Trust in Human-AI Music-Making.* Adrian Hazzard (University of Nottingham); Craig Vear (University of Nottingham); Solomiya Moroz (University of Nottingham).
+- [*Towards a Hierarchy of Trust in Human-AI Music-Making.* Adrian Hazzard (University of Nottingham); Craig Vear (University of Nottingham); Solomiya Moroz (University of Nottingham).]({% link papers/2024/genaichi2024_28.pdf %})
 - *Generative AI for Musicians: Small-Data Prototyping to Design Intelligent Musical Instruments.* Charles Patrick Martin (Australian National University).
-- *Unstuck: Charting the Design Space of Generative AI-based Creativity Interventions.* Matthew K Hong (Toyota Research Institute); Pablo Paredes (Toyota Research Institute); Shabnam Hakimi (Toyota Research Institute); Monica Van (Toyota Research Institute); Matthew Klenk (Toyota Research Institute).
+- [*Unstuck: Charting the Design Space of Generative AI-based Creativity Interventions.* Matthew K Hong (Toyota Research Institute); Pablo Paredes (Toyota Research Institute); Shabnam Hakimi (Toyota Research Institute); Monica Van (Toyota Research Institute); Matthew Klenk (Toyota Research Institute).]({% link papers/2024/genaichi2024_14.pdf %})
 
 **Poster Group 4: Harms: Privacy**
 
 - *Privacy Risks and Legal Challenges in the Emergent Use of Generative AI in Research with Participant Data.* Wendy  Moncur (University of Strathclyde); Ryan  Gibson (University of Strathclyde); Ali Farooq (University of Strathclyde); Burkhard Schafer (University of Edinburg).
-- *Exploring ChatGPT’s ability to detect privacy violations in photo sharing.* Arun Balaji  Buduru (IIIT Delhi); Apu Kapadia (Indiana University)*; Christine Chen (Indiana University); Chris Page (Indiana University); Kendrick Mernitz (Indiana University); Ben Malone (Indiana University).
-- *Closing the Loop: Embedding Observability in the GenAI Product Lifecycle for Systematic Bias Mitigation.* Freyam Mehta (International Institute of Information technology Hyderabad); Nimmi Rangaswamy (International Institute of Information technology Hyderabad).
+- [*Exploring ChatGPT’s ability to detect privacy violations in photo sharing.* Arun Balaji  Buduru (IIIT Delhi); Apu Kapadia (Indiana University)*; Christine Chen (Indiana University); Chris Page (Indiana University); Kendrick Mernitz (Indiana University); Ben Malone (Indiana University).]({% link papers/2024/genaichi2024_30.pdf %})
+- [*Closing the Loop: Embedding Observability in the GenAI Product Lifecycle for Systematic Bias Mitigation.* Freyam Mehta (International Institute of Information technology Hyderabad); Nimmi Rangaswamy (International Institute of Information technology Hyderabad).]({% link papers/2024/genaichi2024_49.pdf %})
 - *On CLIP's Ability of Analyzing Fake Images at a Large Scale: Why are they fake?* Jinbin Huang (Arizona State University); Chen Chen (University of Maryland, College Park); Aditi Mishra (Arizona State University); Bum Chul Kwon (IBM Research); Zhicheng Liu (University of Maryland, College Park); Chris Bryan (Arizona State University).
-- *Detecting Generative AI Usage in Application Essays.* Neil Natarajan (University of Oxford).
-- *Holding the Line: A Study of Writers’ Attitudes on Co-creativity with AI.* Morteza Behrooz (Meta).
+- [*Detecting Generative AI Usage in Application Essays.* Neil Natarajan (University of Oxford).]({% link papers/2024/genaichi2024_9.pdf %})
+- [*Holding the Line: A Study of Writers’ Attitudes on Co-creativity with AI.* Morteza Behrooz (Meta).]({% link papers/2024/genaichi2024_11.pdf %})
 
  **Poster Group 5: Values: Synthetic**
  
-- *How can LLMs support UX Practitioners with image-related tasks?* Ruican Zhong (University of Washington); Gary Hsieh (University of Washington); David  McDonald (University of Washington).
+- [*How can LLMs support UX Practitioners with image-related tasks?* Ruican Zhong (University of Washington); Gary Hsieh (University of Washington); David  McDonald (University of Washington).]({% link papers/2024/genaichi2024_29.pdf %})
 - *Exploring the role of Generative AI models for research in the public sector.* Kelly McConvey (University of Toronto); Erina Moon (University of Toronto); Shion Guha (University of Toronto).
 - *Machine Conversations as Design Conversations.* Alice Cai (Harvard University); Celine Offerman (Delft University of Technology); Shiyan Zhang (Stevens Institute of Technology); Lydia B Chilton (Columbia University); Kevin Crowston (Syracuse University); Jeffrey V Nickerson (Stevens Institute of Technology).
 
 **Poster Group 6: Emotion.**
 
-- *Crafting Emotional TTS Conversation Responses Based on User Preferences.* Laya Iyer (Stanford University).
-- *Physiological Signals as Implicit Multimodal Input in Human-AI Interactions During Creative Tasks.* Teodora Mitrevska (LMU).
+- [*Crafting Emotional TTS Conversation Responses Based on User Preferences.* Laya Iyer (Stanford University).]({% link papers/2024/genaichi2024_23.pdf %})
+- [*Physiological Signals as Implicit Multimodal Input in Human-AI Interactions During Creative Tasks.* Teodora Mitrevska (LMU).]({% link papers/2024/genaichi2024_59.pdf %})
 
 # Presentation and Attendence Details {#presentation}
 
