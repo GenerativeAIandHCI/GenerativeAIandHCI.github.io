@@ -48,7 +48,7 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 - [2023 Proceedings]({% link 2023.md %})
 
 # Program
-(in progress)
+
 All times are in HST local time
 
 ## Papers
@@ -119,21 +119,22 @@ All times are in HST local time
 **16:50-17:20 Closing**
 
 ## Posters
+
 All poster sessions run concurrently during all three Poster periods.
 
-**Poster session 1: Tools or Partners**
+**Poster Group 1: Tools or Partners**
 
 - *Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the Creative Industries.* Oliver H Wood (Those Beyond).
 - *Generating Summary Videos from User Questions to Support Video-Based Learning.* Kazuki Kawamura (The University of Tokyo); Jun Rekimoto (The Univertsity of Tokyo).
 - *Exploring Human-AI Collaboration Continuum in Augmented Reality Applications.* Shokoufeh Bozorgmehrian (Virginia Tech); Joseph Gabbard (Virginia Tech).
 - *How GenAI Can Affect Design Work.* Samangi Wadinambiarachchi (The University of Melbourne)*; Jenny Waycott (The University of Melbourne); Ryan Kelly (RMIT University); Eduardo Velloso (The University of Sydney); Greg Wadley (University of Melbourne, AUS).
 
-**Poster session 2: Prompting**
+**Poster Group 2: Prompting**
 
 - *Generative AI in Color-Changing Systems: Re-Programmable 3D Object Textures with Material and Design Constraints.* Yunyi Zhu (MIT CSAIL); Faraz Faruqi (MIT CSAIL); Stefanie Mueller (MIT CSAIL).
 - *On Abduction and Reflective Prompt Engineering.* Gabriel D J Barbosa (Pontifical Catholic University of Rio de Janeiro); Clarisse Sieckenius de Souza (Pontifical Catholic University of Rio de Janeiro).
 
-**Poster session 3: Creativity**
+**Poster Group 3: Creativity**
 
 - *Uncovering Challenges and Changes in Artists’ Practices as a Consequence of AI.* Petra Jääskeläinen (KTH); Anna-Kaisa Kaila (KTH Royal Institute of Technology, Stockholm); Andre Holzapfel (KTH Royal Institute of Technology in Stockholm).
 - *Food Development through Co-creation with AI: bread with a "taste of love".* Takuya Sera (NEC Corporation); Izumi Kuwata (NEC Corporation); Yuki Taya (NEC Corporation); Noritaka Shimura (NEC Corporation); Yosuke Motohashi (NEC Corporation).
@@ -141,7 +142,7 @@ All poster sessions run concurrently during all three Poster periods.
 - *Generative AI for Musicians: Small-Data Prototyping to Design Intelligent Musical Instruments.* Charles Patrick Martin (Australian National University).
 - *Unstuck: Charting the Design Space of Generative AI-based Creativity Interventions.* Matthew K Hong (Toyota Research Institute); Pablo Paredes (Toyota Research Institute); Shabnam Hakimi (Toyota Research Institute); Monica Van (Toyota Research Institute); Matthew Klenk (Toyota Research Institute).
 
-**Poster session 4: Harms: Privacy**
+**Poster Group 4: Harms: Privacy**
 
 - *Privacy Risks and Legal Challenges in the Emergent Use of Generative AI in Research with Participant Data.* Wendy  Moncur (University of Strathclyde); Ryan  Gibson (University of Strathclyde); Ali Farooq (University of Strathclyde); Burkhard Schafer (University of Edinburg).
 - *Exploring ChatGPT’s ability to detect privacy violations in photo sharing.* Arun Balaji  Buduru (IIIT Delhi); Apu Kapadia (Indiana University)*; Christine Chen (Indiana University); Chris Page (Indiana University); Kendrick Mernitz (Indiana University); Ben Malone (Indiana University).
@@ -150,28 +151,53 @@ All poster sessions run concurrently during all three Poster periods.
 - *Detecting Generative AI Usage in Application Essays.* Neil Natarajan (University of Oxford).
 - *Holding the Line: A Study of Writers’ Attitudes on Co-creativity with AI.* Morteza Behrooz (Meta).
 
- **Poster session 5: Values: Synthetic**
+ **Poster Group 5: Values: Synthetic**
  
 - *How can LLMs support UX Practitioners with image-related tasks?* Ruican Zhong (University of Washington); Gary Hsieh (University of Washington); David  McDonald (University of Washington).
 - *Exploring the role of Generative AI models for research in the public sector.* Kelly McConvey (University of Toronto); Erina Moon (University of Toronto); Shion Guha (University of Toronto).
 - *Machine Conversations as Design Conversations.* Alice Cai (Harvard University); Celine Offerman (Delft University of Technology); Shiyan Zhang (Stevens Institute of Technology); Lydia B Chilton (Columbia University); Kevin Crowston (Syracuse University); Jeffrey V Nickerson (Stevens Institute of Technology).
 
-**Poster session 6: Emotion.**
+**Poster Group 6: Emotion.**
 
 - *Crafting Emotional TTS Conversation Responses Based on User Preferences.* Laya Iyer (Stanford University).
 - *Physiological Signals as Implicit Multimodal Input in Human-AI Interactions During Creative Tasks.* Teodora Mitrevska (LMU).
 
+# Presentation and Attendence Details {#presentation}
 
+This **hybrid** workshop will involve participants at their own locations around the world and in the CHI conference venue in Hawaiʻi.
 
+**The primary location for all paper and poster presentations will be online on [Gather Town](https://gather.town/).**
 
+![Gather Town Conference Lobby]({% link images/genaichi-gathertown.jpg %})
 
+- First authors and registered workshop participants will receive links for invites to the Gather Town space in the few days before the workshop.
+- Please make sure that you try logging into Gather Town using the email account that you have used for conference registration **or** for your submission on CMT.
+- Gather Town works best in [Chrome/Chromium](https://support.gather.town/hc/en-us/articles/23924440456852-Browser-Support-Policy) or in the [dedicated Gather application](https://www.gather.town/download).
+- If you are on site in Hawai'i please remember to bring a device with you that can run Gather (either in app or browser) to see the posters and talks.
+- If you have trouble with Gather Town's screen sharing, audio, or video, see [their troubleshooting page](https://support.gather.town/hc/en-us/articles/15910394815508-Troubleshooting-Checklist-Audio-Video-and-Performance-Issues).
 
+Please note that the organisers (Charles, Greg, Mary Lou, Anna, and Michael) will **not be onsite**. If you don't log into our gather space, we won't be able to find you so make sure you test out Gather and have a device with you whether you are remote or onsite.
 
+## Poster Presentation Instructions {#poster-pres}
 
+You should create a poster to display in the poster area in our Gather space with the following specifications:
 
+- landscape orientation
+- at least 1000x600px resolution
+- png or jpg file
+- <=3MB
 
+Posters should be **emailed to Greg Walsh ([gwalsh@ubalt.edu](mailto:gwalsh@ubalt.edu))** for installation into the poster session.
 
+- There are three times for poster sessions but all posters will be available in all sessions.
+- We ask that all presenters be present for _at least one_ poster session over the day (to assist with timezone/location).
 
+## Paper Presentation Instructions {#paper-pres}
+
+- Paper presentations are **only 5 minutes** so you should have a very short version of your work to present, e.g., 3-4 slides.
+- You will be able to screen share and address the virtual room in our Gather space but please remember to test your audio/video/screen sharing setup before the workshop
+- We ask that all presenters log into Gather at the start of the session and be present in the paper presentation space.
+- Please make sure you **test screen sharing** in Gather before the workshop 😊
 
 # Topics and Themes
 
