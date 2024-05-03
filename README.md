@@ -56,7 +56,7 @@ All times are in HST local time
 **09:00-09:20 Welcome + Introductions**
 
 **09:20-09:50 Paper session 1: Prompting**
-- 09:20 [*Inkspire: Supporting Designers to Prototype Product Designs through Sketching.* David Chuan-En Lin (Carnegie Mellon University); Hyeonsu Kang (Carnegie Mellon University); Nikolas Martelaro (Carnegie Mellon University); Aniket Kittur (Carnegie Mellon University); Yan-Ying Chen (Toyota Research Institute); Matthew K Hong (Toyota Research Institute).](({% link papers/2024/genaichi2024_7.pdf %}))
+- 09:20 [*Inkspire: Supporting Designers to Prototype Product Designs through Sketching.* David Chuan-En Lin (Carnegie Mellon University); Hyeonsu Kang (Carnegie Mellon University); Nikolas Martelaro (Carnegie Mellon University); Aniket Kittur (Carnegie Mellon University); Yan-Ying Chen (Toyota Research Institute); Matthew K Hong (Toyota Research Institute).]({% link papers/2024/genaichi2024_7.pdf %})
 - 09:25 [*Equivalence: An analysis of artists’ roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice.* Yixuan Li (Georgia Institute of Technology); Dan Baciu (Delft University of Technology); Marcos Novak (Media Arts & Technology UCSB); george legrady (media arts & technology UCSB).](https://arxiv.org/abs/2404.18385)
 - 09:30 [*Augmenting the Author: Exploring the Potential of AI Collaboration in Academic Writing.* Joseph Tu (University of Waterloo); Hilda Hadan (University of Waterloo); Derrick M Wang (University of Waterloo); Sabrina A Sgandurra (University of Waterloo); Reza Hadi Mogavi (University of Waterloo); Lennart E Nacke (University of Waterloo).]({% link papers/2024/genaichi2024_31.pdf %})
 - 09:35 [*Leveraging AI to Generate Audio for User-generated Content in Video Games.* Thomas Marrinan (University of St. Thomas); Pakeeza Akram (Univeristy of St. Thomas); Oli Gurmessa (University of St. Thomas); Anthony Shishkin (University of St. Thomas).](https://arxiv.org/abs/2404.17018)
@@ -124,7 +124,7 @@ All poster sessions run concurrently during all three Poster periods.
 
 **Poster Group 1: Tools or Partners**
 
-- [*Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the Creative Industries.* Oliver H Wood (Those Beyond).](({% link papers/2024/genaichi2024_5.pdf %}))
+- [*Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the Creative Industries.* Oliver H Wood (Those Beyond).]({% link papers/2024/genaichi2024_5.pdf %})
 - *Generating Summary Videos from User Questions to Support Video-Based Learning.* Kazuki Kawamura (The University of Tokyo); Jun Rekimoto (The Univertsity of Tokyo).
 - *Exploring Human-AI Collaboration Continuum in Augmented Reality Applications.* Shokoufeh Bozorgmehrian (Virginia Tech); Joseph Gabbard (Virginia Tech).
 - *How GenAI Can Affect Design Work.* Samangi Wadinambiarachchi (The University of Melbourne)*; Jenny Waycott (The University of Melbourne); Ryan Kelly (RMIT University); Eduardo Velloso (The University of Sydney); Greg Wadley (University of Melbourne, AUS).
