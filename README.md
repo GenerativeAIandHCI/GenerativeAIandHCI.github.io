@@ -159,7 +159,7 @@ All poster sessions run concurrently during all three Poster periods.
 
 **Poster Group 6: Emotion.**
 
-- [*Crafting Emotional TTS Conversation Responses Based on User Preferences.* Laya Iyer (Stanford University).]({% link papers/2024/genaichi2024_23.pdf %})
+- [*Crafting Emotional TTS Conversation Responses Based on User Preferences.* Laya Iyer (Stanford University), Sanmi Koyejo (Stanford University).]({% link papers/2024/genaichi2024_23.pdf %})
 - [*Physiological Signals as Implicit Multimodal Input in Human-AI Interactions During Creative Tasks.* Teodora Mitrevska (LMU).]({% link papers/2024/genaichi2024_59.pdf %})
 
 # Presentation and Attendence Details {#presentation}
