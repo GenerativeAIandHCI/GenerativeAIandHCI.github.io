@@ -82,8 +82,7 @@ All times are in HST local time
 
 - 11:20 [*Workplace Everyday-Creativity through a Highly-Conversational UI to Large Language Models* Michael Muller (IBM); Jessica He (IBM Research); Justin Weisz (IBM Research AI).]({% link papers/2024/genaichi2024_15.pdf %})
 - 11:25 *Working with Large Language Models in the Rapid Ideation Process.* Gionnieve Lim (Singapore University of Technology and Design); Simon Perrault (Singapore University of Technology and Design).
-- 11:30 *Productively Hallucinating Desirable Futures with Generative AI.* Peter Kun (IT University of Copenhagen); Matthias Freiberger (Copenhagen University); Sebastian Risi (IT University of Copenhagen); Anders S Løvlie (IT University of Copenhagen).
-- 11:35 *Discussion.*
+- 11:30 *Discussion.*
 
 **11:45-12:20 Posters 1**
 
