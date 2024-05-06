@@ -138,7 +138,7 @@ All poster sessions run concurrently during all three Poster periods.
 - *Uncovering Challenges and Changes in Artists’ Practices as a Consequence of AI.* Petra Jääskeläinen (KTH); Anna-Kaisa Kaila (KTH Royal Institute of Technology, Stockholm); Andre Holzapfel (KTH Royal Institute of Technology in Stockholm).
 - [*Food Development through Co-creation with AI: bread with a "taste of love".* Takuya Sera (NEC Corporation); Izumi Kuwata (NEC Corporation); Yuki Taya (NEC Corporation); Noritaka Shimura (NEC Corporation); Yosuke Motohashi (NEC Corporation).](https://arxiv.org/abs/2404.12760)
 - [*Towards a Hierarchy of Trust in Human-AI Music-Making.* Adrian Hazzard (University of Nottingham); Craig Vear (University of Nottingham); Solomiya Moroz (University of Nottingham).]({% link papers/2024/genaichi2024_28.pdf %})
-- *Generative AI for Musicians: Small-Data Prototyping to Design Intelligent Musical Instruments.* Charles Patrick Martin (Australian National University).
+- [*Generative AI for Musicians: Small-Data Prototyping to Design Intelligent Musical Instruments.* Charles Patrick Martin (Australian National University).]({% link papers/2024/genaichi2024_50.pdf %})
 - [*Unstuck: Charting the Design Space of Generative AI-based Creativity Interventions.* Matthew K Hong (Toyota Research Institute); Pablo Paredes (Toyota Research Institute); Shabnam Hakimi (Toyota Research Institute); Monica Van (Toyota Research Institute); Matthew Klenk (Toyota Research Institute).]({% link papers/2024/genaichi2024_14.pdf %})
 
 **Poster Group 4: Harms: Privacy**
