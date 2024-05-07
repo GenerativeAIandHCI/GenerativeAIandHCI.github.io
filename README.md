@@ -75,7 +75,7 @@ All times are in HST local time
 **11:00-11:20 Paper session 3: Creativity: Media: Trade-offs**
 
 - 11:00 [*Shaping Realities: Enhancing 3D Generative AI with Fabrication Constraints.* Faraz Faruqi (MIT CSAIL); Yingtao Tian (Google Research, Brain Team); Vrushank Phadnis (Google Research); Varun Jampani (Stability AI); Stefanie Mueller (MIT CSAIL).](https://arxiv.org/pdf/2404.10142)
-- 11:05 *Case Study of GAI for Generating Novel Images for Real-World Embroidery.* Kate Glazko (University of Washington); Anika Arugunta (University of Washington); Janelle Chan (University of Washington); Nancy Jimenez-Garcia (University of Washington); Tashfia Sharmin (University of Washington); Jennifer C Mankoff (University of Washington).
+- 11:05 *Case Study of GAI for Generating Novel Images for Real-World Embroidery.* Kate Glazko (University of Washington); Anika Arugunta (University of Washington); Janelle Chan (University of Washington); Nancy Jimenez-Garcia (University of Washington); Tashfia Sharmin (University of Washington); Jennifer C Mankoff (University of Washington). <!-- no camera ready yet -->
 - 11:10 *Discussion*
 
 **11:20-11:45 Paper session 4: Creativity: Text**
@@ -93,7 +93,7 @@ All times are in HST local time
 **14:25-14:50 Paper session 5: Values: Harms**
 
 - 14:25 [*From Melting Pots to Misrepresentations: Exploring Harms in Generative AI.* Sanjana Gautam (Pennsylvania State University); Pranav N Venkit (Pennsylvania State University ); Sourojit Ghosh (University of Washington).]({% link papers/2024/genaichi2024_34.pdf %})
-- 14:30 *The Need for Flexible Interfaces for Text-to-Image Auditing: A Case Study of DALL·E 2 and DALL·E 3.* Clare Provenzano (Simon Fraser University); Parsa Rajabi (Simon Fraser University); Diana Cukierman (Simon Fraser University); Nicholas Vincent (Simon Fraser University).
+- 14:30 *The Need for Flexible Interfaces for Text-to-Image Auditing: A Case Study of DALL·E 2 and DALL·E 3.* Clare Provenzano (Simon Fraser University); Parsa Rajabi (Simon Fraser University); Diana Cukierman (Simon Fraser University); Nicholas Vincent (Simon Fraser University). <!-- non-publication -->
 - 14:35 [*How an AI Generated Experience Impacts Negative Perceptions of AI.* MJ Johns (University of California Santa Cruz); Tyler Coleman (University of California).]({% link papers/2024/genaichi2024_2.pdf %})
 - 14:40 *Discussion*
 
@@ -124,18 +124,18 @@ All poster sessions run concurrently during all three Poster periods.
 **Poster Group 1: Tools or Partners**
 
 - [*Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the Creative Industries.* Oliver H Wood (Those Beyond).]({% link papers/2024/genaichi2024_5.pdf %})
-- *Generating Summary Videos from User Questions to Support Video-Based Learning.* Kazuki Kawamura (The University of Tokyo); Jun Rekimoto (The Univertsity of Tokyo).
+- *Generating Summary Videos from User Questions to Support Video-Based Learning.* Kazuki Kawamura (The University of Tokyo); Jun Rekimoto (The Univertsity of Tokyo). <!-- no camera ready yet -->
 - *Exploring Human-AI Collaboration Continuum in Augmented Reality Applications.* Shokoufeh Bozorgmehrian (Virginia Tech); Joseph Gabbard (Virginia Tech).
-- *How GenAI Can Affect Design Work.* Samangi Wadinambiarachchi (The University of Melbourne)*; Jenny Waycott (The University of Melbourne); Ryan Kelly (RMIT University); Eduardo Velloso (The University of Sydney); Greg Wadley (University of Melbourne, AUS).
+- *How GenAI Can Affect Design Work.* Samangi Wadinambiarachchi (The University of Melbourne)*; Jenny Waycott (The University of Melbourne); Ryan Kelly (RMIT University); Eduardo Velloso (The University of Sydney); Greg Wadley (University of Melbourne, AUS). <!-- non-publication -->
 
 **Poster Group 2: Prompting**
 
 - [*Generative AI in Color-Changing Systems: Re-Programmable 3D Object Textures with Material and Design Constraints.* Yunyi Zhu (MIT CSAIL); Faraz Faruqi (MIT CSAIL); Stefanie Mueller (MIT CSAIL).](https://arxiv.org/abs/2404.17028)
-- *On Abduction and Reflective Prompt Engineering.* Gabriel D J Barbosa (Pontifical Catholic University of Rio de Janeiro); Clarisse Sieckenius de Souza (Pontifical Catholic University of Rio de Janeiro).
+- *On Abduction and Reflective Prompt Engineering.* Gabriel D J Barbosa (Pontifical Catholic University of Rio de Janeiro); Clarisse Sieckenius de Souza (Pontifical Catholic University of Rio de Janeiro). <!-- no camera ready yet -->
 
 **Poster Group 3: Creativity**
 
-- *Uncovering Challenges and Changes in Artists’ Practices as a Consequence of AI.* Petra Jääskeläinen (KTH); Anna-Kaisa Kaila (KTH Royal Institute of Technology, Stockholm); Andre Holzapfel (KTH Royal Institute of Technology in Stockholm).
+- *Uncovering Challenges and Changes in Artists’ Practices as a Consequence of AI.* Petra Jääskeläinen (KTH); Anna-Kaisa Kaila (KTH Royal Institute of Technology, Stockholm); Andre Holzapfel (KTH Royal Institute of Technology in Stockholm). <!-- non-publication -->
 - [*Food Development through Co-creation with AI: bread with a "taste of love".* Takuya Sera (NEC Corporation); Izumi Kuwata (NEC Corporation); Yuki Taya (NEC Corporation); Noritaka Shimura (NEC Corporation); Yosuke Motohashi (NEC Corporation).](https://arxiv.org/abs/2404.12760)
 - [*Towards a Hierarchy of Trust in Human-AI Music-Making.* Adrian Hazzard (University of Nottingham); Craig Vear (University of Nottingham); Solomiya Moroz (University of Nottingham).]({% link papers/2024/genaichi2024_28.pdf %})
 - [*Generative AI for Musicians: Small-Data Prototyping to Design Intelligent Musical Instruments.* Charles Patrick Martin (Australian National University).]({% link papers/2024/genaichi2024_50.pdf %})
@@ -143,7 +143,7 @@ All poster sessions run concurrently during all three Poster periods.
 
 **Poster Group 4: Harms: Privacy**
 
-- *Privacy Risks and Legal Challenges in the Emergent Use of Generative AI in Research with Participant Data.* Wendy  Moncur (University of Strathclyde); Ryan  Gibson (University of Strathclyde); Ali Farooq (University of Strathclyde); Burkhard Schafer (University of Edinburg).
+- *Privacy Risks and Legal Challenges in the Emergent Use of Generative AI in Research with Participant Data.* Wendy  Moncur (University of Strathclyde); Ryan  Gibson (University of Strathclyde); Ali Farooq (University of Strathclyde); Burkhard Schafer (University of Edinburg). <!-- no camera ready yet -->
 - [*Exploring ChatGPT’s ability to detect privacy violations in photo sharing.* Arun Balaji  Buduru (IIIT Delhi); Apu Kapadia (Indiana University)*; Christine Chen (Indiana University); Chris Page (Indiana University); Kendrick Mernitz (Indiana University); Ben Malone (Indiana University).]({% link papers/2024/genaichi2024_30.pdf %})
 - [*Closing the Loop: Embedding Observability in the GenAI Product Lifecycle for Systematic Bias Mitigation.* Freyam Mehta (International Institute of Information technology Hyderabad); Nimmi Rangaswamy (International Institute of Information technology Hyderabad).]({% link papers/2024/genaichi2024_49.pdf %})
 - [*On CLIP's Ability of Analyzing Fake Images at a Large Scale: Why are they fake?* Jinbin Huang (Arizona State University); Chen Chen (University of Maryland, College Park); Aditi Mishra (Arizona State University); Bum Chul Kwon (IBM Research); Zhicheng Liu (University of Maryland, College Park); Chris Bryan (Arizona State University).]({% link papers/2024/genaichi2024_8.pdf %})
@@ -154,7 +154,7 @@ All poster sessions run concurrently during all three Poster periods.
  
 - [*How can LLMs support UX Practitioners with image-related tasks?* Ruican Zhong (University of Washington); Gary Hsieh (University of Washington); David  McDonald (University of Washington).]({% link papers/2024/genaichi2024_29.pdf %})
 - *Exploring the role of Generative AI models for research in the public sector.* Kelly McConvey (University of Toronto); Erina Moon (University of Toronto); Shion Guha (University of Toronto).
-- *Machine Conversations as Design Conversations.* Alice Cai (Harvard University); Celine Offerman (Delft University of Technology); Shiyan Zhang (Stevens Institute of Technology); Lydia B Chilton (Columbia University); Kevin Crowston (Syracuse University); Jeffrey V Nickerson (Stevens Institute of Technology).
+- *Machine Conversations as Design Conversations.* Alice Cai (Harvard University); Celine Offerman (Delft University of Technology); Shiyan Zhang (Stevens Institute of Technology); Lydia B Chilton (Columbia University); Kevin Crowston (Syracuse University); Jeffrey V Nickerson (Stevens Institute of Technology). <!-- non-publication -->
 
 **Poster Group 6: Emotion.**
 
