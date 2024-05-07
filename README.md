@@ -81,7 +81,7 @@ All times are in HST local time
 **11:20-11:45 Paper session 4: Creativity: Text**
 
 - 11:20 [*Workplace Everyday-Creativity through a Highly-Conversational UI to Large Language Models* Michael Muller (IBM); Jessica He (IBM Research); Justin Weisz (IBM Research AI).]({% link papers/2024/genaichi2024_15.pdf %})
-- 11:25 *Working with Large Language Models in the Rapid Ideation Process.* Gionnieve Lim (Singapore University of Technology and Design); Simon Perrault (Singapore University of Technology and Design).
+- 11:25 [*Working with Large Language Models in the Rapid Ideation Process.* Gionnieve Lim (Singapore University of Technology and Design); Simon Perrault (Singapore University of Technology and Design).]({% link papers/2024/genaichi2024_22.pdf %})
 - 11:30 *Discussion.*
 
 **11:45-12:20 Posters 1**
@@ -125,7 +125,7 @@ All poster sessions run concurrently during all three Poster periods.
 
 - [*Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the Creative Industries.* Oliver H Wood (Those Beyond).]({% link papers/2024/genaichi2024_5.pdf %})
 - *Generating Summary Videos from User Questions to Support Video-Based Learning.* Kazuki Kawamura (The University of Tokyo); Jun Rekimoto (The Univertsity of Tokyo). <!-- no camera ready yet -->
-- *Exploring Human-AI Collaboration Continuum in Augmented Reality Applications.* Shokoufeh Bozorgmehrian (Virginia Tech); Joseph Gabbard (Virginia Tech).
+- [*Exploring Human-AI Collaboration Continuum in Augmented Reality Applications.* Shokoufeh Bozorgmehrian (Virginia Tech); Joseph Gabbard (Virginia Tech).]({% link papers/2024/genaichi2024_41.pdf %})
 - *How GenAI Can Affect Design Work.* Samangi Wadinambiarachchi (The University of Melbourne)*; Jenny Waycott (The University of Melbourne); Ryan Kelly (RMIT University); Eduardo Velloso (The University of Sydney); Greg Wadley (University of Melbourne, AUS). <!-- non-publication -->
 
 **Poster Group 2: Prompting**
@@ -153,7 +153,7 @@ All poster sessions run concurrently during all three Poster periods.
  **Poster Group 5: Values: Synthetic**
  
 - [*How can LLMs support UX Practitioners with image-related tasks?* Ruican Zhong (University of Washington); Gary Hsieh (University of Washington); David  McDonald (University of Washington).]({% link papers/2024/genaichi2024_29.pdf %})
-- *Exploring the role of Generative AI models for research in the public sector.* Kelly McConvey (University of Toronto); Erina Moon (University of Toronto); Shion Guha (University of Toronto).
+- [*Exploring the role of Generative AI models for research in the public sector.* Kelly McConvey (University of Toronto); Erina Moon (University of Toronto); Shion Guha (University of Toronto).]({% link papers/2024/genaichi2024_42.pdf %})
 - *Machine Conversations as Design Conversations.* Alice Cai (Harvard University); Celine Offerman (Delft University of Technology); Shiyan Zhang (Stevens Institute of Technology); Lydia B Chilton (Columbia University); Kevin Crowston (Syracuse University); Jeffrey V Nickerson (Stevens Institute of Technology). <!-- non-publication -->
 
 **Poster Group 6: Emotion.**
