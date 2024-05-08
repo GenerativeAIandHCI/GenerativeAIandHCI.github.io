@@ -114,7 +114,7 @@ All times are in HST local time
 - 16:05 [*Unlocking the User Experience of Generative AI Applications: Design Patternsand Principles.* Vinita Tibdewal (Google USA).]({% link papers/2024/genaichi2024_47.pdf %})
 - 16:10 *Discussion*
 
-**16:20-16:50 Posters 2** <!-- 12:20AEST -->
+**16:20-16:50 Posters 3** <!-- 12:20AEST -->
 
 **16:50-17:20 Closing** <!-- 12:50AEST Charles can chair -->
 
