@@ -76,7 +76,7 @@ All times are in HST local time
 **11:00-11:20 Paper session 3: Creativity: Media: Trade-offs** <!-- 07:00AEST Charles can chair -->
 
 - 11:00 [*Shaping Realities: Enhancing 3D Generative AI with Fabrication Constraints.* Faraz Faruqi (MIT CSAIL); Yingtao Tian (Google Research, Brain Team); Vrushank Phadnis (Google Research); Varun Jampani (Stability AI); Stefanie Mueller (MIT CSAIL).](https://arxiv.org/pdf/2404.10142)
-- 11:05 *Case Study of GAI for Generating Novel Images for Real-World Embroidery.* Kate Glazko (University of Washington); Anika Arugunta (University of Washington); Janelle Chan (University of Washington); Nancy Jimenez-Garcia (University of Washington); Tashfia Sharmin (University of Washington); Jennifer C Mankoff (University of Washington). <!-- no camera ready yet -->
+- 11:05 [*Case Study of GAI for Generating Novel Images for Real-World Embroidery.* Kate Glazko (University of Washington); Anika Arugunta (University of Washington); Janelle Chan (University of Washington); Nancy Jimenez-Garcia (University of Washington); Tashfia Sharmin (University of Washington); Jennifer C Mankoff (University of Washington).]({% link papers/2024/genaichi2024_54.pdf %})
 - 11:10 *Discussion*
 
 **11:20-11:45 Paper session 4: Creativity: Text** <!-- 07:20AEST Charles can chair -->
@@ -89,9 +89,9 @@ All times are in HST local time
 
 **12:20-14:00 Lunch**
 
-**14:00-14:25 Posters 2** <!-- 10:00AEST Charles out-->
+**14:00-14:25 Posters 2** <!-- 10:00AEST chair?-->
 
-**14:25-14:50 Paper session 5: Values: Harms** <!-- 10:25AEST Charles out chair? -->
+**14:25-14:50 Paper session 5: Values: Harms** <!-- 10:25AEST chair? -->
 
 - 14:25 [*From Melting Pots to Misrepresentations: Exploring Harms in Generative AI.* Sanjana Gautam (Pennsylvania State University); Pranav N Venkit (Pennsylvania State University ); Sourojit Ghosh (University of Washington).]({% link papers/2024/genaichi2024_34.pdf %})
 - 14:30 *The Need for Flexible Interfaces for Text-to-Image Auditing: A Case Study of DALL·E 2 and DALL·E 3.* Clare Provenzano (Simon Fraser University); Parsa Rajabi (Simon Fraser University); Diana Cukierman (Simon Fraser University); Nicholas Vincent (Simon Fraser University). <!-- non-publication -->
@@ -144,7 +144,7 @@ All poster sessions run concurrently during all three Poster periods.
 
 **Poster Group 4: Harms: Privacy**
 
-- *Privacy Risks and Legal Challenges in the Emergent Use of Generative AI in Research with Participant Data.* Wendy  Moncur (University of Strathclyde); Ryan  Gibson (University of Strathclyde); Ali Farooq (University of Strathclyde); Burkhard Schafer (University of Edinburg). <!-- no camera ready yet -->
+<!-- - *Privacy Risks and Legal Challenges in the Emergent Use of Generative AI in Research with Participant Data.* Wendy  Moncur (University of Strathclyde); Ryan  Gibson (University of Strathclyde); Ali Farooq (University of Strathclyde); Burkhard Schafer (University of Edinburg). (withdrawn) -->
 - [*Exploring ChatGPT’s ability to detect privacy violations in photo sharing.* Arun Balaji  Buduru (IIIT Delhi); Apu Kapadia (Indiana University)*; Christine Chen (Indiana University); Chris Page (Indiana University); Kendrick Mernitz (Indiana University); Ben Malone (Indiana University).]({% link papers/2024/genaichi2024_30.pdf %})
 - [*Closing the Loop: Embedding Observability in the GenAI Product Lifecycle for Systematic Bias Mitigation.* Freyam Mehta (International Institute of Information technology Hyderabad); Nimmi Rangaswamy (International Institute of Information technology Hyderabad).]({% link papers/2024/genaichi2024_49.pdf %})
 - [*On CLIP's Ability of Analyzing Fake Images at a Large Scale: Why are they fake?* Jinbin Huang (Arizona State University); Chen Chen (University of Maryland, College Park); Aditi Mishra (Arizona State University); Bum Chul Kwon (IBM Research); Zhicheng Liu (University of Maryland, College Park); Chris Bryan (Arizona State University).]({% link papers/2024/genaichi2024_8.pdf %})
