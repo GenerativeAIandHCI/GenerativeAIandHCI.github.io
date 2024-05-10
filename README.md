@@ -170,11 +170,13 @@ This **hybrid** workshop will involve participants at their own locations around
 
 ![Gather Town Conference Lobby]({% link images/genaichi-gathertown.jpg %})
 
-- First authors and registered workshop participants will receive links for invites to the Gather Town space in the few days before the workshop.
-- Please make sure that you try logging into Gather Town using the email account that you have used for conference registration **or** for your submission on CMT.
+- First authors and registered workshop participants have received links for the Gather Town space via email.
+- Please make sure that you use the above emailed link.
 - Gather Town works best in [Chrome/Chromium](https://support.gather.town/hc/en-us/articles/23924440456852-Browser-Support-Policy) or in the [dedicated Gather application](https://www.gather.town/download).
 - If you are on site in Hawai'i please remember to bring a device with you that can run Gather (either in app or browser) to see the posters and talks.
 - If you have trouble with Gather Town's screen sharing, audio, or video, see [their troubleshooting page](https://support.gather.town/hc/en-us/articles/15910394815508-Troubleshooting-Checklist-Audio-Video-and-Performance-Issues).
+
+**N.B. You should have received a link for the Gather Town Space via email, if you have not, please ask [Charles Martin](mailto:charles.martin@anu.edu.au)**
 
 Please note that the organisers (Charles, Greg, Mary Lou, Anna, and Michael) will **not be onsite**. If you don't log into our gather space, we won't be able to find you so make sure you test out Gather and have a device with you whether you are remote or onsite.
 
