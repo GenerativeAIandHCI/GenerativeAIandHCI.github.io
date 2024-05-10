@@ -125,7 +125,7 @@ All poster sessions run concurrently during all three Poster periods.
 **Poster Group 1: Tools or Partners**
 
 - [*Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the Creative Industries.* Oliver H Wood (Those Beyond).]({% link papers/2024/genaichi2024_5.pdf %})
-- *Generating Summary Videos from User Questions to Support Video-Based Learning.* Kazuki Kawamura (The University of Tokyo); Jun Rekimoto (The Univertsity of Tokyo). <!-- no camera ready yet -->
+- [*Generating Summary Videos from User Questions to Support Video-Based Learning.* Kazuki Kawamura (The University of Tokyo); Jun Rekimoto (The Univertsity of Tokyo).]({% link papers/2024/genaichi2024_25.pdf %})
 - [*Exploring Human-AI Collaboration Continuum in Augmented Reality Applications.* Shokoufeh Bozorgmehrian (Virginia Tech); Joseph Gabbard (Virginia Tech).]({% link papers/2024/genaichi2024_41.pdf %})
 - *How GenAI Can Affect Design Work.* Samangi Wadinambiarachchi (The University of Melbourne)*; Jenny Waycott (The University of Melbourne); Ryan Kelly (RMIT University); Eduardo Velloso (The University of Sydney); Greg Wadley (University of Melbourne, AUS). <!-- non-publication -->
 
