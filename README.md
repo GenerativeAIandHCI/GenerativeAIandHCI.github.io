@@ -118,7 +118,7 @@ All times are in HST local time. All presentations take place in Gather Town.
 
 ## Posters {#posters}
 
-All posters are listed by theme below, all will be presented concurrently during all three Poster periods shown in the program.
+All posters are listed by theme below, all will be presented concurrently during the three poster periods shown in the program.
 
 ### Tools or Partners
 
@@ -149,7 +149,7 @@ All posters are listed by theme below, all will be presented concurrently during
 - [*Detecting Generative AI Usage in Application Essays.* Neil Natarajan (University of Oxford).]({% link papers/2024/genaichi2024_9.pdf %})
 - [*Holding the Line: A Study of Writers’ Attitudes on Co-creativity with AI.* Morteza Behrooz (Meta).]({% link papers/2024/genaichi2024_11.pdf %})
 
- ### Values: Synthetic
+### Values: Synthetic
  
 - [*How can LLMs support UX Practitioners with image-related tasks?* Ruican Zhong (University of Washington); Gary Hsieh (University of Washington); David  McDonald (University of Washington).]({% link papers/2024/genaichi2024_29.pdf %})
 - [*Exploring the role of Generative AI models for research in the public sector.* Kelly McConvey (University of Toronto); Erina Moon (University of Toronto); Shion Guha (University of Toronto).]({% link papers/2024/genaichi2024_42.pdf %})
