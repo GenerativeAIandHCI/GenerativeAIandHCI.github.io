@@ -47,11 +47,9 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 - [2022 Proceedings]({% link 2022.md %})
 - [2023 Proceedings]({% link 2023.md %})
 
-# Program
+# Program {#program}
 
 All times are in HST local time
-
-## Papers
 
 **09:00-09:20 Welcome + Introductions** (chair: Greg Walsh)
 
@@ -118,9 +116,9 @@ All times are in HST local time
 
 **16:50-17:20 Closing** <!-- 12:50AEST Charles can chair --> (chair: Charles Martin)
 
-## Posters
+## Posters {#posters}
 
-All posters are listed by theme below, all will be presented concurrently during all three Poster periods.
+All posters are listed by theme below, all will be presented concurrently during all three Poster periods shown in the program.
 
 ### Tools or Partners
 
