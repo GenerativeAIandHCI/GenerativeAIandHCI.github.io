@@ -120,21 +120,21 @@ All times are in HST local time
 
 ## Posters
 
-All poster sessions run concurrently during all three Poster periods.
+All posters are listed by theme below, all will be presented concurrently during all three Poster periods.
 
-**Poster Group 1: Tools or Partners**
+### Tools or Partners
 
 - [*Loremaster: Towards Better Mixed-Initiative Content Co-Creation in the Creative Industries.* Oliver H Wood (Those Beyond).]({% link papers/2024/genaichi2024_5.pdf %})
 - [*Generating Summary Videos from User Questions to Support Video-Based Learning.* Kazuki Kawamura (The University of Tokyo); Jun Rekimoto (The Univertsity of Tokyo).]({% link papers/2024/genaichi2024_25.pdf %})
 - [*Exploring Human-AI Collaboration Continuum in Augmented Reality Applications.* Shokoufeh Bozorgmehrian (Virginia Tech); Joseph Gabbard (Virginia Tech).]({% link papers/2024/genaichi2024_41.pdf %})
 - *How GenAI Can Affect Design Work.* Samangi Wadinambiarachchi (The University of Melbourne)*; Jenny Waycott (The University of Melbourne); Ryan Kelly (RMIT University); Eduardo Velloso (The University of Sydney); Greg Wadley (University of Melbourne, AUS). <!-- non-publication -->
 
-**Poster Group 2: Prompting**
+### Prompting
 
 - [*Generative AI in Color-Changing Systems: Re-Programmable 3D Object Textures with Material and Design Constraints.* Yunyi Zhu (MIT CSAIL); Faraz Faruqi (MIT CSAIL); Stefanie Mueller (MIT CSAIL).](https://arxiv.org/abs/2404.17028)
 - *On Abduction and Reflective Prompt Engineering.* Gabriel D J Barbosa (Pontifical Catholic University of Rio de Janeiro); Clarisse Sieckenius de Souza (Pontifical Catholic University of Rio de Janeiro). <!-- no camera ready yet -->
 
-**Poster Group 3: Creativity**
+### Creativity
 
 - *Uncovering Challenges and Changes in Artists’ Practices as a Consequence of AI.* Petra Jääskeläinen (KTH); Anna-Kaisa Kaila (KTH Royal Institute of Technology, Stockholm); Andre Holzapfel (KTH Royal Institute of Technology in Stockholm). <!-- non-publication -->
 - [*Food Development through Co-creation with AI: bread with a "taste of love".* Takuya Sera (NEC Corporation); Izumi Kuwata (NEC Corporation); Yuki Taya (NEC Corporation); Noritaka Shimura (NEC Corporation); Yosuke Motohashi (NEC Corporation).](https://arxiv.org/abs/2404.12760)
@@ -142,7 +142,7 @@ All poster sessions run concurrently during all three Poster periods.
 - [*Generative AI for Musicians: Small-Data Prototyping to Design Intelligent Musical Instruments.* Charles Patrick Martin (Australian National University).]({% link papers/2024/genaichi2024_50.pdf %})
 - [*Unstuck: Charting the Design Space of Generative AI-based Creativity Interventions.* Matthew K Hong (Toyota Research Institute); Pablo Paredes (Toyota Research Institute); Shabnam Hakimi (Toyota Research Institute); Monica Van (Toyota Research Institute); Matthew Klenk (Toyota Research Institute).]({% link papers/2024/genaichi2024_14.pdf %})
 
-**Poster Group 4: Harms: Privacy**
+### Harms: Privacy
 
 <!-- - *Privacy Risks and Legal Challenges in the Emergent Use of Generative AI in Research with Participant Data.* Wendy  Moncur (University of Strathclyde); Ryan  Gibson (University of Strathclyde); Ali Farooq (University of Strathclyde); Burkhard Schafer (University of Edinburg). (withdrawn) -->
 - [*Exploring ChatGPT’s ability to detect privacy violations in photo sharing.* Arun Balaji  Buduru (IIIT Delhi); Apu Kapadia (Indiana University)*; Christine Chen (Indiana University); Chris Page (Indiana University); Kendrick Mernitz (Indiana University); Ben Malone (Indiana University).]({% link papers/2024/genaichi2024_30.pdf %})
@@ -151,13 +151,13 @@ All poster sessions run concurrently during all three Poster periods.
 - [*Detecting Generative AI Usage in Application Essays.* Neil Natarajan (University of Oxford).]({% link papers/2024/genaichi2024_9.pdf %})
 - [*Holding the Line: A Study of Writers’ Attitudes on Co-creativity with AI.* Morteza Behrooz (Meta).]({% link papers/2024/genaichi2024_11.pdf %})
 
- **Poster Group 5: Values: Synthetic**
+ ### Values: Synthetic
  
 - [*How can LLMs support UX Practitioners with image-related tasks?* Ruican Zhong (University of Washington); Gary Hsieh (University of Washington); David  McDonald (University of Washington).]({% link papers/2024/genaichi2024_29.pdf %})
 - [*Exploring the role of Generative AI models for research in the public sector.* Kelly McConvey (University of Toronto); Erina Moon (University of Toronto); Shion Guha (University of Toronto).]({% link papers/2024/genaichi2024_42.pdf %})
 - *Machine Conversations as Design Conversations.* Alice Cai (Harvard University); Celine Offerman (Delft University of Technology); Shiyan Zhang (Stevens Institute of Technology); Lydia B Chilton (Columbia University); Kevin Crowston (Syracuse University); Jeffrey V Nickerson (Stevens Institute of Technology). <!-- non-publication -->
 
-**Poster Group 6: Emotion.**
+### Emotion
 
 - [*Crafting Emotional TTS Conversation Responses Based on User Preferences.* Laya Iyer (Stanford University), Sanmi Koyejo (Stanford University).]({% link papers/2024/genaichi2024_23.pdf %})
 - [*Physiological Signals as Implicit Multimodal Input in Human-AI Interactions During Creative Tasks.* Teodora Mitrevska (LMU).]({% link papers/2024/genaichi2024_59.pdf %})
