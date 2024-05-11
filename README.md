@@ -49,7 +49,7 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 
 # Program {#program}
 
-All times are in HST local time
+All times are in HST local time. All presentations take place in Gather Town.
 
 **09:00-09:20 Welcome + Introductions** (chair: Greg Walsh)
 
