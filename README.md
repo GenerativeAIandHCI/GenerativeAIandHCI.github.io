@@ -114,7 +114,7 @@ All times are in HST local time. All presentations take place in Gather Town.
 
 **16:20-16:50 Posters 3** <!-- 12:20AEST -->
 
-**16:50-17:20 Closing** <!-- 12:50AEST Charles can chair --> (chair: Charles Martin) [*slides*]({% link papers/2024/genaichi2024_closing.pdf %})
+**16:50-17:20 Closing**
 
 ## Posters {#posters}
 
@@ -174,7 +174,7 @@ This **hybrid** workshop will involve participants at their own locations around
 - If you are on site in Hawai'i please remember to bring a device with you that can run Gather (either in app or browser) to see the posters and talks.
 - If you have trouble with Gather Town's screen sharing, audio, or video, see [their troubleshooting page](https://support.gather.town/hc/en-us/articles/15910394815508-Troubleshooting-Checklist-Audio-Video-and-Performance-Issues).
 
-**N.B. You should have received a link for the Gather Town Space via email, if you have not, please ask [Charles Martin](mailto:charles.martin@anu.edu.au)**
+**N.B. You should have received a link for the Gather Town Space via email.**
 
 Please note that the organisers (Charles, Greg, Mary Lou, Anna, and Michael) will **not be onsite**. If you don't log into our gather space, we won't be able to find you so make sure you test out Gather and have a device with you whether you are remote or onsite.
 
