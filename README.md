@@ -114,7 +114,7 @@ All times are in HST local time. All presentations take place in Gather Town.
 
 **16:20-16:50 Posters 3** <!-- 12:20AEST -->
 
-**16:50-17:20 Closing**
+**16:50-17:20 Closing** <!-- 12:50AEST Charles can chair --> (chair: Charles Martin) [*slides*]({% link papers/2024/genaichi2024_closing.pdf %})
 
 ## Posters {#posters}
 
