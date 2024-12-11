@@ -12,7 +12,7 @@ permalink: /
 
 # Outline
 
-Please join us for the fourth Generative AI and HCI workshop at CHI 2025. We previously ran workshops in [2022]({% link 2022.md %}), [2023]({% link 2023.md %}), [2025]({% link 2024.md %}).
+Please join us for the fourth Generative AI and HCI workshop at CHI 2025. We previously ran workshops in [2022]({% link 2022.md %}), [2023]({% link 2023.md %}), [2024]({% link 2024.md %}).
 
 - **Venue**: Hybrid (Yokohama, Japan and Online)
 - **Workshop Date**: 26 April, 2025. 
