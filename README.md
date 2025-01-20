@@ -18,7 +18,7 @@ Please join us for the fourth Generative AI and HCI workshop at CHI 2025. We pre
 - **Workshop Date**: 26 April, 2025. 
 - **Submission Deadline**:, 13 February, 2025 23:59 AoE
 - **Notification**: 13 March, 2025
-- **Submission Website**: TBA
+- **Submission Website**: <https://cmt3.research.microsoft.com/genaichi2025>
 - **Submission Templates**: [ACM Primary Article Template](https://www.acm.org/publications/proceedings-template) (4 pages max excluding references - Anonymous submissions preferred)
 
 In the past year, we have seen or made powerful tools that can create images from textual descriptions or conduct
