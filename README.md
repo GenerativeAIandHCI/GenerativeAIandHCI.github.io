@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <figure>
- <img src="{[images/2023-firefly.jpg]" 
+ <img src="{images/2023-firefly.jpg" 
  alt="A conference seminar involving with an AI that does not simply categorize data and interpret text as determined by models, but instead creates something new—e.g., in images, molecules, or designs. This work moves the potential of AI systems from problem solving to problem finding, and it tends to change the “role” of the AI from decision-maker to human-supporter. The session is focussed on various aspects of generative AI and its interactions with humans, including new sociotechnical opportunities for work and recreation that are afforded by powerful new interfaces.">
  <figcaption>Created with Adobe Firefly</figcaption>
 </figure>
