@@ -5,10 +5,11 @@ description: CHI Workshop on Generative AI and HCI
 permalink: /
 ---
 
-![](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
+![(decorative image)](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)  
+
+
 
 <!---
-EXAMPLE <img src="images/example.png" width="300" />
 NO <img src=https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg" width="300" />
 NO ![](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
 NO ![http://url/to/img.png](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
