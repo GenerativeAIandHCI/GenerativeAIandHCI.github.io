@@ -7,9 +7,12 @@ permalink: /
 
 ![](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
 
+<img src=https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg" width="300" />
+
 <!---
+EXAMPLE <img src="images/example.png" width="300" />
 NO ![](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
-![http://url/to/img.png](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
+NO ![http://url/to/img.png](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
 
 [//]: # <figure>  
 [//]: #  <img src="(https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)"  
