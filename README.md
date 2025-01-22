@@ -41,7 +41,7 @@ This scope is broad, and the generative potential of AI systems varies greatly. 
 a shift in methodology moving from expert systems based on patterns and heavy human curating towards stochastic and generative models such as Generative Adversarial Networks (GANs) that use big data to produce
 convincingly human-like results in various domains, and Large Language Models (LLMs) that can generate text, source code, and images from simple instructions (“prompts”).
 
-**Full-text of Workshop proposal ** (GenAICHI 2025) 
+**Full-text of Workshop proposal** (GenAICHI 2025) 
 [GenAICHI](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/CHI_2025_GenAICHI_Workshop_for_Github.pdf)
 
 ## Past Workshop Proceedings
