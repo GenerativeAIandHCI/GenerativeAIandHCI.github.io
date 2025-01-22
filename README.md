@@ -140,12 +140,16 @@ Please send any comments or questions to Michael Muller, <michael_muller@us.ibm.
 
 Accepted papers will be presented in the workshop and authors can choose to publish their paper here on the workshop website under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-{% comment %}
 # Program Committee
-{% endcomment %}
+
+(to be announced)
 
 # Organizers
- 
+
+**Lydia B. Chilton** is an Assistant Professor in the Computer Science Department at Columbia University. Her research shows how AI can augment human problem-solving, innovation, and creativity. She has co-organized 8 workshops on Human-centered AI at CHI, UIST, and IUI.
+
+**Minsik Choi** is a PhD researcher in computing at the Australian National University at the intersections of sound, music, and HCI. He studies how sound design tools can be enhanced with generative AI to incorporate musical knowledge.
+
 **Anna Kantosalo** is a Postdoctoral Researcher at the University of Helsinki. The focus of her research is Human--Computer Co-Creativity and she is defining models and methods for building and describing systems in which humans and autonomous creative agents can work together. She has chaired the Future of Co-Creative Systems workshop adjoined with the International Conference on Computational Creativity twice.
 
 **Mary Lou Maher** is a Professor in the Software and Information Systems Department at the University of North Carolina at Charlotte. Her early research in AI-based generative design has lead to a human centered approach to computational creativity and co-creative systems. She has Chaired the Creativity and Cognition Conference (2019) and the International Conference on Computational Creativity (2019) as well as organized several workshops on AI-based design and creativity.
