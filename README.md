@@ -49,6 +49,10 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 - [2023 Proceedings]({% link 2023.md %})
 - [2024 Proceedings]({% link 2024.md %})
 
+## Full-text of Workshop proposal (CHI 2025)
+
+https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/CHI_2025_GenAICHI_Workshop_for_Github.pdf
+
 # Program {#program}
 
 (to be announced)
