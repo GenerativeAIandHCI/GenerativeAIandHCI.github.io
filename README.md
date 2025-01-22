@@ -5,7 +5,7 @@ description: CHI Workshop on Generative AI and HCI
 permalink: /
 ---
 
-![image](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
+![](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
 
 <!---
 ![http://url/to/img.png](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
