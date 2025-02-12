@@ -1,7 +1,7 @@
 ---
 layout: home
 title: GenAICHI 2025
-description: CHI Workshop on Generative AI and HCI
+description: CHI Hybrid Workshop on Generative AI and HCI
 permalink: /
 ---
 
@@ -29,8 +29,8 @@ NO ![http://url/to/img.png](https://github.com/GenerativeAIandHCI/GenerativeAIan
 Please join us for the fourth Generative AI and HCI workshop at CHI 2025. We previously ran workshops in [2022]({% link 2022.md %}), [2023]({% link 2023.md %}), [2024]({% link 2024.md %}).
 
 - **Venue**: Hybrid (Yokohama, Japan and Online)
-- **Workshop Date**: 26 April, 2025. 
-- **Submission Deadline**:, 13 February, 2025 23:59 AoE
+- **Workshop Date**: 27 April, 2025. 
+- **Submission Deadline**:, 20 February, 2025 23:59 AoE
 - **Notification**: 13 March, 2025
 - **Submission Website**: <https://cmt3.research.microsoft.com/genaichi2025>
 - **Submission Templates**: [ACM Primary Article Template](https://www.acm.org/publications/proceedings-template) (4 pages max excluding references - Anonymous submissions preferred)
