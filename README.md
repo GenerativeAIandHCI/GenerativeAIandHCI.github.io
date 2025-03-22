@@ -69,31 +69,31 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 
 (to be announced)
 
-## Societal Implications
+### Societal Implications
 <ul></ul>
 
-## Creativity - Abstract
+### Creativity - Abstract
 <ul></ul>
 
-## Creativity - Visual
+### Creativity - Visual
 <ul></ul>
 
-## Role of AI
+### Role of AI
 <ul></ul>
 
-## Role of AI - Tool or Partner?
+### Role of AI - Tool or Partner?
 <ul></ul>
 
-## Applications
+### Applications
 <ul></ul>
 
-## Applications - Education and Related
+### Applications - Education and Related
 <ul></ul>
 
-## Formal
+### Formal
 <ul></ul>
 
-## Title+Authors only
+### Title+Authors (without presentation)
 <ul></ul>
 
 # Presentation and Attendence Details {#presentation}
