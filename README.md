@@ -158,8 +158,85 @@ Please send any comments or questions to Michael Muller, <michael_muller@us.ibm.
 Accepted papers will be presented in the workshop and authors can choose to publish their paper here on the workshop website under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 # Program Committee
+Mohit  Agrawal, Wealthfront
 
-(to be announced)
+Tarun Eldho  Alias, Neem Inc
+
+Andrew A Anderson, IBM Research
+
+Jaehoo  Bae, Seoul National University
+
+Minsik  Choi, The Australian National University
+
+Lorenzo  Corti, Delft University of Technology
+
+Jordan Aiko  Deja, De La Salle University
+
+Hyo Jin  Do, IBM Research
+
+Werner  Geyer, IBM Research
+
+Shabnam  Hakimi, Toyota Research Institute
+
+Jessica  He, IBM Research
+
+Michael  Hind, IBM Research
+
+Jussi  Holopainen, City University of Hong Kong
+
+Balaji Shesharao  Ingole, Gainwell Technologies LLC
+
+Anthony  Jameson, Contaction AG
+
+Bharath Kumar Reddy  Janumpally, Paypal
+
+Anna-Kaisa  Kaila, KTH Royal Institute of Technology, Stockholm
+
+Anna   Kantosalo, University of Helsinki
+
+Siya  Kunde, IBM Research
+
+Manoj Varma  Lakhamraju, CVS Health
+
+Ishaani  M, Independent
+
+Mary Lou  Maher, Univeristy of North Carolina
+
+Charles Patrick Martin, Australian National University
+
+jacquelyn  martino, ibm
+
+Abhinav  Mehta, Amazon.com Services LLC
+
+Mohit  Menghnani, Twilio
+
+Michael  Muller, IBM
+
+Anusha  Musunuri, Snap Inc
+
+Viktoria  Pammer-Schindler, Graz University of Technology
+
+Isan  Sahoo, Oracle
+
+Briane Paul  Samson, De La Salle University
+
+Muthu  Selvam, University of North Carolina at Charlotte
+
+Manas  Srivastava, Google
+
+Alexa  Steinbrueck, Hochschule fur Gestaltung Schwabisch-Gmund
+
+Jayant  Tyagi, Salesforce
+
+Mukund Milind  Wagh, Amazon
+
+Greg  Walsh, University of Baltimore
+
+Justin  Weisz, IBM Research AI
+
+Priya  Yesare, Asurion
+
+
 
 # Organizers
 
