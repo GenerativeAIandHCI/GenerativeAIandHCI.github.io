@@ -69,6 +69,33 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 
 (to be announced)
 
+## Societal Implications
+<ul></ul>
+
+## Creativity - Abstract
+<ul></ul>
+
+## Creativity - Visual
+<ul></ul>
+
+## Role of AI
+<ul></ul>
+
+## Role of AI - Tool or Partner?
+<ul></ul>
+
+## Applications
+<ul></ul>
+
+## Applications - Education and Related
+<ul></ul>
+
+## Formal
+<ul></ul>
+
+## Title+Authors only
+<ul></ul>
+
 # Presentation and Attendence Details {#presentation}
 
 This **hybrid** workshop will involve participants at their own locations around the world and in the CHI conference venue in Yokohama.
@@ -158,84 +185,86 @@ Please send any comments or questions to Michael Muller, <michael_muller@us.ibm.
 Accepted papers will be presented in the workshop and authors can choose to publish their paper here on the workshop website under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 # Program Committee
-Mohit  Agrawal, Wealthfront
+<ul>
+ 
+<li>Mohit  Agrawal, Wealthfront
+ 
+<li>Tarun Eldho  Alias, Neem Inc
+ 
+<li>Andrew A Anderson, IBM Research
 
-Tarun Eldho  Alias, Neem Inc
+<li>Jaehoo  Bae, Seoul National University
 
-Andrew A Anderson, IBM Research
+<li>Minsik  Choi, The Australian National University
 
-Jaehoo  Bae, Seoul National University
+<li>Lorenzo  Corti, Delft University of Technology
 
-Minsik  Choi, The Australian National University
+<li>Jordan Aiko  Deja, De La Salle University
 
-Lorenzo  Corti, Delft University of Technology
+<li>Hyo Jin  Do, IBM Research
 
-Jordan Aiko  Deja, De La Salle University
+<li>Werner  Geyer, IBM Research
 
-Hyo Jin  Do, IBM Research
+<li>Shabnam  Hakimi, Toyota Research Institute
 
-Werner  Geyer, IBM Research
+<li>Jessica  He, IBM Research
 
-Shabnam  Hakimi, Toyota Research Institute
+<li>Michael  Hind, IBM Research
 
-Jessica  He, IBM Research
+<li>Jussi  Holopainen, City University of Hong Kong
 
-Michael  Hind, IBM Research
+<li>Balaji Shesharao  Ingole, Gainwell Technologies LLC
 
-Jussi  Holopainen, City University of Hong Kong
+<li>Anthony  Jameson, Contaction AG
 
-Balaji Shesharao  Ingole, Gainwell Technologies LLC
+<li>Bharath Kumar Reddy  Janumpally, Paypal
 
-Anthony  Jameson, Contaction AG
+<li>Anna-Kaisa  Kaila, KTH Royal Institute of Technology, Stockholm
 
-Bharath Kumar Reddy  Janumpally, Paypal
+<li>Anna   Kantosalo, University of Helsinki
 
-Anna-Kaisa  Kaila, KTH Royal Institute of Technology, Stockholm
+<li>Siya  Kunde, IBM Research
 
-Anna   Kantosalo, University of Helsinki
+<li>Manoj Varma  Lakhamraju, CVS Health
 
-Siya  Kunde, IBM Research
+<li>Ishaani  M, Independent
 
-Manoj Varma  Lakhamraju, CVS Health
+<li>Mary Lou  Maher, Univeristy of North Carolina
 
-Ishaani  M, Independent
+<li>Charles Patrick Martin, Australian National University
 
-Mary Lou  Maher, Univeristy of North Carolina
+<li>jacquelyn  martino, ibm
 
-Charles Patrick Martin, Australian National University
+<li>Abhinav  Mehta, Amazon.com Services LLC
 
-jacquelyn  martino, ibm
+<li>Mohit  Menghnani, Twilio
 
-Abhinav  Mehta, Amazon.com Services LLC
+<li>Michael  Muller, IBM
 
-Mohit  Menghnani, Twilio
+<li>Anusha  Musunuri, Snap Inc
 
-Michael  Muller, IBM
+<li>Viktoria  Pammer-Schindler, Graz University of Technology
 
-Anusha  Musunuri, Snap Inc
+<li>Isan  Sahoo, Oracle
 
-Viktoria  Pammer-Schindler, Graz University of Technology
+<li>Briane Paul  Samson, De La Salle University
 
-Isan  Sahoo, Oracle
+<li>Muthu  Selvam, University of North Carolina at Charlotte
 
-Briane Paul  Samson, De La Salle University
+<li>Manas  Srivastava, Google
 
-Muthu  Selvam, University of North Carolina at Charlotte
+<li>Alexa  Steinbrueck, Hochschule fur Gestaltung Schwabisch-Gmund
 
-Manas  Srivastava, Google
+<li>Jayant  Tyagi, Salesforce
 
-Alexa  Steinbrueck, Hochschule fur Gestaltung Schwabisch-Gmund
+<li>Mukund Milind  Wagh, Amazon
 
-Jayant  Tyagi, Salesforce
+<li>Greg  Walsh, University of Baltimore
 
-Mukund Milind  Wagh, Amazon
+<li>Justin  Weisz, IBM Research AI
 
-Greg  Walsh, University of Baltimore
-
-Justin  Weisz, IBM Research AI
-
-Priya  Yesare, Asurion
-
+<li>Priya  Yesare, Asurion
+</ul>
 
 
 # Organizers
