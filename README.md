@@ -67,34 +67,37 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 
 # Program {#program}
 
-(to be announced)
-
 ### Societal Implications
-<ul></ul>
+<ul>
+ <li>Lucas Anastasiou (The Open University): BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation </li>
+ <li>Anna Neumann (Research Center Trustworthy Data Science and Security), Jat Singh (Research Center Trustworthy Data Science and Security & University of Cambridge): Between Threat and Tool: When Users Are Asked To Design Their Competitors </li>
+ <li>René Schäfer (RWTH Aachen University), Sarah Sahabi (RWTH Aachen University) , Paul Preuschoff (RWTH Aachen University), Jan Borchers (RWTH Aachen University): Leveraging Digital Accessibility Using Generative AI</li>
+ <li>Caterina Maidhof (Universitat Polytecnica de Valencia), Elena del Val (VRAIN, Universitat Politècnica de València), Jose Such (King`s College London): Privacy Risks for Underaged User Groups in LLM-based Conversational Agent Interactions</li>
+</ul>
 
 ### Creativity - Abstract
-<ul></ul>
+<ul>(to be announced)</ul>
 
 ### Creativity - Visual
-<ul></ul>
+<ul>(to be announced)</ul>
 
 ### Role of AI
-<ul></ul>
+<ul>(to be announced)</ul>
 
 ### Role of AI - Tool or Partner?
-<ul></ul>
+<ul>(to be announced)</ul>
 
 ### Applications
-<ul></ul>
+<ul>(to be announced)</ul>
 
 ### Applications - Education and Related
-<ul></ul>
+<ul>(to be announced)</ul>
 
 ### Formal
-<ul></ul>
+<ul>(to be announced)</ul>
 
-### Title+Authors (without presentation)
-<ul></ul>
+### Title+Authors (without formal presentation)
+<ul>(to be announced)</ul>
 
 # Presentation and Attendence Details {#presentation}
 
