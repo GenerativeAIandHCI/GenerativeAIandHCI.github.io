@@ -94,36 +94,38 @@ Kazuki Kawamura (The University of Tokyo), Jun Rekimoto (SonyCSL): SakugaFlow: A
 Zifan Zhang (Cherry Technologies): Understanding Designers’ Perceptions of the Usefulness of Generative AI Tools in Creative Design Processes [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/36%20genai_creativity_chi25_workshop.pdf)
 
 ### Role of AI
-Auren Liu (Fluid Interfaces), Pattie Maes (Fluid Interfaces, MIT Media Lab): AI-Mediated Character Development to Explore Identity as an Intervention for Loneliness [[pdf]]()
+Auren Liu (Fluid Interfaces), Pattie Maes (Fluid Interfaces, MIT Media Lab): AI-Mediated Character Development to Explore Identity as an Intervention for Loneliness [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/40%20GenAICHI2025__Character_Developer.pdf)
 
-Long Ling (Tongji University): Brain Cache: Generative AI as a Cognitive Exoskeleton for Externalizing, Structuring, and Activating Knowledge [[pdf]]()
+Long Ling (Tongji University): Brain Cache: Generative AI as a Cognitive Exoskeleton for Externalizing, Structuring, and Activating Knowledge [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/51%20Brain%20Cache-%20Generative%20AI%20as%20a%20Cognitive%20Exoskeleton%20for%20Externalizing%2C%20Structuring%2C%20and%20Activating%20Knowledge%EF%BC%88non%EF%BC%89.pdf)
 
-Takuya Sera (NEC Corporation), Yusuke Hamano (NEC Corporation): ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents [[pdf]]()
+Takuya Sera (NEC Corporation), Yusuke Hamano (NEC Corporation): ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/07%20ChatNekoHacker_Submit_20250207.pdf)
 
 ### Role of AI - Tool or Partner?
-Ilya Zakharov (JetBrains), Ekaterina Koshchenko (JetBrains), Agnia Sergeyuk (JetBrains): From Teacher to Colleague: How Coding Experience Shapes Developer Perceptions of AI Tools [[pdf]]()
-Rendi Chevi (MBZUAI), Alham Aji (MBZUAI), Thamar Solorio (MBZUAI), Kentaro Inui (MBZUAI): How Individual Traits and Language Styles Shape Preferences In Open-ended User-LLM Interaction [[pdf]]()
-Jaehoo Bae (Seoul National University), Jane Lee (Seoul National University), Eunseo Ryu (Seoul National University), Honghua Lyu (Seoul National University), Dain Kim (Seoul National University), Myung Hwan Yun (Seoul National University): When Do Humans See AI as Humanlike? The Role of Perceived Performance in AI Anthropomorphism [[pdf]]()
+Ilya Zakharov (JetBrains), Ekaterina Koshchenko (JetBrains), Agnia Sergeyuk (JetBrains): From Teacher to Colleague: How Coding Experience Shapes Developer Perceptions of AI Tools [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/20%20GenAICHI___Roles_of_AI.pdf)
+
+Rendi Chevi (MBZUAI), Alham Aji (MBZUAI), Thamar Solorio (MBZUAI), Kentaro Inui (MBZUAI): How Individual Traits and Language Styles Shape Preferences In Open-ended User-LLM Interaction [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/39%20Style_Preference___GenAICHI_2025___v1_25.pdf)
+
+Jaehoo Bae (Seoul National University), Jane Lee (Seoul National University), Eunseo Ryu (Seoul National University), Honghua Lyu (Seoul National University), Dain Kim (Seoul National University), Myung Hwan Yun (Seoul National University): When Do Humans See AI as Humanlike? The Role of Perceived Performance in AI Anthropomorphism [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/42%20When%20Do%20Humans%20See%20AI%20as%20Humanlike%20The%20Role%20of%20Perceived%20Performance%20in%20AI%20Anthropomorphism.pdf)
 
 
 ### Applications
-Hirokazu Miyachi (Sekisuihouse Ltd), Naoko Yano (Sekisuihouse Ltd.), Momoyo Yadani (Sekisuihouse Ltd.), Yuya Hasegawa (Sekisuihouse Ltd.), Takahiro Suezawa (Sekisuihouse Ltd.), Akiko Taniguchi (Sekisuihouse Ltd.), Yumiko Ikeda (Sekisuihouse Ltd.), Issei Watanabe (Sekisuihouse Ltd.), Takahiro Yokoi (Sekisuihouse Ltd.), Yousuke Motohashi (NEC Corporation), Junichi Nakano (NEC Corporation ), Tomoki Tanaka (NEC Corporation), Miki Tanaka (NEC Corporation): A Case Study of the Development of a Sensitivity-Based Interactive House Design Assistance System Using Generative AI [[pdf]]()
+Hirokazu Miyachi (Sekisuihouse Ltd), Naoko Yano (Sekisuihouse Ltd.), Momoyo Yadani (Sekisuihouse Ltd.), Yuya Hasegawa (Sekisuihouse Ltd.), Takahiro Suezawa (Sekisuihouse Ltd.), Akiko Taniguchi (Sekisuihouse Ltd.), Yumiko Ikeda (Sekisuihouse Ltd.), Issei Watanabe (Sekisuihouse Ltd.), Takahiro Yokoi (Sekisuihouse Ltd.), Yousuke Motohashi (NEC Corporation), Junichi Nakano (NEC Corporation ), Tomoki Tanaka (NEC Corporation), Miki Tanaka (NEC Corporation): A Case Study of the Development of a Sensitivity-Based Interactive House Design Assistance System Using Generative AI [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/%2015%202025_GENAICHI_Interactive_House_Design_Assistance_System_v6.pdf)
 
-Rana Talukdar (Vellore Institute Of Technology, Bhopal), Bindupautra Jyotibrat (VIT Bhopal), Arunim Gogoi (VIT Bhopal), Ankur Jain (VIT Bhopal): A State-of-Art Survey on Generative AI Techniques for Floor Planning [[pdf]]()
+Rana Talukdar (Vellore Institute Of Technology, Bhopal), Bindupautra Jyotibrat (VIT Bhopal), Arunim Gogoi (VIT Bhopal), Ankur Jain (VIT Bhopal): A State-of-Art Survey on Generative AI Techniques for Floor Planning [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/06%20A_state_of_art_survey_on_generative_AI_techniques_for_floor_planning__1_%20(8).pdf)
 
-Sunil Sharma (Capital One): Leveraging Generative Adversarial Networks for Unsupervised Fraud Detection [[pdf]]()
+Sunil Sharma (Capital One): Leveraging Generative Adversarial Networks for Unsupervised Fraud Detection [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/23%20Leveraging_GAN_for_Unsupervised_Fraud_Detection.pdf)
 
 ### Applications - Education and Related
-]Roberto Theron (Universidad de Salamanca), Andrea Vázquez-Ingelmo (Universidad de Salamanca), Alicia García-Holgado (Universidad de Salamanca), Francisco José García-Peñalvo (Universidad de Salamanca), Nastaran Shoeibi (Universidad de Salamanca): A Technology-Mediated Approach to Addressing Reading Diversity in German Classrooms [[pdf]]()
+Roberto Theron (Universidad de Salamanca), Andrea Vázquez-Ingelmo (Universidad de Salamanca), Alicia García-Holgado (Universidad de Salamanca), Francisco José García-Peñalvo (Universidad de Salamanca), Nastaran Shoeibi (Universidad de Salamanca): A Technology-Mediated Approach to Addressing Reading Diversity in German Classrooms [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/41%20GENAICHI2025_Workshop__Expandora.pdf)
 
-Varshiga P S (M Kumarasamy College of Engineering), Selvi A (M Kumarasamy College of Engineering), Sarathi S (M Kumarasamy College of Engineering), Bharath Priyan S (M Kumarasamy College of Engineering): EduAcademia: A Comprehensive Integrated Platform for Enhanced Learning [[pdf]]()
+Varshiga P S (M Kumarasamy College of Engineering), Selvi A (M Kumarasamy College of Engineering), Sarathi S (M Kumarasamy College of Engineering), Bharath Priyan S (M Kumarasamy College of Engineering): EduAcademia: A Comprehensive Integrated Platform for Enhanced Learning [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/01%20EduAcademia-A%20Comprehensive%20Integrated%20Platform%20for%20Enhanced%20Learning.pdf)
 
-Valerie Chen (Carnegie Mellon University), Alan Zhu (Carnegie Mellon University), Sebastian Zhao (UC Berkeley), Hussein Mozannar (Microsoft Research), David Sontag (MIT), Ameet Talwalkar (Carnegie Mellon University): Need Help? Designing Proactive AI Assistants for Programming [[pdf]]()
+Valerie Chen (Carnegie Mellon University), Alan Zhu (Carnegie Mellon University), Sebastian Zhao (UC Berkeley), Hussein Mozannar (Microsoft Research), David Sontag (MIT), Ameet Talwalkar (Carnegie Mellon University): Need Help? Designing Proactive AI Assistants for Programming [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/30%20CHI_2025_Workshop__Proactive_chat_assistant.pdf)
 
-### Formal
-Mingyue Yuan (university of the new south wales): A Case Study of Scalable Content Annotation Using Multi-LLM Consensus and Human Review [[pdf]]()
+### Formal Approaches
+Mingyue Yuan (university of the new south wales): A Case Study of Scalable Content Annotation Using Multi-LLM Consensus and Human Review [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/28%20Labeldata_short__Copy_.pdf)
 
-Elakkiya Daivam (Capital One: Probabilistic Deep Learning for Energy Time Series Forecasting: A Comparative Study [[pdf]]()
+Elakkiya Daivam (Capital One: Probabilistic Deep Learning for Energy Time Series Forecasting: A Comparative Study [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/26%20Probabilistic%20Deep%20Learning.pdf)
 
 ### Title+Authors (without formal presentation)
 Dmitri Goldenberg (Booking.com), Yulia Goldenberg (Ben Gurion University): Agent Experience: Nielsen's Usability Heuristics Analysis for GenAI Agents [[pdf]]()
