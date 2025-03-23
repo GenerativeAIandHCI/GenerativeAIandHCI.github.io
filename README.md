@@ -68,12 +68,13 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 # Program {#program}
 
 ### Societal Implications
-<ul>
- <li>Lucas Anastasiou (The Open University): BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation [link](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/43%20GenAI___CHI2025%20(11).pdf)</li>
- <li>Anna Neumann (Research Center Trustworthy Data Science and Security), Jat Singh (Research Center Trustworthy Data Science and Security & University of Cambridge): Between Threat and Tool: When Users Are Asked To Design Their Competitors [link]</li>
- <li>René Schäfer (RWTH Aachen University), Sarah Sahabi (RWTH Aachen University) , Paul Preuschoff (RWTH Aachen University), Jan Borchers (RWTH Aachen University): Leveraging Digital Accessibility Using Generative AI [link]</li>
- <li>Caterina Maidhof (Universitat Polytecnica de Valencia), Elena del Val (VRAIN, Universitat Politècnica de València), Jose Such (King`s College London): Privacy Risks for Underaged User Groups in LLM-based Conversational Agent Interactions [link]</li>
-</ul>
+Lucas Anastasiou (The Open University): BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/43%20GenAI___CHI2025%20(11).pdf)</li>
+
+Anna Neumann (Research Center Trustworthy Data Science and Security), Jat Singh (Research Center Trustworthy Data Science and Security & University of Cambridge): Between Threat and Tool: When Users Are Asked To Design Their Competitors [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/44%20GENAICHI_2025_Position_Paper-8.pdf)
+
+René Schäfer (RWTH Aachen University), Sarah Sahabi (RWTH Aachen University) , Paul Preuschoff (RWTH Aachen University), Jan Borchers (RWTH Aachen University): Leveraging Digital Accessibility Using Generative AI [link]
+
+Caterina Maidhof (Universitat Polytecnica de Valencia), Elena del Val (VRAIN, Universitat Politècnica de València), Jose Such (King`s College London): Privacy Risks for Underaged User Groups in LLM-based Conversational Agent Interactions [link]
 
 ### Creativity - Abstract
 <ul>
