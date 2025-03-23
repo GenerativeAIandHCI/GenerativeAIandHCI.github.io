@@ -77,67 +77,74 @@ René Schäfer (RWTH Aachen University), Sarah Sahabi (RWTH Aachen University) ,
 Caterina Maidhof (Universitat Polytecnica de Valencia), Elena del Val (VRAIN, Universitat Politècnica de València), Jose Such (King`s College London): Privacy Risks for Underaged User Groups in LLM-based Conversational Agent Interactions [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/46%20GenAI_workshop_CHI_2025__Maidhof_etal_Privacy%20Risks%20for%20Underaged%20User%20Groups%20in%20LLM%20based%20Conversational%20Agent%20Interactions.pdf)
 
 ### Creativity - Abstract
-<ul>
- <li>Pauline Leininger (University of Television and Film Munich), Christoph Johannes Weber (University of Television and Film Munich): Democratizing Creative Participation and Collaboration in Virtual Film Productions with AI Visualizations [link]</li>
- <li>Meredith Young-Ng (University of California, Davis), Jingxian Liao (University of California, Davis), Qingxiaoyang Zhu (University of California, Davis), Hao-Chuan Wang (University of California, Davis): Designing Support for Human-AI Idea Selection: Human Agency and AI Autonomy [link]</li>
- <li>Atsuya Kobayashi (Sony Group Corporation), Masahiro Yoshida (Sony Group Corporation), Kazuki Kawamura (Sony Group Corporation), Kei Tateno (Sony Group Corporation): Designing the Interactive transition of Abstraction and Concretization in Creative Ideation: A Case Study on Lyric Composition [link]</li>
-</ul>
+Pauline Leininger (University of Television and Film Munich), Christoph Johannes Weber (University of Television and Film Munich): Democratizing Creative Participation and Collaboration in Virtual Film Productions with AI Visualizations [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/31%20Democratizing_Creative_Participation_in_VP___CHI25%20.pdf)
+
+Meredith Young-Ng (University of California, Davis), Jingxian Liao (University of California, Davis), Qingxiaoyang Zhu (University of California, Davis), Hao-Chuan Wang (University of California, Davis): Designing Support for Human-AI Idea Selection: Human Agency and AI Autonomy [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/48%20GenAICHI_2025_tracktracking_v1.pdf)
+
+Atsuya Kobayashi (Sony Group Corporation), Masahiro Yoshida (Sony Group Corporation), Kazuki Kawamura (Sony Group Corporation), Kei Tateno (Sony Group Corporation): Designing the Interactive transition of Abstraction and Concretization in Creative Ideation: A Case Study on Lyric Composition [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/10%20CHI2025_WS_GenAICHI__Designing_the_Interactive_transition_of_Abstraction_and_Concretization_in_Creative_Ideation__A_Case_Study_for_Lyrics_Composition.pdf)
 
 ### Creativity - Visual
-<ul>
- <li>DaEun Choi (KAIST), Kihoon Son (KAIST), HyunJoon Jung (Adobe), Juho Kim (KAIST): Expandora: Broadening Design Exploration with Text-to-Image Model [link]</li>
- <li>Yenkai Huang (Dartmouth College), Zheng Ning (University of Notre Dame), Yenkai Huang (Dartmouth College): LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators [link]</li>
- <li>Kazuki Kawamura (The University of Tokyo), Jun Rekimoto (SonyCSL): SakugaFlow: A Stagewise Illustration Framework Emulating the Human Drawing Process and Providing Interactive Tutoring for Novice Drawing Skills [link]</li>
- <li>Zifan Zhang (Cherry Technologies): Understanding Designers’ Perceptions of the Usefulness of Generative AI Tools in Creative Design Processes [link]</li>
-</ul>
+
+DaEun Choi (KAIST), Kihoon Son (KAIST), HyunJoon Jung (Adobe), Juho Kim (KAIST): Expandora: Broadening Design Exploration with Text-to-Image Model [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/41%20GENAICHI2025_Workshop__Expandora.pdf)
+
+Yenkai Huang (Dartmouth College), Zheng Ning (University of Notre Dame), Yenkai Huang (Dartmouth College): LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/17%20LACE___workshop__GenAICHI_%20(7).pdf)
+
+Kazuki Kawamura (The University of Tokyo), Jun Rekimoto (SonyCSL): SakugaFlow: A Stagewise Illustration Framework Emulating the Human Drawing Process and Providing Interactive Tutoring for Novice Drawing Skills [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/27%20GenAICHI2025.pdf)
+
+Zifan Zhang (Cherry Technologies): Understanding Designers’ Perceptions of the Usefulness of Generative AI Tools in Creative Design Processes [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/36%20genai_creativity_chi25_workshop.pdf)
 
 ### Role of AI
-<ul>
- <li>Auren Liu (Fluid Interfaces), Pattie Maes (Fluid Interfaces, MIT Media Lab): AI-Mediated Character Development to Explore Identity as an Intervention for Loneliness [link]</li>
- <li>Long Ling (Tongji University): Brain Cache: Generative AI as a Cognitive Exoskeleton for Externalizing, Structuring, and Activating Knowledge [link]</li>
- <li>Takuya Sera (NEC Corporation), Yusuke Hamano (NEC Corporation): ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents [link]</li>
-</ul>
+Auren Liu (Fluid Interfaces), Pattie Maes (Fluid Interfaces, MIT Media Lab): AI-Mediated Character Development to Explore Identity as an Intervention for Loneliness [[pdf]]()
+
+Long Ling (Tongji University): Brain Cache: Generative AI as a Cognitive Exoskeleton for Externalizing, Structuring, and Activating Knowledge [[pdf]]()
+
+Takuya Sera (NEC Corporation), Yusuke Hamano (NEC Corporation): ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents [[pdf]]()
 
 ### Role of AI - Tool or Partner?
-<ul>
- <li>Ilya Zakharov (JetBrains), Ekaterina Koshchenko (JetBrains), Agnia Sergeyuk (JetBrains): From Teacher to Colleague: How Coding Experience Shapes Developer Perceptions of AI Tools [link]</li>
- <li>Rendi Chevi (MBZUAI), Alham Aji (MBZUAI), Thamar Solorio (MBZUAI), Kentaro Inui (MBZUAI): How Individual Traits and Language Styles Shape Preferences In Open-ended User-LLM Interaction [link]</li>
- <li>Jaehoo Bae (Seoul National University), Jane Lee (Seoul National University), Eunseo Ryu (Seoul National University), Honghua Lyu (Seoul National University), Dain Kim (Seoul National University), Myung Hwan Yun (Seoul National University): When Do Humans See AI as Humanlike? The Role of Perceived Performance in AI Anthropomorphism [link]</li>
-</ul>
+Ilya Zakharov (JetBrains), Ekaterina Koshchenko (JetBrains), Agnia Sergeyuk (JetBrains): From Teacher to Colleague: How Coding Experience Shapes Developer Perceptions of AI Tools [[pdf]]()
+Rendi Chevi (MBZUAI), Alham Aji (MBZUAI), Thamar Solorio (MBZUAI), Kentaro Inui (MBZUAI): How Individual Traits and Language Styles Shape Preferences In Open-ended User-LLM Interaction [[pdf]]()
+Jaehoo Bae (Seoul National University), Jane Lee (Seoul National University), Eunseo Ryu (Seoul National University), Honghua Lyu (Seoul National University), Dain Kim (Seoul National University), Myung Hwan Yun (Seoul National University): When Do Humans See AI as Humanlike? The Role of Perceived Performance in AI Anthropomorphism [[pdf]]()
+
 
 ### Applications
-<ul>
- <li>Hirokazu Miyachi (Sekisuihouse Ltd), Naoko Yano (Sekisuihouse Ltd.), Momoyo Yadani (Sekisuihouse Ltd.), Yuya Hasegawa (Sekisuihouse Ltd.), Takahiro Suezawa (Sekisuihouse Ltd.), Akiko Taniguchi (Sekisuihouse Ltd.), Yumiko Ikeda (Sekisuihouse Ltd.), Issei Watanabe (Sekisuihouse Ltd.), Takahiro Yokoi (Sekisuihouse Ltd.), Yousuke Motohashi (NEC Corporation), Junichi Nakano (NEC Corporation ), Tomoki Tanaka (NEC Corporation), Miki Tanaka (NEC Corporation): A Case Study of the Development of a Sensitivity-Based Interactive House Design Assistance System Using Generative AI [link]</li>
- <li>Rana Talukdar (Vellore Institute Of Technology, Bhopal), Bindupautra Jyotibrat (VIT Bhopal), Arunim Gogoi (VIT Bhopal), Ankur Jain (VIT Bhopal): A State-of-Art Survey on Generative AI Techniques for Floor Planning [link]</li>
- <li>Sunil Sharma (Capital One): Leveraging Generative Adversarial Networks for Unsupervised Fraud Detection [link]</li>
-</ul>
+Hirokazu Miyachi (Sekisuihouse Ltd), Naoko Yano (Sekisuihouse Ltd.), Momoyo Yadani (Sekisuihouse Ltd.), Yuya Hasegawa (Sekisuihouse Ltd.), Takahiro Suezawa (Sekisuihouse Ltd.), Akiko Taniguchi (Sekisuihouse Ltd.), Yumiko Ikeda (Sekisuihouse Ltd.), Issei Watanabe (Sekisuihouse Ltd.), Takahiro Yokoi (Sekisuihouse Ltd.), Yousuke Motohashi (NEC Corporation), Junichi Nakano (NEC Corporation ), Tomoki Tanaka (NEC Corporation), Miki Tanaka (NEC Corporation): A Case Study of the Development of a Sensitivity-Based Interactive House Design Assistance System Using Generative AI [[pdf]]()
+
+Rana Talukdar (Vellore Institute Of Technology, Bhopal), Bindupautra Jyotibrat (VIT Bhopal), Arunim Gogoi (VIT Bhopal), Ankur Jain (VIT Bhopal): A State-of-Art Survey on Generative AI Techniques for Floor Planning [[pdf]]()
+
+Sunil Sharma (Capital One): Leveraging Generative Adversarial Networks for Unsupervised Fraud Detection [[pdf]]()
 
 ### Applications - Education and Related
-<ul>
- <li>Roberto Theron (Universidad de Salamanca), Andrea Vázquez-Ingelmo (Universidad de Salamanca), Alicia García-Holgado (Universidad de Salamanca), Francisco José García-Peñalvo (Universidad de Salamanca), Nastaran Shoeibi (Universidad de Salamanca): A Technology-Mediated Approach to Addressing Reading Diversity in German Classrooms [link]</li>
- <li>Varshiga P S (M Kumarasamy College of Engineering), Selvi A (M Kumarasamy College of Engineering), Sarathi S (M Kumarasamy College of Engineering), Bharath Priyan S (M Kumarasamy College of Engineering): EduAcademia: A Comprehensive Integrated Platform for Enhanced Learning [link]</li>
- <li>Valerie Chen (Carnegie Mellon University), Alan Zhu (Carnegie Mellon University), Sebastian Zhao (UC Berkeley), Hussein Mozannar (Microsoft Research), David Sontag (MIT), Ameet Talwalkar (Carnegie Mellon University): Need Help? Designing Proactive AI Assistants for Programming [link]</li>
-</ul>
+]Roberto Theron (Universidad de Salamanca), Andrea Vázquez-Ingelmo (Universidad de Salamanca), Alicia García-Holgado (Universidad de Salamanca), Francisco José García-Peñalvo (Universidad de Salamanca), Nastaran Shoeibi (Universidad de Salamanca): A Technology-Mediated Approach to Addressing Reading Diversity in German Classrooms [[pdf]]()
+
+Varshiga P S (M Kumarasamy College of Engineering), Selvi A (M Kumarasamy College of Engineering), Sarathi S (M Kumarasamy College of Engineering), Bharath Priyan S (M Kumarasamy College of Engineering): EduAcademia: A Comprehensive Integrated Platform for Enhanced Learning [[pdf]]()
+
+Valerie Chen (Carnegie Mellon University), Alan Zhu (Carnegie Mellon University), Sebastian Zhao (UC Berkeley), Hussein Mozannar (Microsoft Research), David Sontag (MIT), Ameet Talwalkar (Carnegie Mellon University): Need Help? Designing Proactive AI Assistants for Programming [[pdf]]()
 
 ### Formal
-<ul>
- <li>Mingyue Yuan (university of the new south wales): A Case Study of Scalable Content Annotation Using Multi-LLM Consensus and Human Review [link]</li>
- <li>Elakkiya Daivam (Capital One: Probabilistic Deep Learning for Energy Time Series Forecasting: A Comparative Study [link]</li>
-</ul>
+Mingyue Yuan (university of the new south wales): A Case Study of Scalable Content Annotation Using Multi-LLM Consensus and Human Review [[pdf]]()
+
+Elakkiya Daivam (Capital One: Probabilistic Deep Learning for Energy Time Series Forecasting: A Comparative Study [[pdf]]()
 
 ### Title+Authors (without formal presentation)
-<ul>
- <li>Dmitri Goldenberg (Booking.com), Yulia Goldenberg (Ben Gurion University): Agent Experience: Nielsen's Usability Heuristics Analysis for GenAI Agents [link]</li>
- <li>Farnaz Asrari (Indiana University), L. Jean Camp (Indiana University): AI-Enhanced Thematic Analysis of COVID-19 Impact: Combining Human Expertise with Generative AI [link]</li>
- <li>Naoko Hayashida (Fujitsu Limited: Beyond the Winding Path of Learning: Exploring Affective, Cognitive, and Action-Oriented Prompts for Communication Skills [link]</li>
- <li>Zhuoran Huang (Northeastern University): Designing an LLM AI-Powered Digital Storytelling Assistant for Inclusive and Authentic Health Narratives [link]</li>
- <li>Jenny Huang (University of Television and Film Munich), Fangli Lu (LMU Munich), Christoph Johannes Weber (University of Television and Film Munich, LMU Munich): Exploring User Preferences for Seamless Scene Text Translation in Video [link]</li>
- <li>Rayna Ney (ETH Zurich): Generative AI for Wellness Applications via User Generated Immersive Virtual Environments [link]</li>
- <li>Niklas Pfützenreuter (Universität Duisburg-Essen): Investigating Implicit Support for Image Generation Processes [link]</li>
- <li>Nicholas Wang (Stellar Learning Technologies): Leveraging Interactive Generative AI for Enhancing Intuitive Learning [link]</li>
- <li>Alexander Htet Kyaw (Massachusetts Institute of Technology), Miana Smith (Massachusetts Institute of Technology), Se Hwan Jeon (Massachusetts Institute of Technology), Neil Gershenfeld (Massachusetts Institute of Technology): Making Physical Objects with Generative AI and Robotic Assembly: Considering Fabrication Constraints, Sustainability, Time, Functionality and Accessibility [link]</li>
- <li>Bekzat Tilekbay (KAIST), Saetbyeol LeeYouk (Sogang University), Alex Suryapranata (KAIST), Saelyne Yang (KAIST), Juho Kim (KAIST): Supporting AI-assisted Task Learning with Hierarchical Representation of Procedural Knowledge [link]</li>
-</ul>
+Dmitri Goldenberg (Booking.com), Yulia Goldenberg (Ben Gurion University): Agent Experience: Nielsen's Usability Heuristics Analysis for GenAI Agents [[pdf]]()
+
+Farnaz Asrari (Indiana University), L. Jean Camp (Indiana University): AI-Enhanced Thematic Analysis of COVID-19 Impact: Combining Human Expertise with Generative AI [[pdf]]()
+
+Naoko Hayashida (Fujitsu Limited: Beyond the Winding Path of Learning: Exploring Affective, Cognitive, and Action-Oriented Prompts for Communication Skills [[pdf]]()
+
+Zhuoran Huang (Northeastern University): Designing an LLM AI-Powered Digital Storytelling Assistant for Inclusive and Authentic Health Narratives [[pdf]]()
+
+Jenny Huang (University of Television and Film Munich), Fangli Lu (LMU Munich), Christoph Johannes Weber (University of Television and Film Munich, LMU Munich): Exploring User Preferences for Seamless Scene Text Translation in Video [[pdf]]()
+
+Rayna Ney (ETH Zurich): Generative AI for Wellness Applications via User Generated Immersive Virtual Environments [[pdf]]()
+
+Niklas Pfützenreuter (Universität Duisburg-Essen): Investigating Implicit Support for Image Generation Processes [[pdf]]()
+
+Nicholas Wang (Stellar Learning Technologies): Leveraging Interactive Generative AI for Enhancing Intuitive Learning [[pdf]]()
+
+Alexander Htet Kyaw (Massachusetts Institute of Technology), Miana Smith (Massachusetts Institute of Technology), Se Hwan Jeon (Massachusetts Institute of Technology), Neil Gershenfeld (Massachusetts Institute of Technology): Making Physical Objects with Generative AI and Robotic Assembly: Considering Fabrication Constraints, Sustainability, Time, Functionality and Accessibility [[pdf]]()
+
+Bekzat Tilekbay (KAIST), Saetbyeol LeeYouk (Sogang University), Alex Suryapranata (KAIST), Saelyne Yang (KAIST), Juho Kim (KAIST): Supporting AI-assisted Task Learning with Hierarchical Representation of Procedural Knowledge [[pdf]]()
 
 # Presentation and Attendence Details {#presentation}
 
