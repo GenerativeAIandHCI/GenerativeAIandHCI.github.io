@@ -72,9 +72,9 @@ Lucas Anastasiou (The Open University): BCause: Human-AI collaboration to improv
 
 Anna Neumann (Research Center Trustworthy Data Science and Security), Jat Singh (Research Center Trustworthy Data Science and Security & University of Cambridge): Between Threat and Tool: When Users Are Asked To Design Their Competitors [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/44%20GENAICHI_2025_Position_Paper-8.pdf)
 
-René Schäfer (RWTH Aachen University), Sarah Sahabi (RWTH Aachen University) , Paul Preuschoff (RWTH Aachen University), Jan Borchers (RWTH Aachen University): Leveraging Digital Accessibility Using Generative AI [link]
+René Schäfer (RWTH Aachen University), Sarah Sahabi (RWTH Aachen University) , Paul Preuschoff (RWTH Aachen University), Jan Borchers (RWTH Aachen University): Leveraging Digital Accessibility Using Generative AI [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/49%202025_CHI_Position_Paper_GenAICHI.pdf)
 
-Caterina Maidhof (Universitat Polytecnica de Valencia), Elena del Val (VRAIN, Universitat Politècnica de València), Jose Such (King`s College London): Privacy Risks for Underaged User Groups in LLM-based Conversational Agent Interactions [link]
+Caterina Maidhof (Universitat Polytecnica de Valencia), Elena del Val (VRAIN, Universitat Politècnica de València), Jose Such (King`s College London): Privacy Risks for Underaged User Groups in LLM-based Conversational Agent Interactions [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/46%20GenAI_workshop_CHI_2025__Maidhof_etal_Privacy%20Risks%20for%20Underaged%20User%20Groups%20in%20LLM%20based%20Conversational%20Agent%20Interactions.pdf)
 
 ### Creativity - Abstract
 <ul>
