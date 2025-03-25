@@ -315,7 +315,7 @@ Accepted papers will be presented in the workshop and authors can choose to publ
 
 <li>Justin  Weisz, IBM Research AI
 
-<li>Priya  Yesare, Asurion
+<li>Priya  Yesare, Asurion</li>
 
 </ul>
 
