@@ -237,6 +237,7 @@ Please send any comments or questions to Michael Muller, <michael_muller@us.ibm.
 Accepted papers will be presented in the workshop and authors can choose to publish their paper here on the workshop website under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 # Program Committee
+
 <ul>
  
 <li>Mohit  Agrawal, Wealthfront</li>
@@ -285,7 +286,7 @@ Accepted papers will be presented in the workshop and authors can choose to publ
 
 <li>Charles Patrick Martin, Australian National University</li>
 
-<li>jacquelyn  martino, ibm</li>
+<li>Jacquelyn  Martino, IBM</li>
 
 <li>Abhinav  Mehta, Amazon.com Services LLC</li>
 
