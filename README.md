@@ -239,81 +239,81 @@ Accepted papers will be presented in the workshop and authors can choose to publ
 # Program Committee
 <ul>
  
-<li>Mohit  Agrawal, Wealthfront
+<li>Mohit  Agrawal, Wealthfront</li>
  
-<li>Tarun Eldho  Alias, Neem Inc
+<li>Tarun Eldho  Alias, Neem Inc</li>
  
-<li>Andrew A Anderson, IBM Research
+<li>Andrew A Anderson, IBM Research</li>
 
-<li>Jaehoo  Bae, Seoul National University
+<li>Jaehoo  Bae, Seoul National University</li>
 
-<li>Minsik  Choi, The Australian National University
+<li>Minsik  Choi, The Australian National University</li>
 
-<li>Lorenzo  Corti, Delft University of Technology
+<li>Lorenzo  Corti, Delft University of Technology</li>
 
-<li>Jordan Aiko  Deja, De La Salle University
+<li>Jordan Aiko  Deja, De La Salle University</li>
 
-<li>Hyo Jin  Do, IBM Research
+<li>Hyo Jin  Do, IBM Research</li>
 
-<li>Werner  Geyer, IBM Research
+<li>Werner  Geyer, IBM Research</li>
 
-<li>Shabnam  Hakimi, Toyota Research Institute
+<li>Shabnam  Hakimi, Toyota Research Institute</li>
 
-<li>Jessica  He, IBM Research
+<li>Jessica  He, IBM Research</li>
 
-<li>Michael  Hind, IBM Research
+<li>Michael  Hind, IBM Research</li>
 
-<li>Jussi  Holopainen, City University of Hong Kong
+<li>Jussi  Holopainen, City University of Hong Kong</li>
 
-<li>Balaji Shesharao  Ingole, Gainwell Technologies LLC
+<li>Balaji Shesharao  Ingole, Gainwell Technologies LLC</li>
 
-<li>Anthony  Jameson, Contaction AG
+<li>Anthony  Jameson, Contaction AG</li>
 
-<li>Bharath Kumar Reddy  Janumpally, Paypal
+<li>Bharath Kumar Reddy  Janumpally, Paypal</li>
 
-<li>Anna-Kaisa  Kaila, KTH Royal Institute of Technology, Stockholm
+<li>Anna-Kaisa  Kaila, KTH Royal Institute of Technology, Stockholm</li>
 
-<li>Anna   Kantosalo, University of Helsinki
+<li>Anna   Kantosalo, University of Helsinki</li>
 
-<li>Siya  Kunde, IBM Research
+<li>Siya  Kunde, IBM Research</li>
 
-<li>Manoj Varma  Lakhamraju, CVS Health
+<li>Manoj Varma  Lakhamraju, CVS Health</li>
 
-<li>Ishaani  M, Independent
+<li>Ishaani  M, Independent</li>
 
-<li>Mary Lou  Maher, Univeristy of North Carolina
+<li>Mary Lou  Maher, Univeristy of North Carolina</li>
 
-<li>Charles Patrick Martin, Australian National University
+<li>Charles Patrick Martin, Australian National University</li>
 
-<li>jacquelyn  martino, ibm
+<li>jacquelyn  martino, ibm</li>
 
-<li>Abhinav  Mehta, Amazon.com Services LLC
+<li>Abhinav  Mehta, Amazon.com Services LLC</li>
 
-<li>Mohit  Menghnani, Twilio
+<li>Mohit  Menghnani, Twilio</li>
 
-<li>Michael  Muller, IBM
+<li>Michael  Muller, IBM</li>
 
-<li>Anusha  Musunuri, Snap Inc
+<li>Anusha  Musunuri, Snap Inc</li>
 
-<li>Viktoria  Pammer-Schindler, Graz University of Technology
+<li>Viktoria  Pammer-Schindler, Graz University of Technology</li>
 
-<li>Isan  Sahoo, Oracle
+<li>Isan  Sahoo, Oracle</li>
 
-<li>Briane Paul  Samson, De La Salle University
+<li>Briane Paul  Samson, De La Salle University</li>
 
-<li>Muthu  Selvam, University of North Carolina at Charlotte
+<li>Muthu  Selvam, University of North Carolina at Charlotte</li>
 
-<li>Manas  Srivastava, Google
+<li>Manas  Srivastava, Google</li>
 
-<li>Alexa  Steinbrueck, Hochschule fur Gestaltung Schwabisch-Gmund
+<li>Alexa  Steinbrueck, Hochschule fur Gestaltung Schwabisch-Gmund</li>
 
-<li>Jayant  Tyagi, Salesforce
+<li>Jayant  Tyagi, Salesforce</li>
 
-<li>Mukund Milind  Wagh, Amazon
+<li>Mukund Milind  Wagh, Amazon</li>
 
-<li>Greg  Walsh, University of Baltimore
+<li>Greg  Walsh, University of Baltimore</li>
 
-<li>Justin  Weisz, IBM Research AI
+<li>Justin  Weisz, IBM Research AI</li>
 
 <li>Priya  Yesare, Asurion</li>
 
