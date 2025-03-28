@@ -64,7 +64,7 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 - [2022 Proceedings]({% link 2022.md %})
 - [2023 Proceedings]({% link 2023.md %})
 - [2024 Proceedings]({% link 2024.md %})
-
+\
 # Program {#program}
 
 ## Societal Implications
@@ -81,7 +81,7 @@ Pauline Leininger (University of Television and Film Munich), Christoph Johannes
 
 Meredith Young-Ng (University of California, Davis), Jingxian Liao (University of California, Davis), Qingxiaoyang Zhu (University of California, Davis), Hao-Chuan Wang (University of California, Davis): _Designing Support for Human-AI Idea Selection: Human Agency and AI Autonomy_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/48%20GenAICHI_2025_tracktracking_v1.pdf)
 
-Atsuya Kobayashi (Sony Group Corporation), Masahiro Yoshida (Sony Group Corporation), Kazuki Kawamura (Sony Group Corporation), Kei Tateno (Sony Group Corporation): _Designing the Interactive transition of Abstraction and Concretization in Creative Ideation: A Case Study on Lyric Composition_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/10%20CHI2025_WS_GenAICHI__Designing_the_Interactive_transition_of_Abstraction_and_Concretization_in_Creative_Ideation__A_Case_Study_for_Lyrics_Composition.pdf)
+Atsuya Kobayashi (Sony Group Corporation), Masahiro Yoshida (Sony Group Corporation), Kazuki Kawamura (Sony Group Corporation), Kei Tateno (Sony Group Corporation): _Designing the Interactive transition of Abstraction and Concretization in Creative Ideation: A Case Study on Lyric Composition_
 
 ## Creativity - Visual
 
