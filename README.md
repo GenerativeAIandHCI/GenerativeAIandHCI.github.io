@@ -91,7 +91,7 @@ Yenkai Huang (Dartmouth College), Zheng Ning (University of Notre Dame), Yenkai 
 
 Kazuki Kawamura (The University of Tokyo), Jun Rekimoto (SonyCSL): _SakugaFlow: A Stagewise Illustration Framework Emulating the Human Drawing Process and Providing Interactive Tutoring for Novice Drawing Skills_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/27%20GenAICHI2025.pdf)
 
-Zifan Zhang (Cherry Technologies): _Understanding Designers’ Perceptions of the Usefulness of Generative AI Tools in Creative Design Processes_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/36%20genai_creativity_chi25_workshop.pdf)
+Kay Jingyan Zeng (Splunk), Zifan Zhang (Cherry Technologies), Huiran Yi (University of Michigan), Lu Xian (University of Michigan): _Understanding Designers’ Perceptions of the Usefulness of Generative AI Tools in Creative Design Processes_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/36%20genai_creativity_chi25_workshop.pdf)
 
 ## Role of AI
 Auren Liu (Fluid Interfaces), Pattie Maes (Fluid Interfaces, MIT Media Lab): _AI-Mediated Character Development to Explore Identity as an Intervention for Loneliness_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/40%20GenAICHI2025__Character_Developer.pdf)
