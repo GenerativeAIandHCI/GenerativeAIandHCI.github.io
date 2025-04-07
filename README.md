@@ -65,7 +65,7 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 - [2023 Proceedings]({% link 2023.md %})
 - [2024 Proceedings]({% link 2024.md %})
 \
-# Program {#program}
+# Program 
 
 ## Societal Implications
 Lucas Anastasiou (The Open University): _BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/43%20GenAI___CHI2025%20(11).pdf)</li>
