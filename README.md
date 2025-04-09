@@ -138,7 +138,7 @@ Zhuoran Huang (Northeastern University): _Designing an LLM AI-Powered Digital St
 
 Jenny Huang (University of Television and Film Munich), Fangli Lu (LMU Munich), Christoph Johannes Weber (University of Television and Film Munich, LMU Munich): _Exploring User Preferences for Seamless Scene Text Translation in Video_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/35%20GenAICHI25.pdf)
 
-Rayna Ney (ETH Zurich): _Generative AI for Wellness Applications via User Generated Immersive Virtual Environments_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/50%20CHI_Workshop_W9__GENAICHI-2.pdf)
+Rayna Ney (ETH Zurich): _Generative AI for Wellness Applications via User Generated Immersive Virtual Environments_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/50%20CHI_Workshop_W9__GENAICHI_final.pdf)
 
 Niklas Pfützenreuter (Universität Duisburg-Essen): _Investigating Implicit Support for Image Generation Processes_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/08%20CHI_25_GenAI__Implicit_Input_for_GenAI.pdf)
 
