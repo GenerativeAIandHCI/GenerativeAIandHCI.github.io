@@ -55,7 +55,7 @@ a shift in methodology moving from expert systems based on patterns and heavy hu
 convincingly human-like results in various domains, and Large Language Models (LLMs) that can generate text, source code, and images from simple instructions (“prompts”).
 
 **Full-text of Workshop proposal** (GenAICHI 2025) 
-[GenAICHI](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/CHI_2025_GenAICHI_Workshop_for_Github.pdf)
+[GenAICHI]({% link proposal/CHI_2025_GenAICHI_Workshop_for_Github.pdf %})
 
 ## Past Workshop Proceedings
 
@@ -64,10 +64,11 @@ The Generative AI and HCI workshop has been running since 2022. Here you can fin
 - [2022 Proceedings]({% link 2022.md %})
 - [2023 Proceedings]({% link 2023.md %})
 - [2024 Proceedings]({% link 2024.md %})
-\
+
 # Program 
 
 ## Societal Implications
+
 Lucas Anastasiou (The Open University): _BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/43%20GenAI___CHI2025%20(11).pdf)</li>
 
 Anna Neumann (Research Center Trustworthy Data Science and Security), Jat Singh (Research Center Trustworthy Data Science and Security & University of Cambridge): _Between Threat and Tool: When Users Are Asked To Design Their Competitors_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/44%20GENAICHI_2025_Position_Paper-8.pdf)
