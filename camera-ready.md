@@ -23,11 +23,11 @@ This code is also available as an [example on Overleaf](https://www.overleaf.com
 ```
 %% Special GenAICHI Settings and Setup for ACM article template:
 \documentclass[manuscript,screen,nonacm]{acmart} % the settings here are important!
-\acmConference[]{} % need to include this to suppress addresses footer
+\setcopyright{cc} %% CC BY 4.0 license
+\acmConference[]{} %% this used to suppress the adresses footer, but not anymore apparently.
 
 
-\newcommand{\workshopname}{GenAICHI: CHI 2024 Workshop on Generative AI and HCI}
-\newcommand{\licensedetails}{Licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). Copyright remains with the author(s).}
+\newcommand{\workshopname}{GenAICHI: CHI 2025 Workshop on Generative AI and HCI}
 %%
 \newcommand\extrafootertext[1]{% this command adds a non-numbered footnote
     \bgroup
@@ -48,7 +48,6 @@ This code is also available as an [example on Overleaf](https://www.overleaf.com
     \fancyhead[R]{\sffamily\footnotesize\shortauthors}
     \fancyfoot[L]{\sffamily\footnotesize\workshopname}%
     \fancyfoot[C]{\sffamily\footnotesize\thepage}
-    \extrafootertext{\licensedetails}
 }
 %% End GenAICHI settings and setup
 
