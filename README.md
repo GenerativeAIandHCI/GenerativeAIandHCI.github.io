@@ -5,24 +5,8 @@ description: CHI Hybrid Workshop on Generative AI and HCI
 permalink: /
 ---
 
-<!---
-![](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)  
--->
-
-![](https://github.com/user-attachments/assets/71b8934e-0cd3-497f-945c-4bac8d086e72)
-
-
-<!---
-NO <img src=https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg" width="300" />
-NO ![](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
-NO ![http://url/to/img.png](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)
-
-[//]: # <figure>  
-[//]: #  <img src="(https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/images/2023-firefly.jpg)"  
-[//]: #  alt="A conference seminar involving an AI that does not simply categorize data and interpret text as determined by models, but instead creates something new—e.g., in images, molecules, or designs. This work moves the potential of AI systems from problem solving to problem finding, and it tends to change the “role” of the AI from decision-maker to human-supporter. The session is focussed on various aspects of generative AI and its interactions with humans, including new sociotechnical opportunities for work and recreation that are afforded by powerful new interfaces.">  
-[//]: #  <figcaption>Created with Adobe Firefly</figcaption>  
-[//]: # </figure>  
--->
+![]({% link images/2023-firefly.jpg %})
+<!-- NB this is the correct way to do images in a jekyll website which is what this is. -->
 
 # Outline
 
