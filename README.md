@@ -104,7 +104,7 @@ Morning tea break. Light refreshments will be provided at the venue.
 
 1. Auren Liu (Fluid Interfaces), Pattie Maes (Fluid Interfaces, MIT Media Lab): _AI-Mediated Character Development to Explore Identity as an Intervention for Loneliness_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/40%20GenAICHI2025__Character_Developer.pdf)
 2. Long Ling (Tongji University): _Brain Cache: Generative AI as a Cognitive Exoskeleton for Externalizing, Structuring, and Activating Knowledge_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/51%20Brain%20Cache-%20Generative%20AI%20as%20a%20Cognitive%20Exoskeleton%20for%20Externalizing%2C%20Structuring%2C%20and%20Activating%20Knowledge%EF%BC%88non%EF%BC%89.pdf)
-3. Takuya Sera (NEC Corporation), Yusuke Hamano (NEC Corporation): _ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/07%20ChatNekoHacker_Submit_20250207.pdf)
+3. Takuya Sera (NEC Corporation), Yusuke Hamano (NEC Corporation): _ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents_ [[arXiv]](https://www.arxiv.org/abs/2504.13793)
 
 ## General Discussion (12:10-12:40)
 
