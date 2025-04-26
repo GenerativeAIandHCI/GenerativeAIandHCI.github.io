@@ -78,7 +78,7 @@ Welcome and Introductions from the organisers.
 
 ## Session 1: Societal Implications (09:30--10:00)
 
-1. Lucas Anastasiou (The Open University): _BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/43%20GenAI___CHI2025%20(11).pdf)</li>
+1. Lucas Anastasiou (The Open University): _BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/43%20GenAI___CHI2025%20(11).pdf)
 2. Anna Neumann (Research Center Trustworthy Data Science and Security), Jat Singh (Research Center Trustworthy Data Science and Security & University of Cambridge): _Between Threat and Tool: When Users Are Asked To Design Their Competitors_ [[pdf]]({% link papers/2025/genaichi2025_44.pdf %})
 3. René Schäfer (RWTH Aachen University), Sarah Sahabi (RWTH Aachen University) , Paul Preuschoff (RWTH Aachen University), Jan Borchers (RWTH Aachen University): _Leveraging Digital Accessibility Using Generative AI_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/49%202025_CHI_Position_Paper_GenAICHI.pdf)
 4. Caterina Maidhof (Universitat Polytecnica de Valencia), Elena del Val (VRAIN, Universitat Politècnica de València), Jose Such (King`s College London): _Privacy Risks for Underaged User Groups in LLM-based Conversational Agent Interactions_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/46%20GenAI_workshop_CHI_2025__Maidhof_etal_Privacy%20Risks%20for%20Underaged%20User%20Groups%20in%20LLM%20based%20Conversational%20Agent%20Interactions.pdf)
@@ -136,7 +136,7 @@ Afternoon tea break. Light refreshments will be provided at the venue.
 
 ## Session 7: Applications - Education and Related  (16:20--16:50)
 
-1. Roberto Theron (Universidad de Salamanca), Andrea Vázquez-Ingelmo (Universidad de Salamanca), Alicia García-Holgado (Universidad de Salamanca), Francisco José García-Peñalvo (Universidad de Salamanca), Nastaran Shoeibi (Universidad de Salamanca): _A Technology-Mediated Approach to Addressing Reading Diversity in German Classrooms_ [[pdf]]({% link papers/2025/genaichi2025_11.pdf})
+1. Roberto Theron (Universidad de Salamanca), Andrea Vázquez-Ingelmo (Universidad de Salamanca), Alicia García-Holgado (Universidad de Salamanca), Francisco José García-Peñalvo (Universidad de Salamanca), Nastaran Shoeibi (Universidad de Salamanca): _A Technology-Mediated Approach to Addressing Reading Diversity in German Classrooms_ [[pdf]]({% link papers/2025/genaichi2025_11.pdf %})
 2. Varshiga P S (M Kumarasamy College of Engineering), Selvi A (M Kumarasamy College of Engineering), Sarathi S (M Kumarasamy College of Engineering), Bharath Priyan S (M Kumarasamy College of Engineering): _EduAcademia: A Comprehensive Integrated Platform for Enhanced Learning_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/01%20EduAcademia-A%20Comprehensive%20Integrated%20Platform%20for%20Enhanced%20Learning.pdf)
 3. Valerie Chen (Carnegie Mellon University), Alan Zhu (Carnegie Mellon University), Sebastian Zhao (UC Berkeley), Hussein Mozannar (Microsoft Research), David Sontag (MIT), Ameet Talwalkar (Carnegie Mellon University): _Need Help? Designing Proactive AI Assistants for Programming_ [[pdf]]({% link papers/2025/genaichi2025_30.pdf %})
 
@@ -156,9 +156,9 @@ Closing comments from the committee.
 - Naoko Hayashida (Fujitsu Limited): _Beyond the Winding Path of Learning: Exploring Affective, Cognitive, and Action-Oriented Prompts for Communication Skills_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/22%20GenAICHI2025-anonym20250214.pdf)
 - Zhuoran Huang (Northeastern University): _Designing an LLM AI-Powered Digital Storytelling Assistant for Inclusive and Authentic Health Narratives_ [[pdf]]({% link papers/2025/genaichi2025_19.pdf %})
 - Jenny Huang (University of Television and Film Munich), Fangli Lu (LMU Munich), Christoph Johannes Weber (University of Television and Film Munich, LMU Munich): _Exploring User Preferences for Seamless Scene Text Translation in Video_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/35%20GenAICHI25.pdf)
-- Rayna Ney (ETH Zurich): _Generative AI for Wellness Applications via User Generated Immersive Virtual Environments_ [[pdf]]({% link genaichi2025_50.pdf %})
-- Niklas Pfützenreuter (Universität Duisburg-Essen): _Investigating Implicit Support for Image Generation Processes_ [[pdf]]({% link papers/2025/genaichi2025_08.pdf %})
-- Nicholas Wang (Stellar Learning Technologies): _Leveraging Interactive Generative AI for Enhancing Intuitive Learning_ [[pdf]]({% link papers/2025/genaichi2025_08.pdf %})
+- Rayna Ney (ETH Zurich): _Generative AI for Wellness Applications via User Generated Immersive Virtual Environments_ [[pdf]]({% link papers/2025/genaichi2025_50.pdf %})
+- Niklas Pfützenreuter (Universität Duisburg-Essen): _Investigating Implicit Support for Image Generation Processes_ [[pdf]]({% link papers/2025/genaichi2025_8.pdf %})
+- Nicholas Wang (Stellar Learning Technologies): _Leveraging Interactive Generative AI for Enhancing Intuitive Learning_ [[pdf]]({% link papers/2025/genaichi2025_9.pdf %})
 - Alexander Htet Kyaw (Massachusetts Institute of Technology), Miana Smith (Massachusetts Institute of Technology), Se Hwan Jeon (Massachusetts Institute of Technology), Neil Gershenfeld (Massachusetts Institute of Technology): _Making Physical Objects with Generative AI and Robotic Assembly: Considering Fabrication Constraints, Sustainability, Time, Functionality and Accessibility_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/38%20GenAICHI_Workshop_Paper.pdf)
 - Bekzat Tilekbay (KAIST), Saetbyeol LeeYouk (Sogang University), Alex Suryapranata (KAIST), Saelyne Yang (KAIST), Juho Kim (KAIST): _Supporting AI-assisted Task Learning with Hierarchical Representation of Procedural Knowledge_ [[pdf]](https://github.com/GenerativeAIandHCI/GenerativeAIandHCI.github.io/blob/main/papers/2025/37%20CHI25%20Workshop%20Starlab%20(1).pdf)
 
@@ -223,88 +223,45 @@ Accepted papers will be presented in the workshop and authors can choose to publ
 
 # Program Committee
 
-<ul>
- 
-<li>Mohit  Agrawal, Wealthfront</li>
- 
-<li>Tarun Eldho  Alias, Neem Inc</li>
- 
-<li>Andrew A Anderson, IBM Research</li>
-
-<li>Jaehoo  Bae, Seoul National University</li>
-
-<li>Minsik  Choi, The Australian National University</li>
-
-<li>Lorenzo  Corti, Delft University of Technology</li>
-
-<li>Jordan Aiko  Deja, De La Salle University</li>
-
-<li>Hyo Jin  Do, IBM Research</li>
-
-<li>Werner  Geyer, IBM Research</li>
-
-<li>Shabnam  Hakimi, Toyota Research Institute</li>
-
-<li>Jessica  He, IBM Research</li>
-
-<li>Michael  Hind, IBM Research</li>
-
-<li>Jussi  Holopainen, City University of Hong Kong</li>
-
-<li>Balaji Shesharao  Ingole, Gainwell Technologies LLC</li>
-
-<li>Anthony  Jameson, Contaction AG</li>
-
-<li>Bharath Kumar Reddy  Janumpally, Paypal</li>
-
-<li>Anna-Kaisa  Kaila, KTH Royal Institute of Technology, Stockholm</li>
-
-<li>Anna   Kantosalo, University of Helsinki</li>
-
-<li>Siya  Kunde, IBM Research</li>
-
-<li>Manoj Varma  Lakhamraju, CVS Health</li>
-
-<li>Ishaani  M, Independent</li>
-
-<li>Mary Lou  Maher, Univeristy of North Carolina</li>
-
-<li>Charles Patrick Martin, Australian National University</li>
-
-<li>Jacquelyn  Martino, IBM</li>
-
-<li>Abhinav  Mehta, Amazon.com Services LLC</li>
-
-<li>Mohit  Menghnani, Twilio</li>
-
-<li>Michael  Muller, IBM</li>
-
-<li>Anusha  Musunuri, Snap Inc</li>
-
-<li>Viktoria  Pammer-Schindler, Graz University of Technology</li>
-
-<li>Isan  Sahoo, Oracle</li>
-
-<li>Briane Paul  Samson, De La Salle University</li>
-
-<li>Muthu  Selvam, University of North Carolina at Charlotte</li>
-
-<li>Manas  Srivastava, Google</li>
-
-<li>Alexa  Steinbrueck, Hochschule fur Gestaltung Schwabisch-Gmund</li>
-
-<li>Jayant  Tyagi, Salesforce</li>
-
-<li>Mukund Milind  Wagh, Amazon</li>
-
-<li>Greg  Walsh, University of Baltimore</li>
-
-<li>Justin  Weisz, IBM Research AI</li>
-
-<li>Priya  Yesare, Asurion</li>
-
-</ul>
-
+- Mohit  Agrawal, Wealthfront
+- Tarun Eldho  Alias, Neem Inc
+- Andrew A Anderson, IBM Research
+- Jaehoo  Bae, Seoul National University
+- Minsik  Choi, The Australian National University
+- Lorenzo  Corti, Delft University of Technology
+- Jordan Aiko  Deja, De La Salle University
+- Hyo Jin  Do, IBM Research
+- Werner  Geyer, IBM Research
+- Shabnam  Hakimi, Toyota Research Institute
+- Jessica  He, IBM Research
+- Michael  Hind, IBM Research
+- Jussi  Holopainen, City University of Hong Kong
+- Balaji Shesharao  Ingole, Gainwell Technologies LLC
+- Anthony  Jameson, Contaction AG
+- Bharath Kumar Reddy  Janumpally, Paypal
+- Anna-Kaisa  Kaila, KTH Royal Institute of Technology, Stockholm
+- Anna   Kantosalo, University of Helsinki
+- Siya  Kunde, IBM Research
+- Manoj Varma  Lakhamraju, CVS Health
+- Ishaani  M, Independent
+- Mary Lou  Maher, Univeristy of North Carolina
+- Charles Patrick Martin, Australian National University
+- Jacquelyn  Martino, IBM
+- Abhinav  Mehta, Amazon.com Services LLC
+- Mohit  Menghnani, Twilio
+- Michael  Muller, IBM
+- Anusha  Musunuri, Snap Inc
+- Viktoria  Pammer-Schindler, Graz University of Technology
+- Isan  Sahoo, Oracle
+- Briane Paul  Samson, De La Salle University
+- Muthu  Selvam, University of North Carolina at Charlotte
+- Manas  Srivastava, Google
+- Alexa  Steinbrueck, Hochschule fur Gestaltung Schwabisch-Gmund
+- Jayant  Tyagi, Salesforce
+- Mukund Milind  Wagh, Amazon
+- Greg  Walsh, University of Baltimore
+- Justin  Weisz, IBM Research AI
+- Priya  Yesare, Asurion
 
 # Organizers
 
