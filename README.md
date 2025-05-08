@@ -71,7 +71,7 @@ Welcome and Introductions from the organisers.
 ## Session 2: Creativity - Abstract (10:00--10:30)
 
 1. Pauline Leininger (University of Television and Film Munich), Christoph Johannes Weber (University of Television and Film Munich): _Democratizing Creative Participation and Collaboration in Virtual Film Productions with AI Visualizations_ [[pdf]]({% link papers/2025/genaichi2025_31.pdf %})
-2. Meredith Young-Ng (University of California, Davis), Jingxian Liao (University of California, Davis), Qingxiaoyang Zhu (University of California, Davis), Hao-Chuan Wang (University of California, Davis): _Designing Support for Human-AI Idea Selection: Human Agency and AI Autonomy_ [[pdf]]({% link papers/2025/48_GenAICHI_2025_tracktracking_v1.pdf %})
+2. Meredith Young-Ng (University of California, Davis), Jingxian Liao (University of California, Davis), Qingxiaoyang Zhu (University of California, Davis), Hao-Chuan Wang (University of California, Davis): _Designing Support for Human-AI Idea Selection: Human Agency and AI Autonomy_ [[pdf]]({% link papers/2025/genaichi2025_48.pdf %})
 3. Atsuya Kobayashi (Sony Group Corporation), Masahiro Yoshida (Sony Group Corporation), Kazuki Kawamura (Sony Group Corporation), Kei Tateno (Sony Group Corporation): _Designing the Interactive transition of Abstraction and Concretization in Creative Ideation: A Case Study on Lyric Composition_
 
 ## Break (10:30--11:10)
@@ -88,7 +88,7 @@ Morning tea break. Light refreshments will be provided at the venue.
 ## Session 4: Role of AI (11:40--12:10)
 
 1. Auren Liu (Fluid Interfaces), Pattie Maes (Fluid Interfaces, MIT Media Lab): _AI-Mediated Character Development to Explore Identity as an Intervention for Loneliness_ [[pdf]]({% link papers/2025/genaichi2025_40.pdf %})
-2. Long Ling (Tongji University): _Brain Cache: Generative AI as a Cognitive Exoskeleton for Externalizing, Structuring, and Activating Knowledge_ [[pdf]]({% link papers/2025/51_Brain_Cache.pdf %})
+2. Long Ling (Tongji University): _Brain Cache: Generative AI as a Cognitive Exoskeleton for Externalizing, Structuring, and Activating Knowledge_ [[pdf]]({% link papers/2025/genaichi2025_51.pdf %})
 3. Takuya Sera (NEC Corporation), Yusuke Hamano (NEC Corporation): _ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents_ [[arXiv]](https://www.arxiv.org/abs/2504.13793)
 
 ## General Discussion (12:10-12:40)
@@ -127,7 +127,7 @@ Afternoon tea break. Light refreshments will be provided at the venue.
 
 ## Session 8: Formal Approaches (16:50--17:20)
 
-1. Mingyue Yuan (university of the new south wales): _A Case Study of Scalable Content Annotation Using Multi-LLM Consensus and Human Review_ [[pdf]]({% link papers/2025/28_Labeldata_short__Copy_.pdf %})
+1. Mingyue Yuan (university of the new south wales): _A Case Study of Scalable Content Annotation Using Multi-LLM Consensus and Human Review_ [[pdf]]({% link papers/2025/genaichi2025_28.pdf %})
 2. Elakkiya Daivam (Capital One): _Probabilistic Deep Learning for Energy Time Series Forecasting: A Comparative Study_ [[pdf]]({% link papers/2025/26_Probabilistic_Deep_Learning.pdf %})
 
 ## Session 9: Closing (17:20-17:50)
@@ -144,7 +144,7 @@ Closing comments from the committee.
 - Rayna Ney (ETH Zurich): _Generative AI for Wellness Applications via User Generated Immersive Virtual Environments_ [[pdf]]({% link papers/2025/genaichi2025_50.pdf %})
 - Niklas Pfützenreuter (Universität Duisburg-Essen): _Investigating Implicit Support for Image Generation Processes_ [[pdf]]({% link papers/2025/genaichi2025_8.pdf %})
 - Nicholas Wang (Stellar Learning Technologies): _Leveraging Interactive Generative AI for Enhancing Intuitive Learning_ [[pdf]]({% link papers/2025/genaichi2025_9.pdf %})
-- Alexander Htet Kyaw (Massachusetts Institute of Technology), Miana Smith (Massachusetts Institute of Technology), Se Hwan Jeon (Massachusetts Institute of Technology), Neil Gershenfeld (Massachusetts Institute of Technology): _Making Physical Objects with Generative AI and Robotic Assembly: Considering Fabrication Constraints, Sustainability, Time, Functionality and Accessibility_ [[pdf]]({% link papers/2025/38_GenAICHI_Workshop_Paper.pdf %})
+- Alexander Htet Kyaw (Massachusetts Institute of Technology), Miana Smith (Massachusetts Institute of Technology), Se Hwan Jeon (Massachusetts Institute of Technology), Neil Gershenfeld (Massachusetts Institute of Technology): _Making Physical Objects with Generative AI and Robotic Assembly: Considering Fabrication Constraints, Sustainability, Time, Functionality and Accessibility_ [[pdf]]({% link papers/2025/genaichi2025_38.pdf %})
 - Bekzat Tilekbay (KAIST), Saetbyeol LeeYouk (Sogang University), Alex Suryapranata (KAIST), Saelyne Yang (KAIST), Juho Kim (KAIST): _Supporting AI-assisted Task Learning with Hierarchical Representation of Procedural Knowledge_ [[pdf]]({% link papers/2025/37_CHI25_Workshop_Starlab_(1).pdf %})
 
 # Presentation and Attendence Details {#presentation}
