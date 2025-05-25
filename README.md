@@ -66,7 +66,7 @@ Welcome and Introductions from the organisers.
 1. Lucas Anastasiou (The Open University): _BCause: Human-AI collaboration to improve hybrid mapping and ideation in argumentation-grounded deliberation_ [[pdf]]({% link papers/2025/43_submission.pdf %})
 2. Anna Neumann (Research Center Trustworthy Data Science and Security), Jat Singh (Research Center Trustworthy Data Science and Security & University of Cambridge): _Between Threat and Tool: When Users Are Asked To Design Their Competitors_ [[pdf]]({% link papers/2025/genaichi2025_44.pdf %})
 3. René Schäfer (RWTH Aachen University), Sarah Sahabi (RWTH Aachen University) , Paul Preuschoff (RWTH Aachen University), Jan Borchers (RWTH Aachen University): _Leveraging Digital Accessibility Using Generative AI_ [[pdf]]({% link papers/2025/49_2025_CHI_Position_Paper_GenAICHI.pdf %})
-4. Caterina Maidhof (Universitat Polytecnica de Valencia), Elena del Val (VRAIN, Universitat Politècnica de València), Jose Such (King`s College London): _Privacy Risks for Underaged User Groups in LLM-based Conversational Agent Interactions_ [[pdf]]({% link papers/2025/46_GenAI_workshop_CHI_2025__Maidhof_etal_Privacy_Risks_for_Underaged_User_Groups_in_LLM_based_Conversational_Agent_Interactions.pdf %})
+4. Caterina Maidhof (Universitat Polytecnica de Valencia), Elena del Val (VRAIN, Universitat Politècnica de València), Jose Such (King`s College London): _Privacy Risks for Underaged User Groups in LLM-based Conversational Agent Interactions_ [[pdf]]({% link papers/2025/genaichi2025_46.pdf %})
 
 ## Session 2: Creativity - Abstract (10:00--10:30)
 
